@@ -2,7 +2,7 @@
 Deutsch:
 Digitale Aufbereitung des Brahms-Grimm Briefwechsel (1912)
 
-Hier finden Sie sämtliche Dateien zur explorativen Studie "Digitale Aufbereitung analoger Briefeditionen am Beispiel des Brahms-Grimm-Briefwechsels". Der Versuch intendiert, eine (musikwissenschaftliche) Briefausgabe in ihrer analogen Druckfassung insofern digital aufzubereiten, dass die enthaltenen/edierten Briefe den heutigen Standards digitaler Briefeditionen entsprechen. Der Scan der Druckfassung wird per Transkribus ins XML-TEI-Format übertragen und bereinigt. Die einzelnen Schritte dieses Vorgangs sind als Dateien in diesem Repositorium zwischengespeichert. Die als beiliegende Ausarbeitung (pdf-Datei) fungiert als (Zwischen-) Forschungsbericht.
+Hier finden Sie sämtliche Dateien zur explorativen Studie "Digitale Aufbereitung analoger Briefeditionen am Beispiel des Brahms-Grimm-Briefwechsels". Der Versuch intendiert, eine (musikwissenschaftliche) Briefausgabe in ihrer analogen Druckfassung insofern digital aufzubereiten, dass die enthaltenen/edierten Briefe den heutigen Standards digitaler Briefeditionen entsprechen. Der Scan der Druckfassung wird per Transkribus ins XML-TEI-Format übertragen und bereinigt. Die einzelnen Schritte dieses Vorgangs sind als Dateien in diesem Repositorium zwischengespeichert. Die beiliegende Ausarbeitung (PDF-Datei) fungiert als (Zwischen-) Forschungsbericht.
 
 Fortsetzung folgt..
 
