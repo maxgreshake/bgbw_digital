@@ -4522,27 +4522,6 @@
 			<text type="letter" n="51">
 				<body>
 					<div>
-						<pb facs="#facs_100" n="100"/>
-						<opener>
-							<byline/>
-							<date/>
-							<settlement/>
-							<dateline/>
-							<salute/>
-						</opener>
-						<p/>
-						<closer>
-							<signed/>
-						</closer>
-						<postscript>
-							<p/>
-						</postscript>
-					</div>
-				</body>
-			</text>
-			<text type="letter" n="51">
-				<body>
-					<div>
 						<opener>
 							<byline>Johannes Brahms an J. O. Grimm</byline>
 							<date when="1858-12"/>
@@ -5869,605 +5848,1345 @@
 					</div>
 				</body>
 			</text>
-
-			<text>
+			<text type="letter" n="81">
 				<body>
 					<div>
-						<p>
-							<pb facs="#facs_139" n="139"/>. 126 * AAXI. Johannes Brahms an I. O.
-							Grimm. Poststempel Wien, 17. Dezember 75.) In Eile: Am 5. Februar könnte
-							ich mitmachen, nicht am 29. Januar. Mein Konzert könnte ich spielen, und
-							übriges, im Programm soll mir alles recht und lieb sein. Schreibe, doch
-							darüber. Sonstiges übriges kommt nicht in Frage, daß ich mich nur auf
-							meinen Besuch und etwas Musik freue. Mit besten Grüßen. Dein. I. Brahms.
-							LXXXII. I. O. Grimm an Johannes Brahms. Lieber Brahms Prächtig! Wir
-							freuen uns schrecklich. Aber sei ein bißchen wenn Du kommst. Wir
-							wollen's so gut machen, wie nett, wir können, aber besser können wir's
-							nicht. — Also 5. Februar Konzert, Proben am 3. und 4.— Dein Op. 15
-							tiesig angenehm! — Das übrige findet sich noch, verbunden mit den
-							nötigen Handgriffen. Gur grüßt, Richard grüßt. Dein. I. O. Grimm.
-							Münster, 19. Dez. 753. Von Holland aus schreibe noch, wann Du kommst.
-							LXXXIII. Johannes Brahms an I. O. Grimm. Schrieb ich Dir schon, daß ich
-							die Orchesterstimmen zu- meinem Konzert nicht habe? Du könntest sie
-							vielleicht vom <pb facs="#facs_140" n="140"/>. 127 Leipzig leihen, denn
-							von Holland kommen sie wohl für eine etwaige, recht wünschenswerte
-							Vorprobe zu spät. Die Par- titur ist gestochen. Vom 15. Januar ist meine
-							Adresse Ul- recht, Professor Dr. W. Engelmann. Mit bestem Gruß und
-							fröhliches neues Jahr wünschende Dein. I. Br. Am letzten Tage 75. Wien.)
-							D- AAXIV. Johannes Brahms an I. O. Grimm. Holland, im Januar 76. Lieber
-							Gr. Läßt Dein Publikum. sich das Programm gefallen, so kann es mir schon
-							recht- sein. Auch die starke Abwechse- lung zwischen Taktieren und
-							Spielen will ich riskieren. Muß- ich die Soli schon festsetzen? Dann
-							schreibe doch, ob ich einem sehr guten Flügel habe. Ich komme jedenfalls
-							den 2. Schreibe doch auch, wo ich absteigen soll! In Eile, ich muß in's
-							Konzert. Dein, I Br. Verhulst) schwärmt eben entzückt von Dir!" * *
-							LX.A. Johannes Brahms an I. O. Grimm. Poststempel Wien, 28. Dezember 77.
-							Am 10. Januar kommt eine neue Symphonie in Leipzig, zur Aufführung. Du
-							haft wohl nicht gerade Zeit und Lust, 1) Einer der bedeutendsten
-							holländischen Musiker und Komponisten. <pb facs="#facs_141" n="141"/>.
-							128 zu einer Reise, die nicht in das Land geht, wo die Zitronen, blühn?
-							Vom 1. ab bin ich dort, Humboldtstraße 24 bei Herzogenberg. Außer der
-							Freude, Dich zu sehen, und dabei zu haben — müßte es doch eigne Lust für
-							uns sein, einmal wieder in Reichels Garten zu spazieren und um ein
-							Denkmal- zu tanzen! Uberleg's einmal rasch und grüße einstweilen die
-							Deinen, wozu ja auch der Konzertmeister gehört. Herzlich Dein- I.
-							Brahms. Hotel Palmbaum in L. ist in meiner Nähe. LXXXVII. Johannes
-							Brahms an I. O. Grimm. Poststempel Leipzig, 4. 1. 78.) L. Gr. Es ist
-							sehr reizend von Dir und Deiner ersten, Geige, für Billette wird
-							gesorgt. Palmbaum-Hotel habe ich Dir wohl empfohlen?" Mittwoch 9 Uhr ist
+						<pb facs="#facs_139" n="139"/>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1875-12-17"/>
+							<settlement key="Wien"/>
+							<dateline>[Poststempel Wien, 17. Dezember 75.]</dateline>
+							<salute/>
+						</opener>
+						<p> In Eile: Am 5. Februar könnte ich mitmachen, nicht am 29. Januar. Mein
+							Konzert könnte ich spielen, und übriges im Programm soll mir alles recht
+							und lieb sein. Schreibe doch darüber. Sonstiges übriges kommt nicht in
+							Frage, daß ich mich nur auf meinen Besuch und etwas Musik freue. </p>
+						<closer> Mit besten Grüßen <lb/> Dein <signed>J. Brahms.</signed>
+						</closer>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="82">
+				<body>
+					<div>
+						<opener>
+							<byline>J. O. Grimm an Johannes Brahms</byline>
+							<date when="1875-12-19"/>
+							<settlement key="Münster"/>
+							<salute>Lieber Brahms!</salute>
+						</opener>
+						<p> Prächtig! Wir freuen uns schrecklich. Aber sei ein bißchen nett, wenn Du
+							kommst. Wir wollen's so gut machen, wie wir können, aber besser können
+							wir's nicht. — </p>
+						<p> Also 5. Februar Konzert, Proben am 3. und 4. — Dein Op. 15 riesig
+							angenehm! — Das übrige findet sich noch, verbunden mit den nötigen
+							Handgriffen. </p>
+						<closer> Gur grüßt, Richard grüßt. <lb/> Dein <signed>J. O. Grimm.</signed>
+							<dateline>Münster, 19. Dez. 75.</dateline>
+						</closer>
+						<postscript>
+							<p>Von Holland aus schreibe noch, wann Du kommst.</p>
+						</postscript>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="83">
+				<body>
+					<div>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1875-12-31"/>
+							<settlement key="Wien"/>
+							<salute/>
+						</opener>
+						<p> Schrieb ich Dir schon, daß ich die Orchesterstimmen zu meinem Konzert
+							nicht habe? Du könntest sie vielleicht von <pb facs="#facs_140" n="140"
+							/> Leipzig leihen, denn von Holland kommen sie wohl für eine etwaige,
+							recht wünschenswerte Vorprobe zu spät. Die Partitur ist gestochen. Vom
+							15. Januar ist meine Adresse Utrecht, Professor Dr. W. Engelmann. </p>
+						<closer> Mit bestem Gruß und fröhliches neues Jahr wünschend <lb/> Dein
+								<signed>Br.</signed>
+							<dateline>Am letzten Tage 75. [Wien.]</dateline>
+						</closer>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="84">
+				<body>
+					<div>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1876-01"/>
+							<settlement key="Holland"/>
+							<dateline>Holland, im Januar 76.</dateline>
+							<salute>Lieber Gr.</salute>
+						</opener>
+						<p> — Läßt Dein Publikum sich das Programm gefallen, so kann es mir schon
+							recht sein. Auch die starke Abwechselung zwischen Taktieren und Spielen
+							will ich riskieren. Muß ich die Soli schon festsetzen? Dann schreibe
+							doch, ob ich einem sehr guten Flügel habe. Ich komme jedenfalls den 2.
+							Schreibe doch auch, wo ich absteigen soll! In Eile, ich muß in's
+							Konzert.</p>
+						<closer> Dein <signed>J. Br.</signed>
+						</closer>
+						<postscript>
+							<p>Verhulst<note>Einer der bedeutendsten holländischen Musiker und
+									Komponisten</note> schwärmt eben entzückt von Dir!</p>
+						</postscript>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="85">
+				<body>
+					<div>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1877-12-28"/>
+							<settlement key="Wien"/>
+							<dateline>[Poststempel Wien, 28. Dezember 77.]</dateline>
+							<salute/>
+						</opener>
+						<p> Am 10. Januar kommt eine neue Symphonie in Leipzig zur Aufführung. Du
+							hast wohl nicht gerade Zeit und Lust, <pb facs="#facs_141" n="141"/> zu
+							einer Reise, die nicht in das Land geht, wo die Zitronen blühn? Vom 1.
+							ab bin ich dort, Humboldtstraße 24 bei Herzogenberg. Außer der Freude,
+							Dich zu sehen, und dabei zu haben — müßte es doch eigne Lust für uns
+							sein, einmal wieder in Reichels Garten </p>
+						<closer> Überleg's einmal rasch und grüße einstweilen die Deinen, wozu ja
+							auch der Konzertmeister gehört. <lb/> Herzlich Dein <signed>J.
+								Brahms.</signed>
+						</closer>
+						<postscript>
+							<p>Hotel Palmbaum in L. ist in meiner Nähe.</p>
+						</postscript>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="86">
+				<body>
+					<div>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1878-01-04"/>
+							<settlement key="Leipzig"/>
+							<dateline>[Poststempel Leipzig, 4. 1. 78.]</dateline>
+							<salute>L. Gr.</salute>
+						</opener>
+						<p> Es ist sehr reizend von Dir und Deiner ersten Geige, für Billette wird
+							gesorgt. Palmbaum-Hotel habe ich Dir wohl empfohlen? Mittwoch 9 Uhr ist
 							die letzte Probe. Erwarte nur nichts Besondres! Nichts als ein klein
-							unschul- diges Stück.) Herzlich Dein. J. B. — AXVII. Johannes Brahms an
-							I. O. Grimm. Poststempel Hamburg, 12. Januar 78.). L. Fr. Herzlich leid
-							war uns, Dich und Deine Viel- pr. zu entbehren. Die Symphonie soll am 6.
-							März (Ascher-- mittwoch) in Dresden verübt werden. Falls Du irgend Dich-
-							*) Es war die zweite Symphonie (D dur) für großes Orchester op. 73. <pb
-								facs="#facs_142" n="142"/> Brahms Briefwechsel. 129. gereizt fühlst,
-							so frage nur Wüllner?) um das Nähere und Bestimmtere. Efligst und
-							herzlichst Dein- J. B. — LXXVIII. Johannes Brahms an I. O. Grimm.
-							Poststempel Hamburg, 16. Januar 78. Am 4 Februar ist in Amsterdam die
-							neue Symphonie. M. Adresse ist vom 22. an Utrecht, Professor Engelmann,
-							Das ist nun aber der letzte von den Streichen, es wäre nett, wenn Du
-							einen mitmachtest! Allerseits schönen Gruß. J. B. LXXXIX. Johannes
-							Brahms an I. O. Grimm. Poststempel Amsterdam 4. Februar 78.). L. Gr. Ich
-							habe den 8. noch eine Aufführung der 2ten Nun schreibe mir doch, ob Euch
-							mein Besuch am 9. oder 10. nicht ganz ungelegen käme? Es drängt mich
-							zwar sehr nach Hause und zur Ruhe, aber ich werde der Versuchung doch
-							schwerlich widerstehen können, den Umweg über M. zu machen. Amsterdam,
-							Bracks Doeden-Hotel schreibe ein Wort, ob wir einen Abend gemütlich bei
-							Dir sein können.*) Herzliche Grüße Deines- I. Br. 1) Franz Willner, der
-							erzellente Musiker und Dirigent, damals in Dresden, danach in Köln a.
-							Rh. — *) Grimms Antworten auf Brahins- wiederholte Einladungen sind
-							verloren gegangen, was sich wohl damit er- klären läßt, daß Brahms immer
-							auf Reisen und allzusehr in Anspruch, genommen war. Brahms, Briefwechsel
-							Band IV. <pb facs="#facs_143" n="143"/> Brahms Briefwechsel. 130 X.
-							Johannes Brahms an I. O. Grimm. Poststempel Wien, 23. Januar 79.) L. Fr.
-							Bitte doch Henschel, mir auch für Op. 69 bis- 72 seinen Rat angedeihen
-							zu lassen! Ihr werdet wohl schöne musikalische Tage haben. Es ist
-							ärgerlich, daß man nicht dabei sein kann und daß ihr gar so schreibfaul
-							seid und man nicht ein Wort hört. Ist denn die kleine Darmstädterin")
-							auch da? Jedenfalls grüße ich alles, was in dem behaglichen Kreis sitzt,
-							aufs herzlichste — Frau Kiesekamp für den zierlichen Neujahrsgruß noch
-							besonders. Ganz Dein, I. Brahms- XII. Johannes Brahms an I. O. Grimm.
-							Poststempel Frankfurt a. M., 31. März 79.). L. Fr. Für alle Fälle und
-							namentlich, weil ich an- nehme, daß die stille Woche in Münster) scharf
-							gefeiert wird, melde ich Dir, daß ich Palmsonntag nach Bremen fahre und
-							dort bis Charsamstag bleibe, am Charfreitag auch ein Re- quiem und
-							Besseres aufführe. Vielleicht kämest Du gar?" Das wäre mir eine
-							herzliche Freude, und ich denke mir, Du, könntest sie mir gönnen und
-							schaffen. Uberleg's und komm! Herzlich und mit besten Grüßen, Dein I.
-							Brahms. *) Die treffliche Sängerin Auguste Hohenschild. <pb
-								facs="#facs_144" n="144"/>. 131 XIII. I. O. Grimm an Johannes
-							Brahms. Lieber Johannes! Ich danke furchtbar für Deine
-							Violinkonzertpartitur, es ist wundervoll, im Himmel geschrieben. Wir
-							schwärmen, und staunen, Barth kann die beiden ersten Sätze schon ganz
-							schlank und innig spielen, und am dritten mit seinem grausam- gewaltigen
-							Zug studiert er noch — die ersten beiden spielen, wir immer wieder noch
-							einmal. Nun freuen wir uns auf die Sonate. Bitte, lach uns nicht aus. —
-							Gestern haben wir Deine Op. 52 Liebeslieder mit kleinem Chor im Konzert,
-							— und Deine zweite Symphonie „auf einstimmigen Befehl des Vorstandes"
-							gemacht. Führt Dich den Winter Dein Weg- nicht in unsere Nähe, — kämest
-							Du denn doch auch etwas zu uns! — Wir haben Dich sämtlich wieder einmal
-							sehr lieb — und grüßen — nämlich meine vierhändige Gattin von gestern,
-							und die beiden ganz dummen Jungen Richard und Zur- Mühlen,*) — die
-							Kinder auch — Otto eben von Diphteritis, genesen. Dein Pate Johannes ist
-							augenblicklich Student der Pharmazie und Chemie in Göttingen. Lebe wohl!
-							Dein, I. O. Grimm. Münster, 26. Oktober 1879. Richard stöhnt über
-							„unsinnig weite Griffee" und infame Schwierigkeit. 1) Der Sänger
-							Raimmund von Zur-Mühlen, der zu jener Zeit in Münster lebte und auch
-							viel im Grimmschen Hause verkehrte, <pb facs="#facs_145" n="145"/>. 132
-							XIII. Johannes Brahms an I. O. Grimm. Poststempel Wien, 9. November 79.
-							L. Fr. Habe schönsten Dank für Deinen freundlichem Gruß. Wenn Du
-							wüßtest, wie einen solches freut, so sagtest, Du auch, ob die Sonate
-							dann genügt, um von „unsinnigen, und infamen Schwierigkeiten auszurnhen!
-							Im Januar komme ich in Eure Gegend und möchte mich, vor allem auf ein
-							paar gemütliche Tage bei Euch freuen. Hoffentlich sind sie mir gegönnt.
-							Einstweilen nur dies und herzlichste Grüße allerseits von Deinem I. Br.
-							XIV. I. O. Grimm an Johannes Brahms. Lieber Johannes! Bronsart) und
-							Frank*) haben beide abschläglich geant- wortet, das hannoversche Konzert
-							sei schon vom 17. auf 24. Januar verlegt und müsse nun so bleiben,
-							Sonntags- probe sei unmöglich. Wir sind hier sehr traurig darüber. Da
-							wir vertrag- gemäß nur die festgesetzten Sonnabende unser Orchester
-							sicher haben — ist ein Konzert am 26. Januar hier sehr zweifel- haft,
-							selbst wenn Du kommen wolltest. — Daß Du gekommen, bist, danken wir alle
-							herzlich. Richard ist glücklich, wie einer, der einen heraufgekommen
-							ist. — Meine Gattin munterst Du- stets auf, obgleich sies nicht nötig
-							hat; aber hübsch ist's doch, 1) Hans von Bronsart, Intendant der Königl.
-							Schauspiele in Hannover und E. Frank, Hofkapellmeister ebende. <pb
-								facs="#facs_146" n="146"/> 133 wenn sie noch lange nachher über Dich
-							vergnügt ist. Wir- alle grüßen Dich. Herzlich Dein, I. O. Grimm. Münster
-							i W., 11. Jan. 80. Sollten in Deinen Konzertfahrten Anderungen zu unsern
-							Gunsten eintreten, so melde es und komme zu uns zurück. Mimi!) grüßt. —
-							XIV I. O. Grimm an Johannes Brahms. Lieber Brahms! Die Zeitungen melden,
-							Du habest wegen eines im nassen, Grase Dir geholten Ohrenübels Ischl
-							verlassen und Dich- nach Wien begeben. Wenn ich der nächtlichen Gänge
-							1854. in Düsseldorf zum Grafenberge und im Hofgarten und noch 58 der
-							Nacht auf der Pleße gedenke, so beunruhigt mich's- allerdings, — Du
-							könntest Deiner Dauerhaftigkeit doch zu viel zugemutet haben. Gib doch
-							Nachricht, was dran ist. Auch meine Gattin ist besorgt um Dich und grüßt
-							herzlich. — Wenn Du doch in Wien weilst, bitte ich Dich noch um einen
-							großen Gefallen: Frau Schumann schreibt mir, Du seist im Besitz der
-							Originalhandschrift von Schumanns Dir gewidmeter Ouvertüre zur Braut von
-							Messina. — Ich habe die Revision derselben für Breitkopf i Härtels
-							Ausgabe übernommen und möchte selbstverständlich die vorhandene Ausgabe
-							mit der Originalhandschrift genau vergleichen. Wärest Du so gut, mir
-							dieselbe auf kurze Zeit anzuvertrauen. Ich verspreche sie wie meinen
-							Augapfel zu halten. — Du kennst mith ja wohl- 1) Marie Grimm, die
-							jüngste Tochter. <pb facs="#facs_147" n="147"/> Brahms Briefwechsel. 134
-							als einen ordentlichen gewissenhaften Menschen — bei einem
-							unersetzlichen Heiligtum werde ich erst recht sorgsam sein. Schreibe
-							mir, wohin ich das Manuskript zurücksenden soll. — Dit magst schuld
-							sein, daß wir hier einen schmerzlichen Verlust erleiden: Barth ist von
-							Bronsart für Hannover ge- wonnen worden. Wir lassen ihn zu seinem Heil
-							ziehen, aber beiderseits mit schwerem Herzen. Er ist ein zu guter Junge,
-							und zu guter Musiker. Jetzt ist er bei seinen Eltern in Schney. —
-							Herzliche Grüße von Weib und Kindern. — Möchte es Dir gut gehen. Dein
-							getreuer. I. O. Grimm. Münster, 14. Juli 1880, Langenstr. Nr. 1. — XVI.
-							Johannes Brahms an I. O. Grimm. Poststempel Ischl, 19. Juli 80.). Lieber
-							Freund, So eine Zeitungsnotiz hat doch gewaltige Wirkung daß sie Dich
-							gar zum Papier bringen kann! Und aufgesessen, bist Du, denn es war gar
-							nichts los als nach langem Regen- wetter ein wenig unschuldiges
-							Ohrensausen. Von einer nassen, Wiese weiß ich nichts! Die Ouvertüre zur
-							Braut von Mes- sina habe ich. Leider habe ich meine Handschriften nicht
-							wie- gewöhnlich den Sommer über einem Freund zur Bewahrung gegeben. Ich
-							kann sie Dir wirklich schwerlich suchen lassen. Die Sache hat wohl Zeit,
-							bis ich, spätestens zum Herbst, nach Wien zurückkomme? Durch Härtels laß
-							Dich nicht beun- ruhigen, die treiben immer, und selbst sind sie immer
-							langsam. Ich glaube nicht, daß Du im Manuskript etwas findest, aber <pb
-								facs="#facs_148" n="148"/> Brahms Briefwechsel. 135 da es einmal
-							vorhanden, so mußt Du es doch wohl abwarten- und anschauen. Daß Barth
-							Euch verläßt, empfinde ich so ernstlich, als ob ich selbst von was
-							Lieben scheiden sollte. Warum kann, dent der Mensch nicht wie ein Käfer
-							auf dem grünen Strauch- sitzen bleiben, wo ihm behaglich ist? Aber wer
-							weiß, ob's die Käfer drum besser haben, da wird vielleicht auch
-							gestrebt, Ich höre, Du gehst in die Gegend von Berchtesgaden. Laß mich
+							unschuldiges Stück!<note>Es war die zweite Symphonie (D dur) für großes
+								Orchester op. 73</note>
+						</p>
+						<closer> Herzlich Dein <signed>J. B.</signed>
+						</closer>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="87">
+				<body>
+					<div>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1878-01-12"/>
+							<settlement key="Hamburg"/>
+							<dateline>[Poststempel Hamburg, 12. Januar 78.]</dateline>
+							<salute>L. Fr.</salute>
+						</opener>
+						<p> Herzlich leid war uns, Dich und Deine Viol pr. zu entbehren. Die
+							Symphonie soll am 6. März (Aschermittwoch) in Dresden verübt werden.
+							Falls Du irgend Dich <pb facs="#facs_142" n="142"/> gereizt fühlst, so
+							frage nur Wüllner<note>Franz Wüllner, der exzellente Musiker und
+								Dirigent, damals in Dresden, danach in Köln a. Rh.</note> um das
+							Nähere und Bestimmtere. </p>
+						<closer> Eiligst und herzlichst Dein <signed>J. B.</signed>
+						</closer>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="88">
+				<body>
+					<div>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1878-01-16"/>
+							<settlement key="Hamburg"/>
+							<dateline>[Poststempel Hamburg, 16. Januar 78.]</dateline>
+							<salute/>
+						</opener>
+						<p> Am 4 Februar ist in Amsterdam die neue Symphonie. M. Adresse ist vom 22.
+							an Utrecht, Professor Engelmann. Das ist nun aber der letzte von den
+							Streichen, es wäre nett, wenn Du einen mitmachtest! </p>
+						<closer> Allerseits schönen Gruß <signed>J. B.</signed>
+						</closer>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="89">
+				<body>
+					<div>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1878-02-04"/>
+							<settlement key="Amsterdam"/>
+							<dateline>[Poststempel Amsterdam 4. Februar 78.]</dateline>
+							<salute>L. Gr.</salute>
+						</opener>
+						<p> Ich habe den 8. noch eine Aufführung der 2ten. Nun schreibe mir doch, ob
+							Euch mein Besuch am 9. oder 10. nicht ganz ungelegen käme? Es drängt
+							mich zwar sehr nach Hause und zur Ruhe, aber ich werde der Versuchung
+							doch schwerlich widerstehen können, den Umweg über M. zu machen.
+							Amsterdam, Bracks Doeden-Hotel schreibe ein Wort, ob wir einen Abend
+							gemütlich bei Dir sein können.<note>Grimms Antworten auf Brahms
+								wiederholte Einladungen sind verloren gegangen, was sich wohl damit
+								erklären läßt, daß Brahms immer auf Reisen und allzusehr in Anspruch
+								genommen war</note> — </p>
+						<closer> Herzliche Grüße Deines <signed>J. Br.</signed>
+						</closer>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="90">
+				<body>
+					<div>
+						<pb facs="#facs_143" n="143"/>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1879-01-23"/>
+							<settlement key="Wien"/>
+							<dateline>[Poststempel Wien, 23. Januar 79.]</dateline>
+							<salute>L. Fr.</salute>
+						</opener>
+						<p> Bitte doch Henschel, mir auch für Op. 69 bis 72 seinen Rat angedeihen zu
+							lassen! </p>
+						<p> Ihr werdet wohl schöne musikalische Tage haben. Es ist ärgerlich, daß
+							man nicht dabei sein kann und daß ihr gar so schreibfaul seid und man
+							nicht ein Wort hört. Ist denn die kleine Darmstädterin<note>Die
+								treffliche Sängerin Auguste Hohenschild</note> auch da? Jedenfalls
+							grüße ich alles, was in dem behaglichen Kreis sitzt, aufs herzlichste —
+							Frau Kiesekamp für den zierlichen Neujahrsgruß noch besonders. </p>
+						<closer> Ganz Dein <signed>J. Brahms.</signed>
+						</closer>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="91">
+				<body>
+					<div>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1879-03-31"/>
+							<settlement key="Frankfurt a. M."/>
+							<dateline>[Poststempel Frankfurt a. M., 31. März 79.]</dateline>
+							<salute>L. Fr.</salute>
+						</opener>
+						<p> Für alle Fälle und namentlich, weil ich annehme, daß die stille Woche in
+							M(ünster) scharf gefeiert wird, melde ich Dir, daß ich Palmsonntag nach
+							Bremen fahre und dort bis Charsamstag bleibe, am Charfreitag auch ein
+							Requiem und Besseres aufführe. Vielleicht kämest Du gar!? Das wäre mir
+							eine herzliche Freude, und ich denke mir, Du könntest sie mir gönnen und
+							schaffen. </p>
+						<p> Uberleg's und komm!</p>
+						<closer> Herzlich und mit besten Grüßen <signed>Dein J. Brahms.</signed>
+						</closer>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="92">
+				<body>
+					<div>
+						<pb facs="#facs_144" n="144"/>
+						<opener>
+							<byline>J. O. Grimm an Johannes Brahms</byline>
+							<date when="1879-10-26"/>
+							<settlement key="Münster"/>
+							<salute>Lieber Johannes!</salute>
+						</opener>
+						<p> Ich danke furchtbar für Deine Violinkonzertpartitur, — es ist
+							wundervoll, im Himmel geschrieben. Wir schwärmen und staunen, Barth kann
+							die beiden ersten Sätze schon ganz schlank und innig spielen, und am
+							dritten mit seinem grausam gewaltigen Zug studiert er noch — die ersten
+							beiden spielen wir immer wieder noch einmal. Nun freuen wir uns auf die
+							Sonate. Bitte, lach uns nicht aus. — Gestern haben wir Deine Op. 52
+							Liebeslieder mit kleinem Chor im Konzert, — und Deine zweite Symphonie
+							„auf einstimmigen Befehl des Vorstandes“ gemacht. Führt Dich den Winter
+							Dein Weg nicht in unsere Nähe, — kämest Du denn doch auch etwas zu uns!
+							— Wir haben Dich sämtlich wieder einmal sehr lieb — und grüßen — nämlich
+							meine vierhändige Gattin von gestern, und die beiden ganz dummen Jungen
+							Richard und Zur- Mühlen,<note>Der Sänger Raimund von Zur-Mühlen, der zu
+								jener Zeit in Münster lebte und auch viel im Grimmschen Hause
+								verkehrte</note> — die Kinder auch — Otto eben von Diphteritis
+							genesen. Dein Pate Johannes ist augenblicklich Student der Pharmazie und
+							Chemie in Göttingen. </p>
+						<closer> Lebe wohl! <lb/> Dein <signed>J. O. Grimm.</signed>
+							<dateline>Münster, 26. Oktober 1879.</dateline>
+						</closer>
+						<postscript>
+							<p> Richard stöhnt über „unsinnig weite Griffe“ und infame
+								Schwierigkeit.</p>
+						</postscript>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="93">
+				<body>
+					<div>
+						<pb facs="#facs_145" n="145"/>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1879-11-09"/>
+							<settlement key="Wien"/>
+							<dateline>[Poststempel Wien, 9. November 79.]</dateline>
+							<salute>L. Fr.</salute>
+						</opener>
+						<p> Habe schönsten Dank für Deinen freundlichem Gruß. Wenn Du wüßtest, wie
+							einen solches freut, so sagtest Du auch, ob die Sonate dann genügt, um
+							von „unsinnigen und infamen Schwierigkeiten“ auszurufen! </p>
+						<p> Im Januar komme ich in Eure Gegend und möchte mich vor allem auf ein
+							paar gemütliche Tage bei Euch freuen. Hoffentlich sind sie mir gegönnt. </p>
+						<closer> Einstweilen nur dies und herzlichste Grüße allerseits von Deinem
+								<signed>J. Br.</signed>
+						</closer>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="94">
+				<body>
+					<div>
+						<opener>
+							<byline>J. O. Grimm an Johannes Brahms</byline>
+							<date when="1880-01-11"/>
+							<settlement key="Münster"/>
+							<salute>Lieber Johannes!</salute>
+						</opener>
+						<p>Bronsart und Frank<note>Hans von Bronsart, Intendant der Königl.
+								Schauspiele in Hannover und E. Frank, Hofkapellmeister ebenda</note>
+							haben beide abschläglich geantwortet, das hannoversche Konzert sei schon
+							vom 17. auf 24. Januar verlegt und müsse nun so bleiben, Sonntags probe
+							sei unmöglich. — </p>
+						<p> Wir sind hier sehr traurig darüber. Da wir vertraggemäß nur die
+							festgesetzten Sonnabende unser Orchester sicher haben, — ist ein Konzert
+							am 26. Januar hier sehr zweifelhaft, selbst wenn Du kommen wolltest. —
+							Daß Du gekommen bist, danken wir alle herzlich. Richard ist glücklich,
+							wie einer, der einen heraufgekommen ist. — Meine Gattin munterst Du
+							stets auf, obgleich sie's nicht nötig hat; aber hübsch ist's doch, <pb
+								facs="#facs_146" n="146"/> wenn sie noch lange nachher über Dich
+							vergnügt ist. — </p>
+						<closer> Wir alle grüßen Dich <lb/> Herzlich Dein <signed>J. O.
+								Grimm.</signed>
+							<dateline>Münster i. W., 11. Jan. 80.</dateline>
+						</closer>
+						<postscript>
+							<p> Sollten in Deinen Konzertfahrten Änderungen zu unsern Gunsten
+								eintreten, so melde es und komme zu uns zurück. Mimi<note>Marie
+									Grimm, die jüngste Tochter</note> grüßt. —</p>
+						</postscript>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="95">
+				<body>
+					<div>
+						<opener>
+							<byline>J. O. Grimm an Johannes Brahms</byline>
+							<date when="1880-07-14"/>
+							<settlement key="Münster"/>
+							<salute>Lieber Brahms!</salute>
+						</opener>
+						<p> Die Zeitungen melden, Du habest wegen eines im nassen Grase Dir geholten
+							Ohrenübels Ischl verlassen und Dich nach Wien begeben. Wenn ich der
+							nächtlichen Gänge 1854 in Düsseldorf zum Grafenberge und im Hofgarten
+							und noch 58 der Nacht auf der Pleße gedenke, so beunruhigt mich's
+							allerdings, — Du könntest Deiner Dauerhaftigkeit doch zu viel zugemutet
+							haben. Gib doch Nachricht, was dran ist. Auch meine Gattin ist besorgt
+							um Dich und grüßt herzlich. — Wenn Du doch in Wien weilst, bitte ich
+							Dich noch um einen großen Gefallen: Frau Schumann schreibt mir, Du seist
+							im Besitz der Originalhandschrift von Schumanns Dir gewidmeter Ouvertüre
+							zur Braut von Messina. — Ich habe die Revision derselben für Breitkopf
+							&amp; Härtels Ausgabe übernommen und möchte selbstverständlich die
+							vorhandene Ausgabe mit der Originalhandschrift genau vergleichen. Wärest
+							Du so gut, mir dieselbe auf kurze Zeit anzuvertrauen. Ich verspreche sie
+							wie meinen Augapfel zu halten. — Du kennst mith ja wohl <pb
+								facs="#facs_147" n="147"/> als einen ordentlichen gewissenhaften
+							Menschen — bei einem unersetzlichen Heiligtum werde ich erst recht
+							sorgsam sein. — Schreibe mir, wohin ich das Manuskript zurücksenden
+							soll. — </p>
+						<p> Du magst schuld sein, daß wir hier einen schmerzlichen Verlust erleiden:
+							Barth ist von Bronsart für Hannover gewonnen worden. Wir lassen ihn zu
+							seinem Heil ziehen, aber beiderseits mit schwerem Herzen. Er ist ein zu
+							guter Junge und zu guter Musiker. Jetzt ist er bei seinen Eltern in
+							Schney. — </p>
+						<closer> Herzliche Grüße von Weib und Kindern. — Möchte es Dir gut gehen.
+							<lb/> Dein getreuer <signed>J. O. Grimm.</signed>
+							<dateline>Münster, 14. Juli 1880, Langenstr. Nr. 1.</dateline>
+						</closer>
+						<postscript>
+							<p/>
+						</postscript>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="96">
+				<body>
+					<div>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1880-07-19"/>
+							<settlement key="Ischl"/>
+							<dateline>[Poststempel Ischl, 19. Juli 80.]</dateline>
+							<salute>Lieber Freund,</salute>
+						</opener>
+						<p> So eine Zeitungsnotiz hat doch gewaltige Wirkung daß sie Dich gar zum
+							Papier bringen kann! Und aufgesessen bist Du, denn es war gar nichts los
+							als nach langem Regenwetter ein wenig unschuldiges Ohrensausen. Von
+							einer nassen Wiese weiß ich nichts! Die Ouvertüre zur Braut von Messina
+							habe ich. Leider habe ich meine Handschriften nicht wie gewöhnlich den
+							Sommer über einem Freund zur Bewahrung gegeben. Ich kann sie Dir
+							wirklich schwerlich suchen lassen. Die Sache hat wohl Zeit, bis ich
+							spätestens zum Herbst, nach Wien zurückkomme? Durch Härtels laß Dich
+							nicht beunruhigen, die treiben immer, und selbst sind sie immer langsam.
+							Ich glaube nicht, daß Du im Manuskript etwas findest, aber <pb
+								facs="#facs_148" n="148"/> da es einmal vorhanden, so mußt Du es
+							doch wohl abwarten und anschauen. </p>
+						<p> Daß Barth Euch verläßt, empfinde ich so ernstlich, als ob ich selbst von
+							was Lieben scheiden sollte. Warum kann denn der Mensch nicht wie ein
+							Käfer auf dem grünen Strauch sitzen bleiben, wo ihm behaglich ist? Aber
+							wer weiß, ob's die Käfer drum besser haben, da wird vielleicht auch
+							gestrebt. Ich höre, Du gehst in die Gegend von Berchtesgaden. Laß mich
 							doch Genaueres wissen, vielleicht sehen wir uns. Warum geht Ihr nicht
-							nach Osterreich?! Mit herzlichen Grüßen an alle Dein I. Brahms. Ischl,
-							Salzkammergut, (Salzburgerstr. 51.) XVII. I. O. Grimm an Johannes
-							Brahms. Lieber Johannes! Möchtest Du mir wohl jetzt Dein Schumanns-Man-
-							skript der Braut von Messina-Ouvertüre anvertrauen? Ich werde es seiner
-							Einzigkeit gemäß hüten und Dir gleich nach erfolgter Revision
-							zurücksenden. Noch sind wir berauscht von unserm Cäzilienfest. Sonn- tag
-							und Montag — Neunte, Sängers Fluch — Alexanders, Fest und Dein
-							Biolinkonzert, von Joachim gewaltig schön- gespielt, nebst Ungarischen
-							und seiner ungarischen Romanze, Dein Konzert ist zu herrlich, — auch die
-							Sonate und die neuen Ungarischen,*) die wir hier in voller Luft und Be-
-							strickung immer wieder spielen. — Wann kommen endlich- 1) Ungarische
-							Tänze III. und IV. Heft in der Bearbeitung für Violine und Klavier von
-							J. Joachim. <pb facs="#facs_149" n="149"/>. 136 Deine Ouvertüren und
-							Tries? — Und wann kommst Du- selbst? Würdest Du auch mit unserm
-							Orchester wieder- musizieren wollen? — Joachim fand letzteres
-							vorgeschritten, und war zufrieden mit seiner Begleitung. Wie wir uns
-							freuen würden, weißt Du, und wie wir Dich grausam ver- ehren und
-							widerstandslos liebhaben. — Verrate mir doch, um welche Zeit Du nach
-							Norddeutschland kommst und ob- Du willst? — Dann werde ich mich bemühen,
-							mit einem passenden Datum unterzukriechen. — Gur war sehr
-							lebensgefährlich krank — im Halse am Ersticken. Jetzt geht's ihr wieder
-							gut. Sie grüßt nebst allen Kindern und Richard und Raimund. Recht von
-							Herzen. Dein. I. O. Grimm. Münster, Westfalen, 18. November 80. XVIII.
-							Johannes Brahms an I. O. Grimm. Poststempel Wien, 26. November 80.). L.
-							G. Ich mache Dich aufmerksam, daß Härtels immer, allerlei Dummheiten
+							nach Österreich?! </p>
+						<closer> Mit herzlichen Grüßen an alle <signed>Dein J. Brahms.</signed>
+						</closer>
+						<postscript>
+							<p>Ischl, Salzkammergut, (Salzburgerstr. 51.)</p>
+						</postscript>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="97">
+				<body>
+					<div>
+						<opener>
+							<byline>J. O. Grimm an Johannes Brahms</byline>
+							<date when="1880-11-18"/>
+							<settlement key="Münster"/>
+							<salute>Lieber Johannes!</salute>
+						</opener>
+						<p> Möchtest Du mir wohl jetzt Dein Schumanns-Manuskript der Braut von
+							Messina-Ouvertüre anvertrauen? Ich werde es seiner Einzigkeit gemäß
+							hüten und Dir gleich nach erfolgter Revision zurücksenden. </p>
+						<p> Noch sind wir berauscht von unserm Cäzilienfest. Sonntag und Montag —
+							Neunte, Sängers Fluch — Alexanders Fest und Dein Violinkonzert, von
+							Joachim gewaltig schön gespielt, nebst Ungarischen und seiner
+							ungarischen Romanze, Dein Konzert ist zu herrlich, — auch die Sonate und
+							die neuen Ungarischen,<note>Ungarische Tänze III. und IV. Heft in der
+								Bearbeitung für Violine und Klavier von J. Joachim</note> die wir
+							hier in voller Luft und Bestrickung immer wieder spielen. — Wann kommen
+							endlich <pb facs="#facs_149" n="149"/> Deine Ouvertüren und Trios? — Und
+							wann kommst Du selbst? Würdest Du auch mit unserm Orchester wieder
+							musizieren wollen? — Joachim fand letzteres vorgeschritten und war
+							zufrieden mit seiner Begleitung. Wie wir uns freuen würden, weißt Du,
+							und wie wir Dich grausam verehren und widerstandslos liebhaben. —
+							Verrate mir doch, um welche Zeit Du nach Norddeutschland kommst und ob
+							Du willst? — Dann werde ich mich bemühen, mit einem passenden Datum
+							unterzukriechen. </p>
+						<p> — Gur war sehr lebensgefährlich krank — im Halse am Ersticken. Jetzt
+							geht's ihr wieder gut. Sie grüßt nebst allen Kindern und Richard und
+							Raimund. </p>
+						<closer> Recht von Herzen <lb/> Dein <signed>J. O. Grimm.</signed>
+							<dateline>Münster, Westfalen, 18. November 80.</dateline>
+						</closer>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="98">
+				<body>
+					<div>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1880-11-26"/>
+							<settlement key="Wien"/>
+							<dateline>[Poststempel Wien, 26. November 80.]</dateline>
+							<salute>L. G.</salute>
+						</opener>
+						<p> Ich mache Dich aufmerksam, daß Härtels immer allerlei Dummheiten
 							einzuführen versuchen. Die Noten der Hörner und Trompeten müssen immer
-							nach oben und unten- geschwänzt werden, andere Instrumente: wenn sie
+							nach oben und unten geschwänzt werden, andere Instrumente: wenn sie
 							geteilt usw. oft Buchstaben, usw. usw. gehört dreimal auf die Seite,
-							nament- lich aber zur ersten Bioline. Mir fällt nicht gleich alles ein,
-							ich ärgere mich nur grade wieder über einige hergerichtete Partituren.
-							Die Braut- ist heute abgegangen. Dein I. Br. <pb facs="#facs_150"
-								n="150"/>. 137 XIX. Johannes Brahms an I. O. Grimm. Wien, im
-							Dezember 80. Lieber Freund, Ich komme im Januar nach Deutschland und
-							habe mir immer gedacht, daß ich einen Abend in Münster sein müßte. Wollt
-							Ihr dazu Musik machen, um so besser, denn es werden, der Abende dann
-							mehr. Am 25. ist in Krefeld Konzert, könnte bei Euch etwa den 20ten eins
-							sein? Aber ist Barth denn eigentlich noch dort: Dein Papier ist immer
-							gar so klein ich suchte vergebens bet mir ein so zierliches Format!
-							Welch eine Art Programm wollen wir denn verüben, wenn es sich mit einem
-							Konzert machen sollte? Hoffentliche kann ich auch eine oder zwei
-							Ouvertüren hören lassen? Für heute nur schönsten Gruß, laß hören und
-							recht viel und hoffentlich auf Wiedersehen. Von Herzen. Dein. I. Br. Die
-							gewünschte Braut kommt alsogleich. I. O. Grimm an Johannes Brahms.
-							Lieber Johannes! Endlich hat mein Vorstand, der in den letzten Wochen
-							erst wieder neu gewählt werden mußte, auf meine Fragen, geantwortet. —
-							Die Herren ersuchen Dich ergebenst um Deine- Mitwirkung in einem
-							Vereinskonzerte, und zwar möchtest Du, Klavier spielen und eins oder
-							einige Deiner Werke leiten. <pb facs="#facs_151" n="151"/> Brahms
-							Briefwechsel. 138 Honorar unsere stereotypen 200 Mk. — Das Datum macht.
-							mir ein. — In die zweite Hälfte Januar fällt altherkömm- licherweise das
-							sogenannte „Meinkonzert diesmal auf den 2. Januar mit Haydns
-							Jahreszeiten. — Falls Dir der 22. Januar für hier passen sollte, werde
-							ich mein Konzert, 14 Tage verschieben. — Da Du aber den 20. Januar als
-							passend für hier (in Deinem Briefe) angibst, vermute ich, Di- werdest
-							Dich für den 22. nach Hannover oder sonstwohin versagt haben. — Am 20.
-							ist hier ein Konzert unmöglich, weil wir das Orchester nicht zu den
-							Proben haben können. — Paßt Dir also für hier der 22. nicht, so schaffe
-							ich an- diesem Datum meine Jahreszeiten aus der Luft und schlage, Dir
-							den 29. Januar oder 5. Februar vor (also nach Krefeld). Sollte Dir der
-							5. Februar recht sein, so könnte ich mög- licherweise Dein Requiem
-							fertig kriegen, was bis 22. Januar nicht ginge. Aber jetzt Programm. —
-							Die Vorstandsherren bitten, aus Zartgefühl gegen diejenigen
-							Vereinsmitglieder, denen Deine Musik noch nicht eingeht — um wenigstens
-							eine Pro- grammnummer von einem andern Komponisten. Soll ich ein
-							Programm vorschlagen: für 22. oder 29. Januar, also ohne Requie): 1.
-							Trauerspiel=Ouvertüre!) — Br. 2. Klavierkonzert von R. Schumann,
-							vorgetr. von Br. 3. Liebeslieder-Walzer — Br. 4.
-							Studentenlieder=Ouvertüre — Br. 1) Pause. 5. Coll-Symphonie von Brahms.
-							1) Akademische Fest=Ouvertüre op, 80 und Tragische Ouvertüre- op. 81.
-								<pb facs="#facs_152" n="152"/> Brahms Briefwechsel. 139. Ein
-							anderes: 1. Trauerspiel-Ouvertüre — Br. 2. Eleg. Gesang von Beethoven.
-							3. Klavierkonzert von Schumann — Br. 4. Schicksalslied von Br. 5.
-							Symphonie in D — Br. Hier würde ich die Studentenouvertüre schmerzlich
-							missen; Ich kenne sie nicht, paßt sie nach dem Schicksalsliede? — Kommst
-							Du zum 5. oder 6. Februar, so schlage ich vor- Requem, — den zweiten
-							Teil des Konzertes magst Du dann, selbst aus obigen Werken
-							zusammenstellen. — Uberhaupt er-- warte ich Deine Gegenvorschläge, oder
-							vielmehr Deine Ent- scheidung. — Richard Barth ist und bleibt vor der
-							Hand- hier. Mit Hannover hat sich's zerschlagen. In Krefeld wird, er mit
-							Dir zusammen sein und freut sich diebisch darauf. Sei lieb und komm zu
-							uns: Und sollte ein Konzert — mit den betreffenden Probeabenden vorher
-							gar nicht möglich sein heraus- zuschlagen, so geh nicht an Münster
-							vorüber, ohne uns zu- besichtigen. — Aber wenn möglich zum Konzert, — da
-							wirst Du auf unsere bescheidenen Kräfte Rücksicht nehmen müssen, doch
-							das weißt Du ja. Pine Gur grüßt Dich herzlich, und die Kinder, — wir
-							freuen uns furchtbar auf Dich. Dein getreuer. I. O. Grimm. Münster, 13.
-							Dezember 80. Die Braut von Messina habe ich revidiert, wo soll ich sie
-							hinschicken oder hole sie Dir lieber selbst. <pb facs="#facs_153"
-								n="153"/> Brahns Briefwechsel. 140 T. Johannes Brahms an I. O.
-							Grimm. Wiett, im Dezember 80.). Lieber Grimm, Den 22, kollidiert ein
-							wenig mit Krefeld — wenn man so bequen wie ich Konzertreisen macht. Doch
-							wird's gehen. Der 29. ginge eigentlich auch. Doch lassen wir einst-
-							weilen den 22. Ich spiele zu selten, als daß ich gern das Schumannsche
-							Konzert spielte — bet Euch auch anderes nicht. gern, weil ich wohl
-							keinen besonders guten Flügel finde. Icht komme nun nach Münster und
-							mustiziere dort gern Euret- wegen, womit ich aber nicht die Münsteraner
-							meine. So- möchte ich Euch also diesmal die zwei Ouvertüren vorspielen.
-							Da meine ich, es ist am besten, Du fängst an oder schließt, mit einer
-							Sinfonie von wem andern! Nach oder vor dieser (vielleicht kurzen)
-							Sinfonie (Mo- zart 1, ohne Mennett) machen wir dann ungefähr- 1.
-							Akademische Fest=Ouvertüre. 2. Liebeslieder. 3. Klavier=Sold, 4.
-							Tragische Ouvertüre. 5. Schicksalslied, 6. Sinfonie von dem andern! wie
-							das sonst geht!?" Oder Ohne Klaviersoli wäre wohl das Konzert gut und
-							nicht, zu lang. Na, verzeih, ich bin in Eile, es wird sich schon machen.
-							Vom 1. bis 6. Januar ist meine Adresse: Breslau (Scholz). <pb
-								facs="#facs_154" n="154"/>. 141 Dann Leipzig, Herzogenberg
-							Humboldtstraße 24, bis 14.2 Dann sehen wir uns bald. Ganz Dein. I. B.
-							Schreibe doch gleich auf eine Karte, wie stark Euer 4tett. besetzt ist.
-							C. Johannes Brahms an I. O. Grimm. Poststempel Wien, 27. Dezember 80.).
-							Im Namen aller Münsteraner danke ich höflichst, aber energisch für das
+							namentlich aber zur ersten Violine. </p>
+						<p> Mir fällt nicht gleich alles ein, ich ärgere mich nur grade wieder über
+							einige hergerichtete Partituren. Die Braut ist heute abgegangen. </p>
+						<closer> Dein <signed>J. Br.</signed>
+						</closer>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="99">
+				<body>
+					<div>
+						<pb facs="#facs_150" n="150"/>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1880-12"/>
+							<settlement key="Wien"/>
+							<dateline>[Wien, im Dezember 80.]</dateline>
+							<salute>Lieber Freund,</salute>
+						</opener>
+						<p> Ich komme im Januar nach Deutschland und habe mir immer gedacht, daß ich
+							einen Abend in Münster sein müßte. Wollt Ihr dazu Musik machen, um so
+							besser, denn es werden der Abende dann mehr. Am 25. ist in Krefeld
+							Konzert, könnte bei Euch etwa den 20ten eins sein? Aber ist Barth denn
+							eigentlich noch dort? Dein Papier ist immer gar so klein ich suchte
+							vergebens bei mir ein so zierliches Format! </p>
+						<p> Welch eine Art Programm wollen wir denn verüben, wenn es sich mit einem
+							Konzert machen sollte? Hoffentlich kann ich auch eine oder zwei
+							Ouvertüren hören lassen? </p>
+						<closer> Für heute nur schönsten Gruß, laß hören und recht viel und
+							hoffentlich auf Wiedersehen <lb/> Von Herzen <lb/>> Dein <signed>J.
+								Br.</signed>
+						</closer>
+						<postscript>
+							<p>Die gewünschte Braut kommt alsogleich.</p>
+						</postscript>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="100">
+				<body>
+					<div>
+						<opener>
+							<byline>J. O. Grimm an Johannes Brahms</byline>
+							<date when="1880-12-13"/>
+							<settlement key="Münster"/>
+							<salute>Lieber Johannes!</salute>
+						</opener>
+						<p> Endlich hat mein Vorstand, der in den letzten Wochen erst wieder neu
+							gewählt werden mußte, auf meine Fragen geantwortet. — Die Herren
+							ersuchen Dich ergebenst um Deine Mitwirkung in einem Vereinskonzerte,
+							und zwar möchtest Du Klavier spielen und eins oder einige Deiner Werke
+							leiten. <pb facs="#facs_151" n="151"/> Honorar unsere stereotypen 200
+							Mk. — Das Datum macht mir Pein. — In die zweite Hälfte Januar fällt
+							altherkömmlicherweise das sogenannte „Meinkonzert“ diesmal auf den 2.
+							Januar mit Haydns Jahreszeiten. — Falls Dir der 22. Januar für hier
+							passen sollte, werde ich mein Konzert 14 Tage verschieben. — Da Du aber
+							den 20. Januar als passend für hier (in Deinem Briefe) angibst, vermute
+							ich, Du werdest Dich für den 22. nach Hannover oder sonstwohin versagt
+							haben. — Am 20. ist hier ein Konzert unmöglich, weil wir das Orchester
+							nicht zu den Proben haben können. — Paßt Dir also für hier der 22.
+							nicht, so schaffe ich an diesem Datum meine Jahreszeiten aus der Luft
+							und schlage Dir den 29. Januar oder 5. Februar vor (also nach Krefeld).
+							— Sollte Dir der 5. Februar recht sein, so könnte ich möglicherweise
+							Dein Requiem fertig kriegen, was bis 22. Januar nicht ginge. — </p>
+						<p> Aber jetzt Programm? — Die Vorstandsherren bitten — aus Zartgefühl gegen
+							diejenigen Vereinsmitglieder, denen Deine Musik noch nicht eingeht — um
+							wenigstens eine Programmnummer von einem andern Komponisten. — </p>
+						<p> Soll ich ein Programm vorschlagen: (für 22. oder 29. Januar, also ohne
+							Requiem): </p>
+						<p> 1. Trauerspiel-Ouvertüre<note>Tragische Ouvertüre op. 81</note> — Br.
+							<lb/> 2. Klavierkonzert von R. Schumann, vorgetr. von Br. <lb/> 3.
+							Liebeslieder-Walzer — Br. <lb/> 4.
+								Studentenlieder-Ouvertüre<note>Akademische Fest-Ouvertüre op.
+								80</note> — Br. <lb/> Pause. <lb/> 5. C moll-Symphonie von
+							Brahms.</p>
+						<pb facs="#facs_152" n="152"/>
+						<p> Ein anderes: <lb/> 1. Trauerspiel-Ouvertüre — Br. <lb/> 2. Eleg. Gesang
+							von Beethoven <lb/> 3. Klavierkonzert von Schumann — Br. <lb/> 4.
+							Schicksalslied von Br. <lb/> 5. Symphonie in D — Br. </p>
+						<p> Hier würde ich die Studentenouvertüre schmerzlich missen; Ich kenne sie
+							nicht, paßt sie nach dem Schicksalsliede? — Kommst Du zum 5. oder 6.
+							Februar, so schlage ich vor Requiem, — den zweiten Teil des Konzertes
+							magst Du dann selbst aus obigen Werken zusammenstellen. — Überhaupt
+							erwarte ich Deine Gegenvorschläge, oder vielmehr Deine Ent- scheidung. —
+							Richard Barth ist und bleibt vor der Hand hier. Mit Hannover hat sich's
+							zerschlagen. In Krefeld wird er mit Dir zusammen sein und freut sich
+							diebisch darauf. — Sei lieb und komm zu uns: Und sollte ein Konzert —
+							mit den betreffenden Probeabenden vorher gar nicht möglich sein
+							herauszuschlagen, so geh nicht an Münster vorüber, ohne uns zu
+							besichtigen. — Aber wenn möglich zum Konzert, — da wirst Du auf unsere
+							bescheidenen Kräfte Rücksicht nehmen müssen, doch das weißt Du ja. </p>
+						<closer> Pine Gur grüßt Dich herzlich und die Kinder, — wir freuen uns
+							furchtbar auf Dich. <lb/> Dein getreuer <signed>J. O. Grimm.</signed>
+							<dateline>Münster, 13. Dezember 80.</dateline>
+						</closer>
+						<postscript>
+							<p> Die Braut von Messina habe ich revidiert, wo soll ich sie
+								hinschicken oder hole sie Dir lieber selbst. —</p>
+						</postscript>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="101">
+				<body>
+					<div>
+						<pb facs="#facs_153" n="153"/>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1880-12"/>
+							<settlement key="Wien"/>
+							<dateline>[Wien, im Dezember 80.]</dateline>
+							<salute>Lieber Grimm,</salute>
+						</opener>
+						<p> Den 22? kollidiert ein wenig mit Krefeld — wenn man so bequen wie ich
+							Konzertreisen macht. </p>
+						<p> Doch wird's gehen. </p>
+						<p> Der 29. ginge eigentlich auch. Doch lassen wir einstweilen den 22. Ich
+							spiele zu selten, als daß ich gern das Schumannsche Konzert spielte —
+							bei Euch auch anderes nicht gern, weil ich wohl keinen besonders guten
+							Flügel finde. Icht komme nun nach Münster und musiziere dort gern
+							Euretwegen, womit ich aber nicht die Münsteraner meine. So möchte ich
+							Euch also diesmal die zwei Ouvertüren vorspielen. Da meine ich, es ist
+							am besten, Du fängst an oder schließt mit einer Sinfonie von wem andern! </p>
+						<p> Nach oder vor dieser (vielleicht kurzen) Sinfonie (Mozart D, ohne
+							Menuett) machen wir dann ungefähr: </p>
+						<p> 1. Akademische Fest-Ouvertüre <lb/> 2. Liebeslieder <lb/> 3.
+							Klavier-Soli <lb/> 4. Tragische Ouvertüre <lb/> 5. Schicksalslied <lb/>
+							6. Sinfonie von dem andern! </p>
+						<p> Oder wie das sonst geht!? </p>
+						<p> Ohne Klaviersoli wäre wohl das Konzert gut und nicht zu lang. </p>
+						<p> Na, verzeih, ich bin in Eile, es wird sich schon machen. Vom 1. bis 6.
+							Januar ist meine Adresse: Breslau (Scholz). <pb facs="#facs_154" n="154"
+							/> Dann Leipzig, Herzogenberg Humboldtstraße 24, bis 14.? Dann sehen wir
+							uns bald. </p>
+						<closer> Ganz Dein <signed>J. B.</signed>
+						</closer>
+						<postscript>
+							<p>Schreibe doch gleich auf eine Karte, wie stark Euer 4-tett besetzt
+								ist. —</p>
+						</postscript>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="102">
+				<body>
+					<div>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1880-12-27"/>
+							<settlement key="Wien"/>
+							<dateline>[Poststempel Wien, 27. Dezember 80.]</dateline>
+							<salute/>
+						</opener>
+						<p> Im Namen aller Münsteraner danke ich höflichst, aber energisch für das
 							Konzert! Kannst Du nicht für die 200 Mk. eine hübsche Sängerin kaufen,
-							oder wenn Deine Direktion, zu viel Umstände macht, die ganze Geschichte
-							lassen? Ein- gemütlicher Abend bei Dir ist ja doch viel wichtiger! Das
-							vorige Programm war ja gar nicht so übel?" Fröhliche Festtage wünschend,
-							Dein I. B. III. Johannes Brahms an I. O. Grimm. Poststempel Wien, 2.
-							Januar 81.) L. Fr. Ich bin nach Holland eingeladen, kann nur noch nicht
-							die Zeit bestimmen. Sobald etwas entschieden, melde ich es Dir, und
-							hoffentlich paßt Dir dann die Zeit. Ich bitte, Dich aber, laß Dein
-							Vorstand sich nicht ändern, es wäre, schändlich, wenn er uns auch nur
-							eine behagliche Stunde nähmel- Einstweilen herzliche Grüße. allerseits
-							von Deinem J. B. Die Nänie erscheint bei Peters und kannst Du die Chor-
-							stimmen und Klavierauszug schon bestellen. C. F. Peters in L. <pb
-								facs="#facs_155" n="155"/> 11. 142 Brahns Briefwechsel. IV. I O.
-							Grimm an Johannes Brahms. Lieber Johannes! Ich muß Dir nochmals intim
-							danken für alles, was Du, uns wohlgetan haft. Die Gattin jubiliert mit
-							mir, wir lob- preisen Dich recht von Herzen, daß Du so lieb mit uns
-							warst, trotz Deiner furchtbaren Übermacht. — Die tragische Ouver- ture
-							habe ich meinem gefälligen Greve,) zum Verpacken und Versenden übergeben
-							und bin gewiß, daß er's ordentlich be- sorgen wird oder schon besorgt
-							hat. Abgesehen von den häus- lichen Festtagen — freue ich mich über die
-							Kundgebungen, gestern und heute von den musikalischen Menschen hier. Du,
-							haft einen mächtigen Eindruck hinterlassen, — viel mehr, als ant
-							Konzertabend zu merken war. Das Schicksalslied hats- vielen angetan.
-							Ouvertüren und Symphonie selbstverständlich. Uber Dein Spiel sagten mir
-							in verschiedenen Expektorationen verschiedene Leute dasselbe es habe
-							geklungen, als wenn Du- selbst phantasiertest, nicht als ob Du Schumanns
-							Kompo- sition vorgetragen habest. Wenn einer diese artige Bemerkung
-							macht, ist's nett, — wenn's aber mehrere tun, ist's doch noch netter.
-							Dir kann das gleich sein, — mich aber freut's, daß in unserm Bootien
-							doch nicht nur Bootier leben. Wir grüßen, Dich und Richard und wünschen
-							Euch beiden alles Schöne für Krefeld und Holland. Lebe wohl und habe
-							innigen Dank von Deinem getreuen, Münster, 24. Januar 81. I. O. G. *)
-							Paul Greve, damals Mitglied des Vorstandes des Musikvereins
-							außerordentlich intelligenter Baritonist und warmer Freund des Grimm-
-							schen Hauses. — <pb facs="#facs_156" n="156"/>. 143 IV. Johannes Brahms
-							an I. O. Grimm. Poststempel Wien, 17. Mai 81.) Lieber Freund, Ich danke
-							sehr für alle möglichen freundlichen Grüße und bitte Dich, auch Frau
-							Hedwig einstweilen hieran parti- zipieren zu lassen! Dann erzähle ich
-							nur in Eile dem Westfälinger, daß ich zweimal Herrn Dohrn) in Neapel
-							besucht habe auf- der Reise von und nach Sizilien. Daß ich in Rom mit
-							Herrn und Frl. Schücking?) gespeist habe und wir viel und Gutes von Euch
-							gesprochen haben, daß ich dann aber der philiströfe Esel war und nach
-							Hause gereist bin. Das sollte, man nämlich nicht, wenn man nicht muß. Es
-							war herrlich. In Sizilien, namentlich Girgenti, Taormina und Palermo.
-							Sonst war ich in Venedig, Pisa, Florenz, Siena und Rom, und Neapel).
-							Nimm auch die besten Wünsche für das be- ginnende goldene Zeitalter
-							Eurer Ehe?) und laßt mich auch erfahren, wie es mit dem Examen ging und
-							wie es mit Barth geht. Recht von Herzen. Euer I. Brahms. Liebe Frau
-							Pine, Meine schönsten Grüße dazu und wenn Ihr Freund- und Konzertmeister
-							Sie verläßt, so schreiben Sie doch ein- Wort. Ich mag doch gern ein
-							wenig mehr als bloß in Ge- danken mit Ihnen leben. Ihr J. B. Herzlich
-							und eilig *) Prof. Dr. Anton Dohrn, Gründer und Direktor der Zoolo-
-							gischen Slation zu Neapel. — *) Levin Schücking, der westfälische
-							Dichter. — *) Grimms feierten am 8. Mai 81 ihre silberne Hochzeit. <pb
-								facs="#facs_157" n="157"/>. 144 VI. Johannes Brahms an I. O. Grimm.
-							Poststempel Wien, 18. November 81.). Sei doch so gut, Dich in Köln oder
-							wo zu erkundigen, ob man uns nicht einen Bechstein oder Steinway
-							schickt. Transportkosten will ich gern zahlen. Aber auf einem irgend-
-							bedenklichen oder fraglichen Instrument spiele ich nicht wieder. Mitte
-							oder Ende Januar scheint für uns zu werden. Grüße- die Deinen und Deine
-							schönen und lieben Besuche nächste, Woche. Herzlich I. Br. VII. Johannes
-							Brahms an I. O. Grimm. Breslau, 17. Dezember 81. Lieber Freund! Wäre es
-							möglich, daß Dein Konzert am 19. oder 18. Januar stattfände? Am 13. habe
-							ich ein Konzert in Kiel und hätte dann gern einige freie Tage in
-							Hamburg, und am 20. reiste ich gern nach Utrecht, um dort am 21. zu
-							probieren. Bitte, schreibe bald nach Wien, wo ich den 22. Dezember- früh
-							ankomme und bis zum 28. bleibe. Nun aber noch etwas, das ich zu
-							berücksichtigen bitte. Könnte das Konzert nicht Dein Benefizkonzert
-							sein? Ich- wäre gern Deine Direktion und ihr Honorar los und fände- es
-							reizend, wenn wir bloß mit uns zu tun hätten, unsere Musik und unsere
-							Gemütlichkeit bloß uns anginge. Bitte, dazu ja zu sagen und gleich. Dann
-							aber für einen guten <pb facs="#facs_158" n="158"/> 145 Brahms
-							Briefwechsel. Flügel zu sorgen! Im Notfalle, wenn kein Tag vom 13. bis-
-							19. möglich ist, könnte ich den 2. oder 3. Februar. wäre aber ein Opfer,
-							da mich nach Haus verlangt und ich noch im Februar wieder reisen muß.
-							Bitte, nach Wien zum 22. Nachricht und Grüße aller- herzlichst und
-							etligst. Dein I. Br. VIII. Johannes Brahms an I. O. Grimm. Wien, 24.
-							Dezember 81.). Lieber Freund! In größter Eile: Ich meine, für den 18.
-							zusagen zu können. Selbstverständlich kein Brahms-Programm. Und ebenso-
-							selbstverständlich ist es bloß ein Scherz von Dir, daß ich die ste
-							dirigieren soll! Sonst ist sie mir recht und werde ich sie mit
-							besonderem Pläster hören. Vorher meinetwegen eine Ouvertüre, das
-							Konzert, Lieder, Duette (Rhapsodie weniger, gern und keinesfalls
-							Liebeslieder vor der 9ten). Vom 30. an: Leipzig, 24 Humboldtstraße,
-							Herzogenberg. Vom 3. Januar. an: Hamburg, Hotel Petersburg, bis 6. Dann:
-							Berlin, Simrock, 171 Friedrichstraße. Nun bitte, entschließe Dich, das
-							halbe Konzert ohne mich zu machen — einmal läßt man sich einen Brahms-
-							Scherz gefallen, auch wohl in Münster, nicht zweimal. Aber, usw.
-							Herzlichst und eiligst Dein, I. Br. 10 Brahms, Briefwechsel, Band IV.
-								<pb facs="#facs_159" n="159"/> Brahms Briefwechsel. 146 CIX.
-							Johannes Brahms an I. O. Grimm. Poststempel Hamburg, 3. Januar 82.). Ich
-							habe am 15. Mittag=Konzert und kann nicht anders, als in der Nacht (34)
-							bei Dir ankommen. Schreibe mir doch hierher (Hamburg, Hotel Petersburg),
-							wie wir das ein- richten. Kannst Du mir in einem dortigen Hotel ein
-							Zimmer- bestellen oder einen Nachtwächter an den Bahnhof, der mich, zu
-							Dir führt, daß ich noch leise ins Bett friechen kann- oder was sonst für
-							Dich und mich am einfachsten und be- quemsten ist. Wegen Flügel hättest
-							Du Dich doch besser nach Köln. gewandt?! Bechstein ist wahrscheinlich
-							durch Bülow und andere schon zu sehr in Anspruch genommen. Bestens Dein.
-							I Br. X. Johannes Brahms an I. O. Grimm. Poststempel Hamburg, 8. Januar
-							82.). Mir ist überhaupt alles recht oder gleich, was das Pro- gramm
-							angeht, und es (war) nur eine leise Privatmeinung, wenn ich eine kürzere
-							und leichtere Sinfonie passender fände. Aber Du wirst Deinen Chor
+							oder wenn Deine Direktion zu viel Umstände macht, die ganze Geschichte
+							lassen? Ein gemütlicher Abend bei Dir ist ja doch viel wichtiger! Das
+							vorige Programm war ja gar nicht so übel? </p>
+						<closer> Fröhliche Festtage wünschend, Dein <signed>J. B.</signed>
+						</closer>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="103">
+				<body>
+					<div>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1881-01-02"/>
+							<settlement key="Wien"/>
+							<dateline>[Poststempel Wien, 2. Januar 81.]</dateline>
+							<salute>L. Fr.</salute>
+						</opener>
+						<p> Ich bin nach Holland eingeladen, kann nur noch nicht die Zeit bestimmen.
+							Sobald etwas entschieden, melde ich es Dir, und hoffentlich paßt Dir
+							dann die Zeit. Ich bitte Dich aber, laß Dein Vorstand sich nicht ändern,
+							es wäre schändlich, wenn er uns auch nur eine behagliche Stunde nähme! </p>
+						<closer> Einstweilen herzliche Grüße <lb/> allerseits von Deinem <signed>J.
+								B.</signed>
+						</closer>
+						<postscript>
+							<p> Die Nänie erscheint bei Peters und kannst Du die Chorstimmen und
+								Klavierauszug schon bestellen. C. F. Peters in L.</p>
+						</postscript>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="104">
+				<body>
+					<div>
+						<pb facs="#facs_155" n="155"/>
+						<opener>
+							<byline>J O. Grimm an Johannes Brahms</byline>
+							<date when="1881-01-24"/>
+							<settlement key="Münster"/>
+							<salute>Lieber Johannes!</salute>
+						</opener>
+						<p> Ich muß Dir nochmals intim danken für alles, was Du uns wohlgetan hast.
+							Die Gattin jubiliert mit mir, wir lobpreisen Dich recht von Herzen, daß
+							Du so lieb mit uns warst, trotz Deiner furchtbaren Übermacht. — Die
+							tragische Ouvertüre habe ich meinem gefälligen Greve<note>Paul Greve,
+								damals Mitglied des Vorstandes des Musikvereins außerordentlich
+								intelligenter Baritonist und warmer Freund des Grimmschen
+								Hauses</note> zum Verpacken und Versenden übergeben und bin gewiß,
+							daß er's ordentlich besorgen wird oder schon besorgt hat. Abgesehen von
+							den häuslichen Festtagen — freue ich mich über die Kundgebungen, gestern
+							und heute von den musikalischen Menschen hier. Du hast einen mächtigen
+							Eindruck hinterlassen, — viel mehr, als am Konzertabend zu merken war.
+							Das Schicksalslied hats vielen angetan. Ouvertüren und Symphonie
+							selbstverständlich. Über Dein Spiel sagten mir in verschiedenen
+							Expektorationen verschiedene Leute dasselbe es habe geklungen, als wenn
+							Du selbst phantasiertest, nicht als ob Du Schumanns Komposition
+							vorgetragen habest. Wenn einer diese artige Bemerkung macht, ist's nett,
+							— wenn's aber mehrere tun, ist's doch noch netter. — </p>
+						<p> Dir kann das gleich sein, — mich aber freut's, daß in unserm Böotien
+							doch nicht nur Böotier leben. Wir grüßen Dich und Richard und wünschen
+							Euch beiden alles Schöne für Krefeld und Holland. </p>
+						<closer> Lebe wohl und habe innigen Dank von Deinem getreuen <signed>J. O.
+								G.</signed>
+							<dateline>Münster, 24. Januar 81.</dateline>
+						</closer>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="105">
+				<body>
+					<div>
+						<pb facs="#facs_156" n="156"/>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1881-05-17"/>
+							<settlement key="Wien"/>
+							<dateline>[Poststempel Wien, 17. Mai 81.]</dateline>
+							<salute>Lieber Freund,</salute>
+						</opener>
+						<p>Ich danke sehr für alle möglichen freundlichen Grüße und bitte Dich, auch
+							Frau Hedwig einstweilen hieran partizipieren zu lassen! </p>
+						<p> Dann erzähle ich nur in Eile dem Westfälinger, daß ich zweimal Herrn
+								Dohrn<note>Prof. Dr. Anton Dohrn, Gründer und Direktor der
+								Zoologischen Station zu Neapel</note> in Neapel besucht habe auf der
+							Reise von und nach Sizilien. Daß ich in Rom mit Herrn und Frl.
+								Schücking<note>Levin Schücking, der westfälische Dichter</note>
+							gespeist habe und wir viel und Gutes von Euch gesprochen haben, daß ich
+							dann aber der philiströse Esel war und nach Hause gereist bin. Das
+							sollte man nämlich nicht, wenn man nicht muß. Es war herrlich. In
+							Sizilien, namentlich Girgenti, Taormina und Palermo. Sonst war ich in
+							Venedig, Pisa, Florenz, Siena und Rom (und Neapel). Nimm auch die besten
+							Wünsche für das beginnende goldene Zeitalter Eurer Ehe<note>Grimms
+								feierten am 8. Mai 81 ihre silberne Hochzeit</note> und laßt mich
+							auch erfahren, wie es mit dem Examen ging und wie es mit Barth geht. </p>
+						<closer> Recht von Herzen <signed>Euer J. Brahms.</signed>
+						</closer>
+						<postscript>
+							<p> Liebe Frau Pine, Meine schönsten Grüße dazu und wenn Ihr Freund und
+								Konzertmeister Sie verläßt, so schreiben Sie doch ein Wort. Ich mag
+								doch gern ein wenig mehr als bloß in Gedanken mit Ihnen leben. </p>
+							<p> Herzlich und eilig <lb/> Ihr J. B.</p>
+						</postscript>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="106">
+				<body>
+					<div>
+						<pb facs="#facs_157" n="157"/>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1881-11-18"/>
+							<settlement key="Wien"/>
+							<dateline>[Poststempel Wien, 18. November 81.]</dateline>
+							<salute/>
+						</opener>
+						<p> Sei doch so gut, Dich in Köln oder wo zu erkundigen, ob man uns nicht
+							einen Bechstein oder Steinway schickt. Transportkosten will ich gern
+							zahlen. Aber auf einem irgend bedenklichen oder fraglichen Instrument
+							spiele ich nicht wieder. Mitte oder Ende Januar scheint für uns zu
+							werden. Grüße die Deinen und Deine schönen und lieben Besuche nächste
+							Woche.</p>
+						<closer> Herzlich <signed>J. Br.</signed>
+						</closer>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="107">
+				<body>
+					<div>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1881-12-17"/>
+							<settlement key="Breslau"/>
+							<dateline>[Breslau, 17. Dezember 81.]</dateline>
+							<salute>Lieber Freund!</salute>
+						</opener>
+						<p> Wäre es möglich, daß Dein Konzert am 19. oder 18. Januar stattfände? Am
+							13. habe ich ein Konzert in Kiel und hätte dann gern einige freie Tage
+							in Hamburg, und am 20. reiste ich gern nach Utrecht, um dort am 21. zu
+							probieren. </p>
+						<p> Bitte, schreibe bald nach Wien, wo ich den 22. Dezember früh ankomme und
+							bis zum 28. bleibe. </p>
+						<p> Nun aber noch etwas, das ich zu berücksichtigen bitte. Könnte das
+							Konzert nicht Dein Benefizkonzert sein? Ich wäre gern Deine Direktion
+							und ihr Honorar los und fände es reizend, wenn wir bloß mit uns zu tun
+							hätten, unsere Musik und unsere Gemütlichkeit bloß uns anginge. Bitte,
+							dazu ja zu sagen und gleich. Dann aber für einen guten <pb
+								facs="#facs_158" n="158"/> Flügel zu sorgen! Im Notfalle, wenn kein
+							Tag vom 13. bis 19. möglich ist, könnte ich den 2. oder 3. Februar — es
+							wäre aber ein Opfer, da mich nach Haus verlangt und ich noch im Februar
+							wieder reisen muß. </p>
+						<closer> Bitte nach Wien zum 22. Nachricht und Grüße allerherzlichst und
+							eiligst <signed>Dein J. Br.</signed>
+						</closer>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="108">
+				<body>
+					<div>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1881-12-24"/>
+							<settlement key="Wien"/>
+							<dateline>[Wien, 24. Dezember 81.]</dateline>
+							<salute>Lieber Freund!</salute>
+						</opener>
+						<p> In größter Eile: </p>
+						<p> Ich meine, für den 18. zusagen zu können. Selbstverständlich kein
+							Brahms-Programm! Und ebenso selbstverständlich ist es bloß ein Scherz
+							von Dir, daß ich die 9te dirigieren soll! Sonst ist sie mir recht und
+							werde ich sie mit besonderem Pläster hören. Vorher meinetwegen eine
+							Ouvertüre, das Konzert, Lieder, Duette (Rhapsodie weniger gern und
+							keinesfalls Liebeslieder vor der 9ten). Vom 30. an: Leipzig, 24
+							Humboldtstraße, Herzogenberg. Vom 3. Januar an: Hamburg, Hotel
+							Petersburg, bis 6. Dann: Berlin, Simrock, 171 Friedrichstraße. </p>
+						<p> Nun bitte, entschließe Dich, das halbe Konzert ohne mich zu machen —
+							einmal läßt man sich einen Brahms-Scherz gefallen, auch wohl in Münster,
+							nicht zweimal. </p>
+						<p> Aber, usw. </p>
+						<closer> Herzlichst und eiligst Dein <signed>J. Br.</signed>
+						</closer>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="109">
+				<body>
+					<div>
+						<pb facs="#facs_159" n="159"/>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1882-01-03"/>
+							<settlement key="Hamburg"/>
+							<dateline>[Poststempel Hamburg, 3. Januar 82.]</dateline>
+							<salute/>
+						</opener>
+						<p> Ich habe am 15. Mittag-Konzert und kann nicht anders, als in der Nacht
+							(3-4) bei Dir ankommen. Schreibe mir doch hierher (Hamburg, Hotel
+							Petersburg), wie wir das einrichten. Kannst Du mir in einem dortigen
+							Hotel ein Zimmer bestellen oder einen Nachtwächter an den Bahnhof, der
+							mich zu Dir führt, daß ich noch leise ins Bett kriechen kann — oder was
+							sonst für Dich und mich am einfachsten und bequemsten ist. </p>
+						<p> Wegen Flügel hättest Du Dich doch besser nach Köln gewandt?! Bechstein
+							ist wahrscheinlich durch Bülow und andere schon zu sehr in Anspruch
+							genommen. </p>
+						<closer> Bestens Dein <signed>J. Br.</signed>
+						</closer>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="110">
+				<body>
+					<div>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1882-01-08"/>
+							<settlement key="Hamburg"/>
+							<dateline>[Poststempel Hamburg, 8. Januar 82.]</dateline>
+							<salute/>
+						</opener>
+						<p> Mir ist überhaupt alles recht oder gleich, was das Programm angeht, und
+							es (war) nur eine leise Privatmeinung, wenn ich eine kürzere und
+							leichtere Sinfonie passender fände. Aber Du wirst Deinen Chor
 							beschäftigen wollen. Wenn ich wegen eines Flügels etwas melden kann, so
 							telegraphiere ich. Den 8. und 9. Berlin, Simrock, übrigens komme ich
-							immer über hier. Herzlich Dein, I. Br. <pb facs="#facs_160" n="160"/>.
-							147. XI. Johannes Brahms an I. O. Grimm. Poststempel Wien, 29. Oktober
-							83.] L. Fr. Es ist mir eigentlich lieb, daß ich Dir nichts versprechen
-							kann, denn ich komme zu oft Aber, bis ich zu- Euch in die Gegend komme,
-							werde ich herzlich konzertmüde, sein und viel lieber ein paar Abende in
-							Deiner behaglichen Ecke sitzen und Marsala trinken und mir von den
-							Tropen- vorlesen lassen — als im Rathaussaal") üben! Laß doch hören, wie
-							sich die Parzen*) bei Euch betragen haben, und grüße die Deinen von
-							Herzen, auch Frau Kiesekamp bitte ich zu grüßen von Deinem J. B. XII.
-							Johannes Brahms an I. O. Grimm. Poststempel Wien, 5. Januar 84.5. L. Fr.
-							Ich erinnere nicht, Dir etwas anderes als ein rundes „Nein" geschrieben
-							zu haben, und bitte Dich, zu be- denken, wie die geschriebenen Stimmen
+							immer über hier.</p>
+						<closer> Herzlich Dein <signed>J. Br.</signed>
+						</closer>
+						<postscript>
+							<p/>
+						</postscript>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="111">
+				<body>
+					<div>
+						<pb facs="#facs_160" n="160"/>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1883-10-29"/>
+							<settlement key="Wien"/>
+							<dateline>[Poststempel Wien, 29. Oktober 83.]</dateline>
+							<salute>L. Fr. </salute>
+						</opener>
+						<p> Es ist mir eigentlich lieb, daß ich Dir nichts versprechen kann, denn
+							ich komme zu oft! Aber bis ich zu Euch in die Gegend komme, werde ich
+							herzlich konzertmüde sein und viel lieber ein paar Abende in Deiner
+							behaglichen Ecke sitzen und Marsala trinken und mir von den Tropen
+							vorlesen lassen — als im Rathaussaal<note>In dem alten, herrlichen
+								Rathaussaale fanden die Konzerte und die Proben statt</note> üben! </p>
+						<closer> Laß doch hören, wie sich die Parzen<note>Am 18. November 83 sollte
+								der Gesang der Parzen op. 89 aufgeführt werden</note> bei Euch
+							betragen haben, und grüße die Deinen von Herzen, auch Frau Kiesekamp
+							bitte ich zu grüßen von <lb/> Deinem <signed> J. B.</signed>
+						</closer>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="112">
+				<body>
+					<div>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1884-01-05"/>
+							<settlement key="Wien"/>
+							<dateline>[Poststempel Wien, 5. Januar 84.]</dateline>
+							<salute>L. Fr.</salute>
+						</opener>
+						<p> Ich erinnere nicht, Dir etwas anderes als ein rundes „Nein“ geschrieben
+							zu haben, und bitte Dich, zu bedenken, wie die geschriebenen Stimmen
 							aussehen, wenn sie alles Versprochene geleistet haben und wieviel
 							Freunde sie durch ihr Ausbleiben erzürnt haben. Ich rechne nicht darauf,
-							daß Einer davon sich die Sache überlegt und entschuldigt! Mit herzlichem
-							Gruß. Dein. I. Br. 1) In dem alten, herrlichen Rathaussaale fanden die
-							Konzerte und die Proben statt. — 2) Am 18. November 83 sollte der Gesang
-							der Parzen op. 89 aufgeführt werden. 107 <pb facs="#facs_161" n="161"/>
-							Brahms Briefwechsel. 148 XIII. Johannes Brahms an I. O. Grimm.
-							Poststempel Wien, 23. April 87.). Lieber Freund! Mit unserm
-							Briefschreiben ist es nun einmal nichts. Aber Du glaubst nicht, wie
-							dankbar und vergnügt Deine- schwachen Versuche von mir begrüßt werden!
-							Ich wollte, heute nur melden, daß ich nach Italien abfahre und von Mitte
-							Mai an in Thun zu sein gedenke. Ihr macht doch- immer so schöne
+							daß Einer davon sich die Sache überlegt und entschuldigt! </p>
+						<closer> Mit herzlichem Gruß <lb/> Dein <signed>J. B.</signed>
+						</closer>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="113">
+				<body>
+					<div>
+						<pb facs="#facs_161" n="161"/>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1887-04-23"/>
+							<settlement key="Wien"/>
+							<dateline>[Poststempel Wien, 23. April 87.]</dateline>
+							<salute>Lieber Freund!</salute>
+						</opener>
+						<p> Mit unserm Briefschreiben ist es nun einmal nichts. Aber Du glaubst
+							nicht, wie dankbar und vergnügt Deine schwachen Versuche von mir begrüßt
+							werden! Ich wollte heute nur melden, daß ich nach Italien abfahre und
+							von Mitte Mai an in Thun zu sein gedenke. Ihr macht doch immer so schöne
 							Sommerreisen, könnt Ihr Euch nicht ein wenig danach richten. Es ist ganz
 							herrlich und behaglich und gemütlich dort, was Ihr als Durchreisende
-							wohl nicht ge- merkt habt. Und dann solltet Ihr Briefe aus Manila.) im
-							Koffer haben und verlebten wir gar schöne Tage und dächten, vergangener
-							schöner Tage. Herzlichst Euer- I. Brahms. XIV. Johannes Brahms an I. O.
-							Grimm. Poststempel Wien, 27. März 88.) Herzlichen Dank für Deinen Gruß,
-							der mich recht erfreut, Ich finde es gar schön, daß Du in solchem Moment
-							hat. gleich mit eigenem Wort und Ton*) sagst, wie Dir ums Herz- 1) Wo
-							sich der älteste Sohn Hans im Jahre 82 niedergelassen hatte. — 2) Am 23.
-							März 88 hatte das 8. Vereinskonzert stattgefunden, eine Trauerfeier aus
-							Anlaß des Hinscheidens unseres allergnädigsten Kaisers und Königs
-							Wilhelm" mit folgendem Programm Trauermarsch aus der „Erica von
-							Beethoven, — Klagegesang, um den Tod Kaiser Wilhelms 1., für Chor und
-							Orchester von I. O. Grimm- Arte: „Ich weiß, daß mein Erlöser lebt" aus
-							dem „Messias" von <pb facs="#facs_162" n="162"/>. 149 ist. Den Platz mit
-							Dir zu tauschen, hätte ich nicht so sehr Verlangen gehabt, als zuzuhören
-							und hernach mit nach Hause- gehn und bei Euch behaglich lange in der
-							Ecke sitzen. Alle von Herzen grüßend, Dein J. B. XV. Johannes Brahms an
-							I. O. Grimm. Poststempel Thun, 24. August 88.). L. Fr. Ein Brief von Dir
-							ist so seltene Ware, daß ich gern besser dankte, als ich kann. Aber für
-							das Cäcilien- fest z. B. muß ich Dich der Wahl und Qual überlassen- von
-							der wohl die neueste Glocke das schlimmste letzter Art, ist: (nämlich
-							Oual.) Den Psalm*) habe ich auch vor langer Zeit instrumen- tiert und
-							aufgeführt. Ich danke für die Ehre und erweise sie mir, so oft Du
-							willst, Ein alter Bekannter von Dir, Direktor Wendt,") spaziert, hier
-							auch herum, er wird Dich jedenfalls sehr grüßen lassen; ich warte nicht
-							ab, bis ich ihn sehe, wir sprechen sehr oft von Dir. Mit herzlichen
-							Grüßen an Dich und die Deinigen, Dein alter. J. B. Händel (Frau M.
-							Schubart=Tiedemann aus Frankfurt a. M.) — Ein- Deutsches Requiem von
-							Brahms. — Die Worte zum Klagegesang waren nicht von Grimm, sondern von
-							Fratt Prof. Agnes Lindner, was Brahms freilich nicht wissen konnte, da
-							es auf dem ihm zugesandten Programm nicht besonders bemerkt war. — 1)
-							Grimm hatte Brahms XIII. Psalm instrumentiert, da ihm eine Orgel für die
-							betreffende Aufführung nicht zu Gebot stand. — 2) Gym- nasialdirektor
-							Prof. Dr. Wendt in Karlsruhe. <pb facs="#facs_163" n="163"/>. 150 XVI.
-							Johannes Brahms an I. O. Grimm. Anfang März 90. Lieber, alter Freund. Am
-							13. März denke ich in Köln ein Chorkonzert mit- zumachen und es wäre
+							wohl nicht gemerkt habt. Und dann solltet Ihr Briefe aus Manila<note>Wo
+								sich der älteste Sohn Hans im Jahre 82 niedergelassen hatte</note>
+							im Koffer haben und verlebten wir gar schöne Tage und dächten
+							vergangener schöner Tage! </p>
+						<closer> Herzlichst Euer <signed>J. Brahms.</signed>
+						</closer>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="114">
+				<body>
+					<div>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1888-03-27"/>
+							<settlement key="Wien"/>
+							<dateline>[Poststempel Wien, 27. März 88.]</dateline>
+							<salute/>
+						</opener>
+						<p> Herzlichen Dank für Deinen Gruß, der mich recht erfreut hat, Ich finde
+							es gar schön, daß Du in solchem Moment gleich mit eigenem Wort und
+								Ton<note>Am 23. März 88 hatte das 8. Vereinskonzert stattgefunden,
+								eine „Trauerfeier aus Anlaß des Hinscheidens unseres allergnädigsten
+								Kaisers und Königs Wilhelm“ mit folgendem Programm: Trauermarsch aus
+								der „Eroica“ von Beethoven, — Klagegesang um den Tod Kaiser Wilhelms
+								1., für Chor und Orchester von J. O. Grimm — Arie: „Ich weiß, daß
+								mein Erlöser lebt“ aus dem „Messias“ von Händel (Frau M.
+								Schubart-Tiedemann aus Frankfurt a. M.) — Ein Deutsches Requiem von
+								Brahms. — Die Worte zum Klagegesang waren nicht von Grimm, sondern
+								von Frau Prof. Agnes Lindner, was Brahms freilich nicht wissen
+								konnte, da es auf dem ihm zugesandten Programm nicht besonders
+								bemerkt war</note> sagst, wie Dir ums Herz <pb facs="#facs_162"
+								n="162"/> ist. Den Platz mit Dir zu tauschen, hätte ich nicht so
+							sehr Verlangen gehabt, als zuzuhören und hernach mit nach Hause gehn und
+							bei Euch behaglich lange in der Ecke sitzen. </p>
+						<closer> Alle von Herzen grüßend <signed>Dein J. B.</signed>
+						</closer>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="115">
+				<body>
+					<div>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1888-08-24"/>
+							<settlement key="Thun"/>
+							<dateline>[Poststempel Thun, 24. August 88.]</dateline>
+							<salute>L. Fr.</salute>
+						</opener>
+						<p> Ein Brief von Dir ist so seltene Ware, daß ich gern besser dankte, als
+							ich kann. Aber für das Cäcilienfest z. B. muß ich Dich der Wahl und Qual
+							überlassen von der wohl die neueste Glocke das schlimmste letzter Art
+							ist: (nämlich Oual.) </p>
+						<p> Den Psalm<note>Grimm hatte Brahms XIII. Psalm instrumentiert, da ihm
+								eine Orgel für die betreffende Aufführung nicht zu Gebot
+								stand</note> habe ich auch vor langer Zeit instrumentiert und
+							aufgeführt. Ich danke für die Ehre und erweise sie mir so oft Du willst! </p>
+						<p> Ein alter Bekannter von Dir, Direktor Wendt,<note>Gymnasialdirektor
+								Prof. Dr. Wendt in Karlsruhe</note> spaziert hier auch herum, er
+							wird Dich jedenfalls sehr grüßen lassen — ich warte nicht ab, bis ich
+							ihn sehe, wir sprechen sehr oft von Dir. </p>
+						<closer> Mit herzlichen Grüßen an Dich und die Deinigen <lb/> Dein alter
+								<signed>J. B. </signed>
+						</closer>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="116">
+				<body>
+					<div>
+						<pb facs="#facs_163" n="163"/>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1890-03"/>
+							<settlement key="Unbekannt"/>
+							<dateline>[Anfang März 90.]</dateline>
+							<salute>Lieber, alter Freund.</salute>
+						</opener>
+						<p> Am 13. März denke ich in Köln ein Chorkonzert mitzumachen und es wäre
 							ganz ausnahmsweise schön und lieblich, wenn Du und gar Pine Gur dabei
-							wären. Du hörst allerlei- würdige Chormusik, einen Haufen Motetten von
-							mir und ein Stück, das Dich notwendig interessieren muß. Kennst Du etwa
-							noch ein H dur-Trio) aus unserer Jugendzeit, und wärest Du nicht
-							begierig, es jetzt zu hören, da ich ihm — (eine Perrücke aufgesetzt —1)
-							aber die Haare, ein wenig gekämmt und geordnet.. Wenn Du Dich freimachen
-							kannst, so kommst Du hoffent- lich für ein paar Tage, so daß Du die
-							Proben im Zimmer- und in Behaglichkeit mitmachen kannst! Ich hoffe recht
-							sehr darauf, und freue mich im voraus- wie ein Schneekönig. Euch alle
-							herzlich grüßend. Dein, I. Brahms. XVII. I. O. Grimm an Johannes Brahms.
-							Münster i. W., 5. März 90. Lieber Brahms! Du hast uns mit Deinen
-							freundlichen Worten große Freude und eine ungeahnte Uberraschung
-							bereitet — das schönste Geschenk zu meinem Geburtstag) (morgen). Wir, 1)
-							op. 8. Neue Ausgabe. — *) 6. März. <pb facs="#facs_164" n="164"/> Brahms
-							Briefwechsel. 151 meine Fralt, wie ich, danken Dir herzlich und werden
-							natür- lich kommen und freuen uns darauf, als wären wir über 30 Jahr
-							jünger. Käme doch Frau Schumann auch nach Köln. Von Deinem
-							neugestaltetem H dur-Trio hat mir Bülow, bereits „Wunder" erzählt, der
-							neulich hier u. a. Deine: Chur-Sonate Op. 1 spielte. Fast in jedem
-							Programm unserer Vereinskonzerte gibt's- was von Dir: im ersten Akadem.
-							Festouvertüre, im zweiten Violinkonzert (Halix), im dritten Symphonie
-							II, im fünften Sextett B dur Op. 18, im sechsten dur-Sonate Bülow). im
-							siebenten Schicksalslied (vor wenig Tagen), dazu Lieder — die ersten
-							Liebesliederwalzer soll ich in einem Wohltätigkeits- konzert zum
-							zweitenmal in diesen Winter bringen. Vorigen Winter gab's Tragische
-							Ouvertüre. — Doppelkonzert (Hallir- und Hausmann) — Serenade II Op. 16.
-							— Haydn=Vari- ationen, — G moll-Quartett, — Rhapsodie (Frau Joachim).
-							auf Wunsch zweimal in zwei Konzerten, Zigeunerlieder, ebenfalls zweimal.
-							Du kannst mir glauben, daß ich alle Sorgfalt auf die Aufführungen
+							wären. Du hörst allerlei würdige Chormusik, einen Haufen Motetten von
+							mir und ein Stück, das Dich notwendig interessieren muß. </p>
+						<p> Kennst Du etwa noch ein H dur-Trio<note>op. 8. Neue Ausgabe</note> aus
+							unserer Jugendzeit, und wärest Du nicht begierig, es jetzt zu hören, da
+							ich ihm — (keine Perrücke aufgesetzt —!) aber die Haare ein wenig
+							gekämmt und geordnet. </p>
+						<p> Wenn Du Dich freimachen kannst, so kommst Du hoffentlich für ein paar
+							Tage, so daß Du die Proben im Zimmer und in Behaglichkeit mitmachen
+							kannst! </p>
+						<p> Ich hoffe recht sehr darauf, und freue mich im voraus wie ein
+							Schneekönig. </p>
+						<closer> Euch alle herzlich grüßend <lb/> Dein <signed>J. Brahms.</signed>
+						</closer>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="117">
+				<body>
+					<div>
+						<opener>
+							<byline>J. O. Grimm an Johannes Brahms</byline>
+							<date when="1890-03-05"/>
+							<settlement key="Münster"/>
+							<dateline>Münster i. W., 5. März 90.</dateline>
+							<salute>Lieber Brahms!</salute>
+						</opener>
+						<p> Du hast uns mit Deinen freundlichen Worten große Freude und eine
+							ungeahnte Überraschung bereitet — das schönste Geschenk zu meinem
+								Geburtstag<note>6. März</note> (morgen). Wir, <pb facs="#facs_164"
+								n="164"/> meine Frau, wie ich, danken Dir herzlich und werden
+							natürlich kommen und freuen uns darauf, als wären wir über 30 Jahr
+							jünger. Käme doch Frau Schumann auch nach Köln. — </p>
+						<p> Von Deinem neugestaltetem H dur-Trio hat mir Bülow bereits „Wunder
+							erzählt, der neulich hier u. a. Deine C dur-Sonate Op. 1 spielte. </p>
+						<p> Fast in jedem Programm unserer Vereinskonzerte gibt's was von Dir: im
+							ersten Akadem. Festouvertüre, im zweiten Violinkonzert (Halir), im
+							dritten Symphonie II, im fünften Sextett B dur Op. 18, im sechsten C
+							dur-Sonate (Bülow). im siebenten Schicksalslied (vor wenig Tagen), dazu
+							Lieder — die ersten Liebesliederwalzer soll ich in einem
+							Wohltätigkeitskonzert zum zweitenmal in diesen Winter bringen. Vorigen
+							Winter gab's Tragische Ouvertüre, — Doppelkonzert (Halir- und Hausmann)
+							— Serenade II Op. 16, — Haydn-Variationen, — G moll-Quartett, —
+							Rhapsodie (Frau Joachim) auf Wunsch zweimal in zwei Konzerten, —
+							Zigeunerlieder ebenfalls zweimal. </p>
+						<p> — Du kannst mir glauben, daß ich alle Sorgfalt auf die Aufführungen
 							verwendet habe und unser Orchester und Chor haben sich wesentlich
-							verbessert seit Deinem letzten Hier- sein, so daß mich mein Gewissen ob
-							dieser Unternehmungen, nicht beißt. Meine Frau grüßt Dich herzlich,
-							ebenso- Dein getreuer. I. O. Grimm. Beide danken wir Dir, daß Du unser
-							gedacht. <pb facs="#facs_165" n="165"/> Brahuts Briefwechsel. 152 XVIII.
-							Johannes Brahms an I. O. Grimm. Dezember 90.). Lieber Grimm! Da kann ich
-							leider nicht dienen! Mit der Erlaubnis- nicht, weil ich gar nicht weiß,
-							welcher Paragraph des Gesetz- buches da in Frage kommt, mit Partitur und
-							Stimmen aber nicht, weil sie längst nicht mehr existieren. Ich habe
-							nicht, wie Du, ein eigenes Palais, um so unnütze Sachen aufbe- wahren zu
-							können. Aber dabei wäre ich gern, und folgenden Tages bei der Rhapsodie,
-							deren Sängerin ich schönstens zu- grüßen bitte und folgende abends bei
-							Dir im gemütlichen Winkel. DAlbert kam neulich direkt von Euch nach
-							Pesth, und ich ließ mir mit sehnsüchtigem Behagen erzählen, daß es noch
-							immer so lieb und freundlich wie sonst bei Euch ist und daß immer noch
-							so viel Marsala getrunken wird — wie- viel dankbarer würde ich
-							mittrinken als er!" Nun wünsche ich die vergnügtesten Festtage und daß
-							sie bis zum nächsten 24. Dezember (fürs erste) dauern mögen. Herzlichste
-							Grüße dazu an alle, von Philippine an bis- zu den Philippinen von Deinem
-							Johannes B. XIX. Johannes Brahms an I. O. Grimm. In Sommer 91. Es ist
-							wohl das erste fröhliche Fest der Art?) in Deinem Hause, zu dem ich
-							heute meine herzlichsten Wünsche sende. 1) Grimms zweiter Sohn Otto
-							hatte sich im Juni 91 verlobt. <pb facs="#facs_166" n="166"/>. 153 Möge
-							noch manches folgen, und möchtet Ihr Euch derselben. und auch, ihrer
-							fröhlichen Folgen noch lange erfreuen. Wegen des v. Trios muß ich noch
-							ein Wort beifügen. Simrock behauptet Dir seinerzeit ein Exemplar (auch
-							vom 5tett) in meinem Auftrag geschickt zu haben! Prinz Reuß aber habe
-							ich nur gesagt, das wäre ein hübscher Anlaß, mir ein- paar Worte zu
-							schreiben. Nun — das war anders, aber nicht gescheiter, als was
-							Durchlaucht ausgerichtet hat! Herzlichste Grüße Deinem ganzen lieben
-							Hause und die- besten Wünsche dazu. Dein. I. B. XX. Johannes Brahms an
-							I. O. Grimm. Poststempel Wien, 3. Oktober 93.] L. Fr. Ich muß Deiner
-							erhabenen (verflossenen) Freundin eine Dankvisite machen. Das soll vor
-							allem ein Anlaß sein, vor-- her eine Karte bei Dir abzugeben.") Eben
-							kommt Dein neues, Programm Säße ich doch einmal wieder bei Dir in Deiner
+							verbessert seit Deinem letzten Hiersein, so daß mich mein Gewissen ob
+							dieser Unternehmungen nicht beißt. — </p>
+						<closer> Meine Frau grüßt Dich herzlich, ebenso <lb/> Dein getreuer
+								<signed>J. O. Grimm.</signed>
+						</closer>
+						<postscript>
+							<p>Beide danken wir Dir, daß Du unser gedacht. —</p>
+						</postscript>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="118">
+				<body>
+					<div>
+						<pb facs="#facs_165" n="165"/>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1890"/>
+							<settlement key="Unbekannt"/>
+							<dateline>[Dezember 90.[</dateline>
+							<salute>Lieber Grimm!</salute>
+						</opener>
+						<p> Da kann ich leider nicht dienen! Mit der Erlaubnis nicht, weil ich gar
+							nicht weiß, welcher Paragraph des Gesetzbuches da in Frage kommt, mit
+							Partitur und Stimmen aber nicht, weil sie längst nicht mehr existieren.
+							Ich habe nicht, wie Du, ein eigenes Palais, um so unnütze Sachen
+							aufbewahren zu können. Aber dabei wäre ich gern, und folgenden Tages bei
+							der Rhapsodie, deren Sängerin ich schönstens zu grüßen bitte und
+							folgende abends bei Dir im gemütlichen Winkel. D'Albert kam neulich
+							direkt von Euch nach Pesth, und ich ließ mir mit sehnsüchtigem Behagen
+							erzählen, daß es noch immer so lieb und freundlich wie sonst bei Euch
+							ist und daß immer noch so viel Marsala getrunken wird — wie viel
+							dankbarer würde ich mittrinken als er! </p>
+						<p> Nun wünsche ich die vergnügtesten Festtage und daß sie bis zum nächsten
+							24. Dezember (fürs erste) dauern mögen. </p>
+						<closer> Herzlichste Grüße dazu an alle, von Philippine an bis zu den
+							Philippinen von <lb/>> Deinem <signed>Johannes B.</signed>
+						</closer>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="119">
+				<body>
+					<div>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1891"/>
+							<settlement key="Unbekannt"/>
+							<dateline>[In Sommer 91.]</dateline>
+							<salute/>
+						</opener>
+						<p> Es ist wohl das erste fröhliche Fest der Art<note>Grimms zweiter Sohn
+								Otto hatte sich im Juni 91 verlobt</note> in Deinem Hause, zu dem
+							ich heute meine herzlichsten Wünsche sende. <pb facs="#facs_166" n="166"
+							/> Möge noch manches folgen, und möchtet Ihr Euch derselben und auch
+							ihrer fröhlichen Folgen noch lange erfreuen. Wegen des v...... Trios muß
+							ich noch ein Wort beifügen. Simrock behauptet Dir seinerzeit ein
+							Exemplar (auch vom 5tett) in meinem Auftrag geschickt zu haben!? Prinz
+							Reuß aber habe ich nur gesagt, das wäre ein hübscher Anlaß, mir ein paar
+							Worte zu schreiben. Nun — das war anders, aber nicht gescheiter, als was
+							Durchlaucht ausgerichtet hat! </p>
+						<closer> Herzlichste Grüße Deinem ganzen lieben Hause und die besten Wünsche
+							dazu. <lb/>> Dein <signed>J. Br.</signed>
+						</closer>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="120">
+				<body>
+					<div>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1893-10-03"/>
+							<settlement key="Wien"/>
+							<dateline>[Poststempel Wien, 3. Oktober 93.]</dateline>
+							<salute> L. Fr.</salute>
+						</opener>
+						<p>Ich muß Deiner erhabenen (verflossenen) Freundin eine Dankvisite machen.
+							Das soll vor allem ein Anlaß sein, vorher eine Karte bei Dir
+								abzugeben:<note>Hier ist eine ausgezeichnete kleine Photographie von
+								Brahms etwa in der Größe einer Briefmarke eingeklebt</note> Eben
+							kommt Dein neues Programm! Säße ich doch einmal wieder bei Dir in Deiner
 							behaglichen Ecke! Für wie manches hätte ich zu danken und von wie
-							manchem zu plaudern, von Philippine bis zu den Philippinen. Dein
-							herzlichst alle grüßender. J. B. *) Hier ist eine ausgezeichnete kleine
-							Photographie von Brahms- etwa in der Größe einer Briefmarke eingeklebt.
-								<pb facs="#facs_167" n="167"/>. 154. XXI. Johannes Brahms an I. O.
-							Grimm. Ischl, im Juni 95.) L. Fr. Schönsten Dank für Deine freundlichen
-							Worte, die mich, sehr erfreuten. Gerne hätte ich freilich einiges mehr
-							von Philippine und den Philippinen gehört Und wann sieht man sich gar
-							einmal wieder!" Von Herzen. Dein. J. B. XXII. I. O. Grimm an Johannes
-							Brahms. Münster i W., 19. Juni 1895. Lieber Brahms- Willst Du uns auf
-							unsere späten Tage noch übermütig machen? — Wir beiden Alten haben uns
-							einen Kuß gegeben, vor Freude über Deine lieben Worte und Dein Bild.“)
-							Das letztere hat sich Philippine für ihren Schreibtisch annektiert. Daß
-							ich Dir mehr von ihr und den Philippinen melden soll, danke ich Dir
-							herzlich. Der Junge ist nun schon über zwölf Jahre unter den leidigen
-							Spaniolen, — hat jetzt seine eigene Apotheke in Iloilo (Insel Panay) und
-							kann nun erst recht, nicht heimkommen. Er schreibt aber stets heiter und
-							zufrieden, und klagt nie. — Die Briefe gehn oft sechs, oft acht Wochen.
-							Uns wird's nachgerade ungemütlich, besonders Muttern. *) Eine sehr
-							schöne Photographie in Kabinettformat. <pb facs="#facs_168" n="168"/>
-							Brahms' Briefwechsel. 155. Meines Schwiegervaters liebenswürdiger
-							Frohsinn ist bei- den zum Erbteil zugefallen, einer Frau, wie Deinem
-							Paten- kind. — Bei uns im Hause kommt keine Duckmäuserei auf, Dank dem
-							Hausmütterchen. — Unser Zweitgeborener Otto ist, Doktor der Medizin am
-							Küraffierregiment hier, verheiratet, — auch ein guter Junge und soll
-							sich als Arzt ruhig und tüchtig benehmen. Und das (27 jährige) „Kind"
-							Marie musi- ziert eifrig und schwärmt für Deine Klavierstücke. — Ich
-							selbst, kriege Deine beiden Klarinetten=Sonaten*) wahrhaftig noch unter
-							und werde nächster Tage meinen Klarinettisten dazu einladen, — Herr
-							Gott, sind sie schön! — Bewahre uns Deine Neigung, Du Gottbegnadeter mit
-							Deiner Sphärenseligkeit — und sei von uns beiden herzlich- und dankbar
-							gegrüßt. Dein. I. O. Grimm. XXIII. Johannes Brahms an I. O. Grimm.
-							Poststempel Ischl, 23. Juni 95.). Herzlichen Dank, lieber Freund, es war
-							mir eine wahre, Wohliat, einmal wieder wie in Deiner gemütlichen Ecke
-							zu- sitzen und einiges plaudern zu hören. Wie schön und gut, hast Du es!
-							Und wie doppelt gern kann ich jetzt an Euch- denken, da ich weiß, es sei
-							eben alles noch so gut und schön- wie sonst. Von Herzen grüßende Dein.
-							J. B. 1) op. 120. <pb facs="#facs_169" n="169"/> Brahns Briefwechsel.
-							156 XXIV. Johannes Brahms an I. O. Grimm. 10. November 95.). Außerdem
-							die besten Wünsche für die neue Würde,") die- wie Du denken magst, als
-							für ihn unerreichbar, ganz ungemein- imponiert. Deinem herzlich
-							grüßenden. J. B. XXV. Johannes Brahms an I. O. Grimm. Wien, April 96.)
-							Teurer Freund! Der Gedanke an Dich läßt mich gar nicht los. Aber so
-							schön und lieb alles ist, was mich an Dich und Deine liebe Frau
-							erinnert, mit wieviel Wehmut ist es jetzt ver-- schleiert.?) Es ist doch
-							gar traurig, daß scheiden muß, was so lange und innig verbunden war.
-							Deiner Liebe zu ihre mag es ein ernster Trost sein, daß sie jetzt nicht
-							Deinen- Schmerz zu tragen hat, und in Euren Kindern hast Du den
+							manchem zu plaudern, von Philippine bis zu den Philippinen. </p>
+						<closer> Dein herzlichst alle grüßender <signed>J. B</signed>
+						</closer>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="121">
+				<body>
+					<div>
+						<pb facs="#facs_167" n="167"/>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1895-06"/>
+							<settlement key="Ischl"/>
+							<dateline>[Ischl, im Juni 95.]</dateline>
+							<salute>L. Fr. </salute>
+						</opener>
+						<p> Schönsten Dank für Deine freundlichen Worte, die mich sehr erfreuten. </p>
+						<p> Gerne hätte ich freilich einiges mehr von Philippine und den Philippinen
+							gehört! </p>
+						<p> Und wann sieht man sich gar einmal wieder!! </p>
+						<closer> Von Herzen <lb/> Dein <signed>J. B.</signed>
+						</closer>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="122">
+				<body>
+					<div>
+						<opener>
+							<byline>J. O. Grimm an Johannes Brahms</byline>
+							<date when="1895-06-19"/>
+							<settlement key="Münster"/>
+							<dateline>Münster i W., 19. Juni 1895.</dateline>
+							<salute>Lieber Brahms!</salute>
+						</opener>
+						<p> Willst Du uns auf unsere späten Tage noch übermütig machen? — Wir beiden
+							Alten haben uns einen Kuß gegeben, vor Freude über Deine lieben Worte
+							und Dein Bild.<note>Eine sehr schöne Photographie in
+								Kabinettformat</note> Das letztere hat sich Philippine für ihren
+							Schreibtisch annektiert. — Daß ich Dir mehr von ihr und den Philippinen
+							melden soll, danke ich Dir herzlich. Der Junge ist nun schon über zwölf
+							Jahre unter den leidigen Spaniolen, — hat jetzt seine eigene Apotheke in
+							Iloilo (Insel Panay) und kann nun erst recht nicht heimkommen. Er
+							schreibt aber stets heiter und zufrieden und klagt nie. — Die Briefe
+							gehn oft sechs, oft acht Wochen. Uns wird's nachgerade ungemütlich,
+							besonders Muttern. <pb facs="#facs_168" n="168"/> — Meines
+							Schwiegervaters liebenswürdiger Frohsinn ist beiden zum Erbteil
+							zugefallen, meiner Frau, wie Deinem Patenkind. — Bei uns im Hause kommt
+							keine Duckmäuserei auf, Dank dem Hausmütterchen. — Unser Zweitgeborener
+							Otto ist Doktor der Medizin am Kürassierregiment hier, verheiratet, —
+							auch ein guter Junge und soll sich als Arzt ruhig und tüchtig benehmen.
+							Und das (27 jährige) „Kind“ Marie musiziert eifrig und schwärmt für
+							Deine Klavierstücke. — Ich selbst kriege Deine beiden
+								Klarinetten-Sonaten<note>op. 120</note> wahrhaftig noch unter und
+							werde nächster Tage meinen Klarinettisten dazu einladen, — Herr Gott,
+							sind sie schön! — </p>
+						<p> Bewahre uns Deine Neigung, Du Gottbegnadeter mit Deiner Sphärenseligkeit
+							— und sei von uns beiden herzlich und dankbar gegrüßt.</p>
+						<closer> Dein <signed>J. O. Grimm</signed>
+						</closer>
+						<postscript>
+							<p/>
+						</postscript>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="123">
+				<body>
+					<div>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1895-06-23"/>
+							<settlement key="Ischl"/>
+							<dateline>[Poststempel Ischl, 23. Juni 95.]</dateline>
+							<salute/>
+						</opener>
+						<p> Herzlichen Dank, lieber Freund, es war mir eine wahre Wohltat, einmal
+							wieder wie in Deiner gemütlichen Ecke zu sitzen und einiges plaudern zu
+							hören. Wie schön und gut hast Du es! Und wie doppelt gern kann ich jetzt
+							an Euch denken, da ich weiß, es sei eben alles noch so gut und schön wie
+							sonst. </p>
+						<closer> Von Herzen grüßend <lb/> Dein <signed>J. B.</signed>
+						</closer>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="124">
+				<body>
+					<div>
+						<pb facs="#facs_169" n="169"/>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1895-11-12"/>
+							<settlement key="Unbekannt"/>
+							<dateline>[10. November 95.]</dateline>
+							<salute/>
+						</opener>
+						<p> Außerdem die besten Wünsche für die neue Würde,<note>Die Zeilen sind auf
+								ein Depeschen-Formular geschrieben, in einem Kouvert abgeschickt,
+								und gratulieren zur Würde eines Großvaters: dem Sohne Otto war am 5.
+								November 95 ein Töchterchen geboren worden</note> die wie Du denken
+							magst, als für ihn unerreichbar, ganz ungemein imponiert. </p>
+						<closer>Deinem herzlich grüßenden <signed>J. B.</signed>
+						</closer>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="125">
+				<body>
+					<div>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1896-04"/>
+							<settlement key="Wien"/>
+							<dateline>[Wien, April 96.]</dateline>
+							<salute>Teurer Freund!</salute>
+						</opener>
+						<p> Der Gedanke an Dich läßt mich gar nicht los. Aber so schön und lieb
+							alles ist, was mich an Dich und Deine liebe Frau erinnert, mit wieviel
+							Wehmut ist es jetzt verschleiert!<note>Am 8. März 96 war Frau Philippine
+								an einer Lungenentzündung und während Grimm selbst an der gleichen
+								Krankheit schwer und besinnungslos danieder lag, gestorben</note> Es
+							ist doch gar traurig, daß scheiden muß, was so lange und innig verbunden
+							war. Deiner Liebe zu ihr mag es ein ernster Trost sein, daß sie jetzt
+							nicht Deinen Schmerz zu tragen hat, und in Euren Kindern hast Du den
 							freundlicheren Trost, sie weiter leben zu sehen. Wie gerne denke ich,
 							daß die Tochter bei Dir im Haus ist und mit welcher Liebe sie sich
 							bemühen wird — freundlich an die Mutter zu erinnern. Ein wenig lindernd
-							mag Dir doch auch der Gedanke sein, mit welcher Liebe alle Freunde an-
-							*) Die Zeilen sind auf ein Depeschen-Formular geschrieben, in einem
-							Kouvert abgeschickt, und gratulieren zur Würde eines Großvaters: dem
-							Sohne Otto war am 5. November 95 ein Töchterchen geboren worden. *) Am
-							8. März 96 war Frau Philippine an einer Lungenentzün- dung und während
-							Grimm selbst an der gleichen Krankheit schwer und besinnungslos danieder
-							lag, gestorben. <pb facs="#facs_170" n="170"/>. 157 an sie Dir hängen,
-							und wie überaus teuer die Erinnerung. treuer ihnen allen ist. Set recht
-							von Herzen gegrüßt in alter, Freundschaft: Dein- I. Brahms. XXVI.
-							Johannes Brahms an I. O. Grimm. Im Sommer 96. Teurer Freund, Deiner war
-							der erste Gruß zum 7.1 und einer der allerwillkommensten; habe tausend
-							Dank! Wie sehr ich Deine- letzte schwere Zeit mitempfunden habe, kannt
-							ich Dir nicht, herzlich genug sagen — aber auch nicht, wie gern ich
-							dann, Deiner Kinder dachte und was sie Dir sind und sein werden. Hente
-							laß mich nur noch sagen, daß es Frau Schumann, entschieden besser zu
-							gehen scheint. Sie denkt nächstens nach, Baden=Baden zu gehen, (wohin
-							auch ihre Tochter Sommer- hof geht.) Das wäre nun eigentlich der
-							schönste Ort auch zu Deiner Erholung! Uberlege es doch, und wenn Du-
-							irgend daran denkt, so melde es mir möglichst gleich. Ich möchte ganz
-							gewiß kommen und mit welcher Freude! Herzlichst Dein. Johannes. XXVII.
-							I. O. Grimm an Johannes Brahms. Münster i. W., 13. Juli 96. Lieber
-							Brahms Für die Sendung Deines Op. 1212) danke ich Dir herzlich; Du hast
-							mich damit sehr erfreut. Die Gesänge sind 1) Zum 7. Mai, Brahms
-							Geburtstag. — *) Die Ernsten Gesänge. <pb facs="#facs_171" n="171"/> 158
-							Brahms Briefwechsel. herrlich und erschüttern gewaltig, — unbarmherzig
-							in Wort- wie Ton; — ich bewundere gleichmäßig, wie und daß Du- diese
-							Texte in Musik gebracht hast. Meine Ferien soll ich auf Rügen zubringen
-							— mit Mimi. Ich bin jetzt wieder so weit mobil. — Nach Bonn zum
-							Begräbnis von Frau Schumann durfte und konnte ich noch nicht reisen.
-							Wann und wo wird mir beschieden sein, Dich wieder-- zusehen? Von Herzen
-							Dein, I. O. Grimm. XXVIII. Johannes Brahms an I. O. Grimm. Dem teuren
-							innigstgeliebten Freunde wünscht das Herz- lichste am heutigen Tage sein
-							alt und treu ergebener. Johannes Brahms.) *) Diese Depesche zum
-							Geburtstage am 6. März 87 ist das letzte, Zeichen seines treuen
-							Gedenkens: vier Wochen später — am 6. April = senkte man ihn, den so
-							heiß geliebten Freund, zu Wien ins Grab: — </p>
+							mag Dir doch auch der Gedanke sein, mit welcher Liebe alle Freunde an
+								<pb facs="#facs_170" n="170"/> Dir hängen, und wie überaus teuer die
+							Erinnerung an sie ihnen allen ist. Sei recht von Herzen gegrüßt in
+							alter, treuer Freundschaft! </p>
+						<closer> Dein <signed>J. Brahms.</signed>
+						</closer>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="126">
+				<body>
+					<div>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1896"/>
+							<settlement key="Unbekannt"/>
+							<dateline>[Im Sommer 96.]</dateline>
+							<salute>Teurer Freund,</salute>
+						</opener>
+						<p> Deiner war der erste Gruß zum 7.<note>Zum 7. Mai, Brahms
+								Geburtstag</note> und einer der allerwillkommensten; habe tausend
+							Dank! Wie sehr ich Deine letzte schwere Zeit mitempfunden habe, kann ich
+							Dir nicht herzlich genug sagen — aber auch nicht, wie gern ich dann
+							Deiner Kinder dachte und was sie Dir sind und sein werden. </p>
+						<p> Heute laß mich nur noch sagen, daß es Frau Schumann entschieden besser
+							zu gehen scheint. Sie denkt nächstens nach Baden-Baden zu gehen, (wohin
+							auch ihre Tochter Sommerhof geht.) Das wäre nun eigentlich der schönste
+							Ort auch zu Deiner Erholung! Überlege es doch, und wenn Du irgend daran
+							denkt, so melde es mir möglichst gleich. Ich möchte ganz gewiß kommen
+							und mit welcher Freude! </p>
+						<closer> Herzlichst Dein <signed>Johannes.</signed>
+						</closer>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="127">
+				<body>
+					<div>
+						<opener>
+							<byline>J. O. Grimm an Johannes Brahms</byline>
+							<date when="1896-07-13"/>
+							<settlement key="Münster"/>
+							<dateline>Münster i. W., 13. Juli 96.</dateline>
+							<salute>Lieber Brahms!</salute>
+						</opener>
+						<p> Für die Sendung Deines Op. 121<note>Die Ernsten Gesänge</note> danke ich
+							Dir herzlich; Du hast mich damit sehr erfreut. Die Gesänge sind <pb
+								facs="#facs_171" n="171"/> herrlich und erschüttern gewaltig, —
+							unbarmherzig in Wort wie Ton; — ich bewundere gleichmäßig, wie und daß
+							Du diese Texte in Musik gebracht hast. — </p>
+						<p> Meine Ferien soll ich auf Rügen zubringen — mit Mimi. Ich bin jetzt
+							wieder so weit mobil. — Nach Bonn zum Begräbnis von Frau Schumann durfte
+							und konnte ich noch nicht reisen. — </p>
+						<p> Wann und wo wird mir beschieden sein, Dich wiederzusehen? </p>
+						<closer> Von Herzen Dein <signed>J. O. Grimm.</signed>
+						</closer>
+					</div>
+				</body>
+			</text>
+			<text type="letter" n="128">
+				<body>
+					<div>
+						<opener>
+							<byline>Johannes Brahms an J. O. Grimm</byline>
+							<date when="1897-03-06"/>
+							<settlement key="Unbekannt"/>
+							<dateline/>
+							<salute/>
+						</opener>
+						<p> Dem teuren innigstgeliebten Freunde wünscht das Herzlichste am heutigen
+							Tage sein alt und treu ergebener</p>
+						<closer>
+							<signed>Johannes Brahms.<note>Diese Depesche zum Geburtstage am 6. März
+									97 ist das letzte Zeichen seines treuen Gedenkens; vier Wochen
+									später — am 6. April — senkte man ihn, den so heiß geliebten
+									Freund, zu Wien ins Grab! —</note></signed>
+						</closer>
+						<postscript>
+							<p/>
+						</postscript>
 					</div>
 				</body>
 			</text>
