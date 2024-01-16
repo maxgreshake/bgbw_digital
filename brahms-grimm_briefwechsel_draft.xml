@@ -9,6 +9,10 @@
 				<title level="a">Digitale Aufbereitung analoger Briefeditionen</title>
 				<title level="m">Johannes Brahms im Briefwechsel mit J. O. Grimm</title>
 				<author>Richard Barth</author>
+				<respStmt>
+					<resp>Ursprüngliche Edition</resp>
+					<name>Richard Barth</name>
+				</respStmt>
 				<editor>Maximilian Greshake</editor>
 				<respStmt>
 					<resp>Aufbereitung</resp>
@@ -16,7 +20,7 @@
 				</respStmt>
 			</titleStmt>
 			<editionStmt>
-				<p>Version 1.0 vom 11.10.2023</p>
+				<p>Version 2.0 vom 14.01.2024</p>
 			</editionStmt>
 			<publicationStmt>
 				<publisher>
@@ -1326,7 +1330,7 @@
 				<p> Wer das Glück hatte, länger mit ihm zu verkehren, mußte seine vielseitige
 					Bildung, sein tiefgreifendes Wissen und die souveräne Beherrschung der
 					verschiedensten und entlegensten Materien bewundern; aber auch ebenso seine
-					milde Güte, sein liebe- <pb facs="#facs_4" n="4"/> volles Eingehen auf alle
+					milde Güte, sein liebe- <pb facs="#facs_4" n="4"/>volles Eingehen auf alle
 					Wünsche, sofern sie hohe und ideale Ziele verfolgten. In ihm war die Gelehrten-
 					und Künstlernatur in vollendeter Weise vereinigt. Der glühende, förmlich in
 					Flammen auflodernde Enthusiasmus für alles Schöne, Gute und Wahre, für alles
@@ -1609,7 +1613,7 @@
 					kombinierten oder nach dem Poststempel vom Herausgeber hinzugefügten. </p>
 				<p> Nur der ausdrückliche Wunsch von Fräulein Marie Grimm konnte ihn bestimmen, den
 					Auftrag der Deutschen Brahms-Gesellschaft zu übernehmen und auszuführen. Er
-					glaubte es als eine Ehren- <pb facs="#facs_13" n="13"/> pflicht auffassen zu
+					glaubte es als eine Ehren- <pb facs="#facs_13" n="13"/>pflicht auffassen zu
 					sollen und als eine Gelegenheit, eine sich nie mindernde Dankesschuld abzutragen
 					für alles, was ihm die beiden Freunde gegeben haben! — </p>
 				<p> Ganz besonderen Dank für so manche wichtige Aufklärung gebührt vor allem Frau
@@ -1634,35 +1638,35 @@
 							<byline>J. O. Grimm an Johannes Brahms</byline>
 							<date when="1853-12-21"/>
 							<settlement key="Hannover"/>
-							<dateline> Hannover, den 21. Dezember 53. </dateline>
-							<salute>Mein lieber Johannes Kreisler junior!<note type="footnote"> So
-									und auch Johannes Kreisler II hatte sich Brahms nach E. T. A.
-									Hoffmanns verrücktem Kapellmeister Johannes Kreisler
-									(Phantasiestücke in Callots Manier) selbst oft genannt.</note>
+							<dateline>Hannover, den 21. Dezember 53. </dateline>
+							<salute>Mein lieber Johannes Kreisler junior!<note> So und auch Johannes
+									Kreisler II hatte sich Brahms nach E. T. A. Hoffmanns verrücktem
+									Kapellmeister Johannes Kreisler (Phantasiestücke in Callots
+									Manier) selbst oft genannt.</note>
 							</salute>
 						</opener>
 						<p> Leider ist Joachim nicht hier und kommt erst Freitag abend, — ich kann
 							also so lange nicht warten und muß bis- auf die Rückreise meine
 							Sehnsucht nach ihm unterdrücken. — Erst heute morgen war ich so
-							glücklich, den Herrn Staatsminister von Schleinitz<note type="footnote">
-								In Göttingen wurde die Stelle des Universitäts-Musikdirektors frei,
-								um die sich Grimm bewarb. Da es nun aber nach Angabe des Herrn Dr.
-								Georg Fischer zu jener Zeit keinen Staatsminister von Schleinitz in
-								Hannover gab, so mag dieser Name Grimm wohl in der Zerstreutheit und
-								in Gedanken an den Leipziger Konservatoriums=Direktor, der ihn gewiß
-								mit guten Empfehlungen ausgestattet hatte, aus der Feder geflossen
-								sein. — Was es mit dem Referat aus Gandersheim für eine Bewandtnis
-								hatte, ließ sich nicht mehr ermitteln.</note> zu sprechen. Der Brief
-							von Moscheles hat famose Wirkung getan, denn ich wurde vom Schleinitz
-							wie ein Mondkalb empfangen und habe Hoffnung; — es wird nur noch ein
-							Referat aus Gandersheint erwartet, und wenn darin nicht zu blödsinnige
-							Gründe gegen mich aufgeführt sind, so kann sich die Sache noch machen,
-							und ich brauche nicht nach England zu gehen. — Wir sehen uns also erst
-							im Mai wieder, wenn die Sachen gut gehen. — Einstweilen leb wohl, mein
-							süßer Junge. Grüße Deine Eltern und Geschwister unbekannterweise von mir
-							und verbringe ein schönes Fest. Beiläufig könntest Du mir einmal
-							schreiben, wie Du die Deinigen gefunden hast, Du weißt, alles, was Du
-							mir schreibst, ist mir wie mein Eigen — </p>
+							glücklich, den Herrn Staatsminister von Schleinitz<note> In Göttingen
+								wurde die Stelle des Universitäts-Musikdirektors frei, um die sich
+								Grimm bewarb. Da es nun aber nach Angabe des Herrn Dr. Georg Fischer
+								zu jener Zeit keinen Staatsminister von Schleinitz in Hannover gab,
+								so mag dieser Name Grimm wohl in der Zerstreutheit und in Gedanken
+								an den Leipziger Konservatoriums=Direktor, der ihn gewiß mit guten
+								Empfehlungen ausgestattet hatte, aus der Feder geflossen sein. — Was
+								es mit dem Referat aus Gandersheim für eine Bewandtnis hatte, ließ
+								sich nicht mehr ermitteln.</note> zu sprechen. Der Brief von
+							Moscheles hat famose Wirkung getan, denn ich wurde vom Schleinitz wie
+							ein Mondkalb empfangen und habe Hoffnung; — es wird nur noch ein Referat
+							aus Gandersheint erwartet, und wenn darin nicht zu blödsinnige Gründe
+							gegen mich aufgeführt sind, so kann sich die Sache noch machen, und ich
+							brauche nicht nach England zu gehen. — Wir sehen uns also erst im Mai
+							wieder, wenn die Sachen gut gehen. — Einstweilen leb wohl, mein süßer
+							Junge. Grüße Deine Eltern und Geschwister unbekannterweise von mir und
+							verbringe ein schönes Fest. Beiläufig könntest Du mir einmal schreiben,
+							wie Du die Deinigen gefunden hast, Du weißt, alles, was Du mir
+							schreibst, ist mir wie mein Eigen — </p>
 						<closer> Dein <signed>J. Grimm.</signed></closer>
 					</div>
 				</body>
@@ -1678,60 +1682,58 @@
 							<salute>Liebster Kreisler — </salute>
 						</opener>
 						<p> Verzeih, daß ich Dir schreibe, — folgendes scheint mir aber doch gar zu
-							wichtig; — ich habe Schumann<note type="footnote"> Am 27. Februar 1854
-								war Schumann in seiner plötzlich ausgebrochenen Geistesumnachtung in
-								Düsseldorf in den Rhein gesprungen, aber sogleich gerettet worden;
-								am 4. März hatte man ihn nach Endenich in die Irrenheilanstalt
-								gebracht, wo ihn Grimm, wie wir aus diesem Briefe erfahren, — es war
-								am 13. August — hinter ein halbgeöffnetes Jalousiefenster versteckt,
-								sehen durfte.</note> gesehen; — auf meinem Besuch in Endenich fragte
-							ich den Dr. Peters<note type="footnote">Dr. Peters, Assistenzarzt des
-								Dr. Richarz, Leiters der Irren-Heilanstalt Endenich bei
-							Bonn.</note>, ob es möglich sei, daß ich ihn sähe, und es dauerte nicht
-							lang, so kam er (Schumann) vom Spaziergange heim, — ich lauschte und
-							schaute am offnen Fenster, Dr. Peters ging ihm auf dem Hofe entgegen und
-							knüpfte ein Gespräch an, das Schumann sehr freundlich und verständig
-							fortführte, d. h. auf die Fragen antwortete. — Sein Auge hat durchaus
-							nichts Irres, er ist ganz, wie er in Hannover war, nur etwas beleibter.
-							Auf Deiner Rückreise mußt Du jedenfalls in Bonn absteigen und nach
-							Endenich gehen, um es zu versuchen, ob Du ihn nicht auch sehen kannst, —
-							abgesehen von dem Zuge des eignen Herzens wäre es der verehrungswürdigen
-							Frau Schumann wegen sehr schön. — Ich habe ihr über alles, was ich
-							gesehen und gehört, gleich an demselben Abend einen langen,
-							detaillierten Bericht nach Ostende abgestattet. Es war erfreulich, daß
-							ich fast nur Gutes zu berichten hatte. Sonntag abend hat er plötzlich im
-							Weintrinken angehalten und behauptet, es sei Gift im Wein, worauf er den
-							Rest auf die Erde gegossen. — Übrigens ist er ruhig und ver- <pb
-								facs="#facs_16" n="16"/> nünftig gewesen — — so oft er sich geäußert
-							hat. — (Mich erfaßte wider meinen Willen bei seinem Anblick ein Zittern,
-							und der Atem usw.). Von Bonn konnte ich nicht umhin, noch auf einen Tag
-							ins Siebengebirge zurückzugehen, und lag auf dem Drachenfels und
-							Petersberge und fuhr hin und zurück im kleinen Nachen; — seit gestern
-							bin ich hier in Düsseldorf und habe — meinen lieben B ..... hier in
-							meinem Quartier vorgefunden — was wir beginnen, wissen wir noch nicht. —
-							Die Leser<note type="footnote"> Fräulein Rosalie Leser, Frau Schumanns
-								intimste Düsseldorfer, leider ganz erblindete Freundin, von der sie
-								in ihrem Tagebuche schrieb: „Rosalie, meine treue und einzige
-								Freundin .... ich gehe nur mit ihr um .... sie versteht mich ganz“.
-								(Siehe Litzmann: Clara Schumann II.)</note> ist mit Frl. Junge<note
-								type="footnote"> Fräulein Elise Junge, Frl. Lesers Freundin und wie
-								diese Frau Schumann herzlich und unbedingt ergeben.</note> in
-							Ostende. — — An Dich ist in Deiner Wohnung nichts angekommen, weder
-							Brief, noch Paket mit Variationen. — B ..... grüßt unbekannterweise —
-							<lb/> Ich bekannterweise. </p>
+							wichtig; — ich habe Schumann<note> Am 27. Februar 1854 war Schumann in
+								seiner plötzlich ausgebrochenen Geistesumnachtung in Düsseldorf in
+								den Rhein gesprungen, aber sogleich gerettet worden; am 4. März
+								hatte man ihn nach Endenich in die Irrenheilanstalt gebracht, wo ihn
+								Grimm, wie wir aus diesem Briefe erfahren, — es war am 13. August —
+								hinter ein halbgeöffnetes Jalousiefenster versteckt, sehen
+								durfte.</note> gesehen; — auf meinem Besuch in Endenich fragte ich
+							den Dr. Peters<note>Dr. Peters, Assistenzarzt des Dr. Richarz, Leiters
+								der Irren-Heilanstalt Endenich bei Bonn.</note>, ob es möglich sei,
+							daß ich ihn sähe, und es dauerte nicht lang, so kam er (Schumann) vom
+							Spaziergange heim, — ich lauschte und schaute am offnen Fenster, Dr.
+							Peters ging ihm auf dem Hofe entgegen und knüpfte ein Gespräch an, das
+							Schumann sehr freundlich und verständig fortführte, d. h. auf die Fragen
+							antwortete. — Sein Auge hat durchaus nichts Irres, er ist ganz, wie er
+							in Hannover war, nur etwas beleibter. Auf Deiner Rückreise mußt Du
+							jedenfalls in Bonn absteigen und nach Endenich gehen, um es zu
+							versuchen, ob Du ihn nicht auch sehen kannst, — abgesehen von dem Zuge
+							des eignen Herzens wäre es der verehrungswürdigen Frau Schumann wegen
+							sehr schön. — Ich habe ihr über alles, was ich gesehen und gehört,
+							gleich an demselben Abend einen langen, detaillierten Bericht nach
+							Ostende abgestattet. Es war erfreulich, daß ich fast nur Gutes zu
+							berichten hatte. Sonntag abend hat er plötzlich im Weintrinken
+							angehalten und behauptet, es sei Gift im Wein, worauf er den Rest auf
+							die Erde gegossen. — Übrigens ist er ruhig und ver- <pb facs="#facs_16"
+								n="16"/>nünftig gewesen — — so oft er sich geäußert hat. — (Mich
+							erfaßte wider meinen Willen bei seinem Anblick ein Zittern, und der Atem
+							usw.). Von Bonn konnte ich nicht umhin, noch auf einen Tag ins
+							Siebengebirge zurückzugehen, und lag auf dem Drachenfels und Petersberge
+							und fuhr hin und zurück im kleinen Nachen; — seit gestern bin ich hier
+							in Düsseldorf und habe — meinen lieben B ..... hier in meinem Quartier
+							vorgefunden — was wir beginnen, wissen wir noch nicht. — Die Leser<note>
+								Fräulein Rosalie Leser, Frau Schumanns intimste Düsseldorfer, leider
+								ganz erblindete Freundin, von der sie in ihrem Tagebuche schrieb:
+								„Rosalie, meine treue und einzige Freundin .... ich gehe nur mit ihr
+								um .... sie versteht mich ganz“. (Siehe Litzmann: Clara Schumann
+								II.)</note> ist mit Frl. Junge<note> Fräulein Elise Junge, Frl.
+								Lesers Freundin und wie diese Frau Schumann herzlich und unbedingt
+								ergeben.</note> in Ostende. — — An Dich ist in Deiner Wohnung nichts
+							angekommen, weder Brief, noch Paket mit Variationen. — B ..... grüßt
+							unbekannterweise — <lb/> Ich bekannterweise. </p>
 						<closer> Leb wohl, reise wonnig, sei wonnig, Du wonniger Kreisler. <lb/>Dein
 								<signed>J. Grimm.</signed>
 							<dateline>Düsseldorf d. 16. Aug. 54, Schadowstraße 72. </dateline>
 						</closer>
 						<postscript>
-							<p> Schreibe mir! — Weder Wasielewsky<note type="footnote"> Wilh. J. von
-									Wasielewski, namhafter Geiger, von Schumann als Konzertmeister
-									für das Düsseldorfer Orchester gewonnen; später Musikdirektor in
-									Bonn und fleißiger Schriftsteller. (Biographie von Rob. Schumann
-									und „Die Violine und ihre Meister“ usw.)</note> noch
-									Reimers<note type="footnote"> Reiners, tüchtiger Cellist aus
-									Altona, seit 1851 in Düsseldorf.</note> habe ich finden
-								können.</p>
+							<p> Schreibe mir! — Weder Wasielewsky<note> Wilh. J. von Wasielewski,
+									namhafter Geiger, von Schumann als Konzertmeister für das
+									Düsseldorfer Orchester gewonnen; später Musikdirektor in Bonn
+									und fleißiger Schriftsteller. (Biographie von Rob. Schumann und
+									„Die Violine und ihre Meister“ usw.)</note> noch Reimers<note>
+									Reiners, tüchtiger Cellist aus Altona, seit 1851 in
+									Düsseldorf.</note> habe ich finden können.</p>
 						</postscript>
 					</div>
 				</body>
@@ -1744,34 +1746,33 @@
 							<byline>J. O. Grimm an Johannes Brahms</byline>
 							<date when="1854-10"/>
 							<settlement key="Hannover"/>
-							<dateline>(Hannover, Ende Oktober<note type="footnote"> Das ganze Jahr
-									1854 bis zum Herbst hat Grimm in Düsseldorf gelebt und sich dann
-									in Hannover als Klavierlehrer niedergelassen.</note>
-								54.)</dateline>
+							<dateline>(Hannover, Ende Oktober<note> Das ganze Jahr 1854 bis zum
+									Herbst hat Grimm in Düsseldorf gelebt und sich dann in Hannover
+									als Klavierlehrer niedergelassen.</note> 54.)</dateline>
 							<salute>Du viellieber Kreisler! — </salute>
 						</opener>
 						<p> („Parole: Es lebe die Schumann!“) </p>
 						<p> Trotz aller Sehnsucht nach Dir bin ich in diesem Augenblicke doch sehr
 							glücklich! — Denn sie hat mir geschrieben und das Programm ihres
-							gestrigen Konzertes <note type="footnote"> Es war Frau Schumanns eigenes
-								Konzert am 23. Oktober 1854 in Leipzig.</note> beigelegt, allwo auch
-							Dein Name nebst den beiden F moll-Sonatensätzen<note type="footnote">
-								Das Andante und Scherzo aus der F moll-Sonate op. 5.</note>
-							verzeichnet steht. — Ferner schreibt sie, daß sie wohl, wenngleich sehr
-							übermäßig angestrengt, doch aber von den Leipzigern wahrhaft mit Liebe
-							umfangen sei; — es ist doch zu dumm, daß wir nicht mit ihr sein können!
-							— Ferner schreibt sie, Kistners<note type="footnote"> Fr. Kistner,
-								Leipziger Musikverlag.</note> wollen meine Lieder drucken, und ich
-							möchte einige Stellen im Akkompagnement erleichtern, die zu weitgriffig
-							und schwer seien; — da dieselben nun gegenwärtig in Deinen Händen, —
-							oder in Deinem Hutkasten — liegen, so bitte ich Dich, sie mir, sobald Du
-							kannst, zu schicken. Auch würdest Du mir einen rechten Gefallen tun,
-							wenn Du sie einmal flüchtig ansähest und die Dir überflüssig scheinenden
-							Intervalle an weitgriffigen Stellen mit Bleistift ausstrichest, — doch
-							brauchst Du das auch nicht zu tun, ich werde wohl selbst damit zustande
-							kommen, obgleich ich nicht begreife, was da Schweres daran sein kann. —
-							Ich kann Dir nicht sagen, wie dankbar ich der Schumann für diesen
-							freundschaftlichen Zug bin, — es kommt mir durchaus unerwartet. — </p>
+							gestrigen Konzertes <note> Es war Frau Schumanns eigenes Konzert am 23.
+								Oktober 1854 in Leipzig.</note> beigelegt, allwo auch Dein Name
+							nebst den beiden F moll-Sonatensätzen<note> Das Andante und Scherzo aus
+								der F moll-Sonate op. 5.</note> verzeichnet steht. — Ferner schreibt
+							sie, daß sie wohl, wenngleich sehr übermäßig angestrengt, doch aber von
+							den Leipzigern wahrhaft mit Liebe umfangen sei; — es ist doch zu dumm,
+							daß wir nicht mit ihr sein können! — Ferner schreibt sie, Kistners<note>
+								Fr. Kistner, Leipziger Musikverlag.</note> wollen meine Lieder
+							drucken, und ich möchte einige Stellen im Akkompagnement erleichtern,
+							die zu weitgriffig und schwer seien; — da dieselben nun gegenwärtig in
+							Deinen Händen, — oder in Deinem Hutkasten — liegen, so bitte ich Dich,
+							sie mir, sobald Du kannst, zu schicken. Auch würdest Du mir einen
+							rechten Gefallen tun, wenn Du sie einmal flüchtig ansähest und die Dir
+							überflüssig scheinenden Intervalle an weitgriffigen Stellen mit
+							Bleistift ausstrichest, — doch brauchst Du das auch nicht zu tun, ich
+							werde wohl selbst damit zustande kommen, obgleich ich nicht begreife,
+							was da Schweres daran sein kann. — Ich kann Dir nicht sagen, wie dankbar
+							ich der Schumann für diesen freundschaftlichen Zug bin, — es kommt mir
+							durchaus unerwartet. — </p>
 						<p> Joachim und ich wünschen Dich oft mit gewaltiger <pb facs="#facs_18"
 								n="18"/> Energie herbei, — wir essen zusammen und sind abends teils
 							auf der Eisenbahn, teils zu Hause, d. h. bei ihm und trinken Wein mit
@@ -1824,32 +1825,32 @@
 						<p> Die Schumann kommt heute abend hier an und ist übermorgen also Dienstag
 							den ?ten in Hamburg. Ich denke sie zu begleiten, wenn ich nicht
 							unversehens eine finstere Macht zu dem düsteren Verhängnis des
-							Hierhängenbleibens überwältigen sollte.<note type="footnote">Frau
-								Schumann kam von ihrer Konzertreise nach Leipzig, Frankfurt a. M.
-								und Weimar am 5. oder 6. November nach Hannover zurück und gönnte
-								sich eine kurze Rast bei den jungen Freunden Joachim — seit 1853
-								Königl. Konzertmeister — und Grimm. Am 7. November führte Grimm
-								seinen Entschluß aus und begleitete Frau Schumann — wahrscheinlich
-								von Brahms an der Landungsbrücke in Harburg empfangen — nach
-								Hamburg, wo sie am 13. in einem Philharm. Konzerte und am 16. in
-								einem eigenen zu spielen hatte.</note> — Bleibt es dabei, daß es
-							Deinen Eltern und Dir recht ist, mich aufzunehmen? wenn das Leiseste
-							dagegen stände, so sage es mir leise ins Ohr, wenn wir uns bei der
-							Ankunft am Bahnhofe oder Landungsplatze sehen. — In Deinem Briefe an
-							Joachim hast Du aber meine letzten Bedenken darüber niedergeschlagen. —
-							Wie wir über Schumanns Brief und ich über seinen Gruß, sowie über seine
-							Absicht, Dir zu schreiben, frohlockt (haben) brauche ich nicht zu sagen;
-							übrigens schreibe ich heute nichts weiter (da wir uns ja bald sehen) als
+							Hierhängenbleibens überwältigen sollte.<note>Frau Schumann kam von ihrer
+								Konzertreise nach Leipzig, Frankfurt a. M. und Weimar am 5. oder 6.
+								November nach Hannover zurück und gönnte sich eine kurze Rast bei
+								den jungen Freunden Joachim — seit 1853 Königl. Konzertmeister — und
+								Grimm. Am 7. November führte Grimm seinen Entschluß aus und
+								begleitete Frau Schumann — wahrscheinlich von Brahms an der
+								Landungsbrücke in Harburg empfangen — nach Hamburg, wo sie am 13. in
+								einem Philharm. Konzerte und am 16. in einem eigenen zu spielen
+								hatte.</note> — Bleibt es dabei, daß es Deinen Eltern und Dir recht
+							ist, mich aufzunehmen? wenn das Leiseste dagegen stände, so sage es mir
+							leise ins Ohr, wenn wir uns bei der Ankunft am Bahnhofe oder
+							Landungsplatze sehen. — In Deinem Briefe an Joachim hast Du aber meine
+							letzten Bedenken darüber niedergeschlagen. — Wie wir über Schumanns
+							Brief und ich über seinen Gruß, sowie über seine Absicht, Dir zu
+							schreiben, frohlockt (haben) brauche ich nicht zu sagen; übrigens
+							schreibe ich heute nichts weiter (da wir uns ja bald sehen) als
 							folgendes Schlußmotto von Clemens Brentano, in welchem sich unser ganzes
 							urkaffersches Behagen dithyrambisiert:</p>
 						<pb facs="#facs_20" n="20"/>
 						<p> Mitidika! Mitidika! <lb/> Vien nu guatsch! <lb/> Banu, banu! — <lb/>
-							Nantje fatsch!<note type="footnote">Mititica, mititica — Du kleine, du
-								kleine <lb/> vino 'ncoace — komm herüber! <lb/> Ba nu, ba nu, n'am
-								ce face — O nein, o nein, ich habe dort nichts zu tun. <lb/>
-								(Verstümmeltes Rumänisch, siehe Cl. Brentanos ges. Werke,
-								herausgegeben von Max Morris).</note> Empfiehl mich den Deinigen,
-							die ich nun bald kennen lerne. </p>
+							Nantje fatsch!<note>Mititica, mititica — Du kleine, du kleine <lb/> vino
+								'ncoace — komm herüber! <lb/> Ba nu, ba nu, n'am ce face — O nein, o
+								nein, ich habe dort nichts zu tun. <lb/> (Verstümmeltes Rumänisch,
+								siehe Cl. Brentanos ges. Werke, herausgegeben von Max
+								Morris).</note> Empfiehl mich den Deinigen, die ich nun bald kennen
+							lerne. </p>
 						<closer> Leb wohl <signed>Dein J. Grimm.</signed>
 						</closer>
 					</div>
@@ -1889,24 +1890,24 @@
 							nehmen mußt Du, es ist recht klein bei uns. Aber lauter freundliche
 							Gesichter! Von meiner Kaffeemaschine ist nur ein Trichter zerbrochen!!
 							Der Perpendikel ist verloren, das Schloß der Füße hatte sich gelöst! </p>
-						<p> Geht Joachim nach Weimar? Wie wünschte ich es der Schumann, wegen.<note
-								type="footnote">Da Frau Schumann sich Liszt gegenüber wegen seiner
+						<p> Geht Joachim nach Weimar? Wie wünschte ich es der Schumann,
+								wegen.<note>Da Frau Schumann sich Liszt gegenüber wegen seiner
 								musikalischen Richtung unbehaglich fühlte, wünschte Brahms, daß ihr
 								Joachim in Weimar nahe sei.</note>
 						</p>
 						<p> Jetzt leb wohl und schreibe einmal weiter — auch, wann Du kommen willst,
-							erst mit der Schumann oder früher? Grüße Herrn Henze und Frau<note
-								type="footnote">Muß heißen Henke und Frau, Grimms Wirtsleute in
-								Hannover.</note> aufs herzlichste, Wagemann<note type="footnote"
-								>Wagemann, ein Vetter Grimms, damals Polytechniker in Hannover, Sohn
-								des Superintendenten W. in Sulingen und dessen Gattin, einer geb.
-								Resse und Verwandte Grimms.</note> dito und Joachim vor allen. </p>
+							erst mit der Schumann oder früher? Grüße Herrn Henze und Frau<note>Muß
+								heißen Henke und Frau, Grimms Wirtsleute in Hannover.</note> aufs
+							herzlichste, Wagemann<note>Wagemann, ein Vetter Grimms, damals
+								Polytechniker in Hannover, Sohn des Superintendenten W. in Sulingen
+								und dessen Gattin, einer geb. Resse und Verwandte Grimms.</note>
+							dito und Joachim vor allen. </p>
 						<p> Denkt an mich zuweilen und laß Joachim Dir meine Variationen spielen am
 							Abend, wenn sie kommen, ich möchte mir's so gern denken.</p>
 						<closer> Dein <signed>Johannes Brahms.</signed>
-							<dateline>Hamburg, Yten November.<note type="footnote">Brahms datiert
-									als Gegenstück zu Grimms Brief vom 2ten Oktober den Yten
-									November.</note></dateline>
+							<dateline>Hamburg, Yten November.<note>Brahms datiert als Gegenstück zu
+									Grimms Brief vom 2ten Oktober den Yten
+								November.</note></dateline>
 						</closer>
 					</div>
 				</body>
@@ -1927,66 +1928,65 @@
 							einmal zu schreiben — oder besser selbst herzukommen, denn was treibst
 							Du in Hamburg? — Ich für meine Person habe oft Stille und laute
 							Sehnsucht nach Deiner Musik und Dir und möchte, Du säßest am Klavier,
-							während ich auf dem Sofa läge. — Daß und was Dir Schumann<note
-								type="footnote">Schumann hatte zum ersten Male seit seiner
-								Erkrankung aus Endenich am 15. September an seine Frau und am 27.
-								November auch an Brahms geschrieben, letzterem für seine Fürsorge,
-								mit der er Klara umgibt, dankend und ihm reichstes Lob über seine
-								Variationen (op. 9) aussprechend.</note> geschrieben, hat in uns
-							beiden den freudigsten Resonanzboden gefunden, — auch seine beiden
-							anderen Briefe, wie schön und voll zunehmender Kraft und Klarheit! —
-							Ist's zu begreifen, daß der Arzt dagegen so trübe, düstere Aussichten
-							bietet? — Ich kann nicht dran glauben und halte es für eine übertriebene
-							Vorsicht und für Empfindlichkeit wegen der letzten Anfragen unserer
-							innig verehrten, Übermäßiges duldenden Frau. — Warum sollen wir's
-							glauben? Haben doch die Arzte bis jetzt kein vorhandenes Resultat
-							vorhergesehen, z. B. sich ebenso, wie wir durch den Beginn der
-							Korrespondenz überraschen lassen; — gewiß folgen sie gegen ihn der
-							richtigsten Methode, — aber Propheten sind's nicht und das krasse
-							Benehmen gegen sie ist jedenfalls unrecht und unklug. </p>
+							während ich auf dem Sofa läge. — Daß und was Dir Schumann<note>Schumann
+								hatte zum ersten Male seit seiner Erkrankung aus Endenich am 15.
+								September an seine Frau und am 27. November auch an Brahms
+								geschrieben, letzterem für seine Fürsorge, mit der er Klara umgibt,
+								dankend und ihm reichstes Lob über seine Variationen (op. 9)
+								aussprechend.</note> geschrieben, hat in uns beiden den freudigsten
+							Resonanzboden gefunden, — auch seine beiden anderen Briefe, wie schön
+							und voll zunehmender Kraft und Klarheit! — Ist's zu begreifen, daß der
+							Arzt dagegen so trübe, düstere Aussichten bietet? — Ich kann nicht dran
+							glauben und halte es für eine übertriebene Vorsicht und für
+							Empfindlichkeit wegen der letzten Anfragen unserer innig verehrten,
+							Übermäßiges duldenden Frau. — Warum sollen wir's glauben? Haben doch die
+							Arzte bis jetzt kein vorhandenes Resultat vorhergesehen, z. B. sich
+							ebenso, wie wir durch den Beginn der Korrespondenz überraschen lassen; —
+							gewiß folgen sie gegen ihn der richtigsten Methode, — aber Propheten
+							sind's nicht und das krasse Benehmen gegen sie ist jedenfalls unrecht
+							und unklug. </p>
 						<p>Joachim geht morgen nach Berlin, — wie wird er sie <pb facs="#facs_23"
-								n="23"/> finden?<note type="footnote">Frau Schumann hatte sich Ende
-								November zu einem längeren Aufenthalt (bis zum 21. Dezember) nach
-								Berlin begeben, wo sie während dieser Zeit in mehreren Konzerten —
-								in zweien mit Joachim zusammen — spielte.</note> — Ihm (Joachim)
-							hängt nachgerade die Königlich-hannoversche Konzertmeisterei so zum
-							Halse heraus, daß er jetzt oft mißmutig ist, — dann laufen wir
-							spazieren, oder suchen Schutz bei Musik und Poesie. — Mit Platen<note
-								type="footnote">Graf Platen, Intendant des Königl. Hoftheaters in
-								Hannover.</note> hat er bereits gesprochen, — selbiger ist sehr
-							freundlich und liebenswürdig gewesen und hat es „natürlich gefunden, daß
-							ein Mann wie Joachim sich hier nicht befriedigt fühlen könne, da die
-							hiesigen Musiker Prosaiker und das Publikum ohne Ahnung von Kunst seien“
-							usw. usw. Viel Geschwafel und keine Courage, die Konzertprogramme zu
-							reformieren, — so haben wir z. B. morgen Webers Jubel-Ouvertüre,
-							obgleich Joachim dringend um Op. 124<note type="footnote">op. 124 „Zur
-								Weihe des Hauses" und „Coriolan", zwei Ouvertüren von
-								Beethoven.</note> oder Coriolan gebeten; — sie fragen ihn aber gar
-							nicht mehr, sondern machen hinter seinem Rücken Programme, und der
-							geniale Fischer<note type="footnote">Fischer, Kapellmeister am
-								Hoftheater neben Marschner.</note> dirigiert. Wir haben von diesem
-							an Verhunzungen Unglaubliches erlebt, — heute in der D dur-Symphonie war
-							kein Tempo recht, — wir mußten fortlaufen. — Bei Königs<note
-								type="footnote">König Georg V. von Hannover.</note> wird Joachim mit
-							seiner Kündigung sehr viel Plackerei haben. — Seine Bratschenvariationen
-							sind jetzt fertig. — Dit wirst Deine Wonne daran haben — das ist
-							Phantasieren! — Auch ich habe wirklich glückliche Stunden in mir, — wenn
-							sich aus ihnen eine Ouvertüre entwickelt haben wird, so unterziehe
-							dieselbe Deinem Auge. — Wie geht es Deinen lieben Eltern und Deiner
-							Schwester? Grüße sie alle recht herzlich von mir, ich denke ihrer oft
-							und erzähle Joachim <pb facs="#facs_24" n="24"/> von Euch allen. Deine
-							Mutter hat gewiß nicht gedacht, daß Du ihr sobald wiederkehren würdest.
-							— Ist Dein Bruder in Hamburg? — Kaum wart Ihr fort (vor 14 Tagen), so
-							plagte mich eine Unruhe, als saßen mir 1000 Stecknadeln im Rücken; ich
-							konnte nicht bleiben, und hatte das Bedürfnis nach Lethe, d. h. nach
-							total anderen Menschen, — als ein lauwarmes Duschbad. — Darum setzte ich
-							mich mit Cusike<note type="footnote">Cusike, Spitzname für den Vetter
-								Wagemann.</note> selbigen Tages um 4 Uhr auf die Eisenbahn und fuhr
-							nach Sulingen auf vier Tage. Ich erreichte meinen Zweck, erfrischt kam
-							ich wieder. — Komme auch Du sobald als möglich, Du kannst in Joachims,
-							oder in meinem Quartier wohnen, wie Du willst; Joachim ist ja in Berlin
-							und kommt vielleicht nicht vor dem 30. Dezember wieder. — Er grüßt Dich
-							sehr, und will Dir selbst schreiben. — Auch unser treuer Cusike grüßt. — </p>
+								n="23"/> finden?<note>Frau Schumann hatte sich Ende November zu
+								einem längeren Aufenthalt (bis zum 21. Dezember) nach Berlin
+								begeben, wo sie während dieser Zeit in mehreren Konzerten — in
+								zweien mit Joachim zusammen — spielte.</note> — Ihm (Joachim) hängt
+							nachgerade die Königlich-hannoversche Konzertmeisterei so zum Halse
+							heraus, daß er jetzt oft mißmutig ist, — dann laufen wir spazieren, oder
+							suchen Schutz bei Musik und Poesie. — Mit Platen<note>Graf Platen,
+								Intendant des Königl. Hoftheaters in Hannover.</note> hat er bereits
+							gesprochen, — selbiger ist sehr freundlich und liebenswürdig gewesen und
+							hat es „natürlich gefunden, daß ein Mann wie Joachim sich hier nicht
+							befriedigt fühlen könne, da die hiesigen Musiker Prosaiker und das
+							Publikum ohne Ahnung von Kunst seien“ usw. usw. Viel Geschwafel und
+							keine Courage, die Konzertprogramme zu reformieren, — so haben wir z. B.
+							morgen Webers Jubel-Ouvertüre, obgleich Joachim dringend um Op.
+								124<note>op. 124 „Zur Weihe des Hauses" und „Coriolan", zwei
+								Ouvertüren von Beethoven.</note> oder Coriolan gebeten; — sie fragen
+							ihn aber gar nicht mehr, sondern machen hinter seinem Rücken Programme,
+							und der geniale Fischer<note>Fischer, Kapellmeister am Hoftheater neben
+								Marschner.</note> dirigiert. Wir haben von diesem an Verhunzungen
+							Unglaubliches erlebt, — heute in der D dur-Symphonie war kein Tempo
+							recht, — wir mußten fortlaufen. — Bei Königs<note>König Georg V. von
+								Hannover.</note> wird Joachim mit seiner Kündigung sehr viel
+							Plackerei haben. — Seine Bratschenvariationen sind jetzt fertig. — Dit
+							wirst Deine Wonne daran haben — das ist Phantasieren! — Auch ich habe
+							wirklich glückliche Stunden in mir, — wenn sich aus ihnen eine Ouvertüre
+							entwickelt haben wird, so unterziehe dieselbe Deinem Auge. — Wie geht es
+							Deinen lieben Eltern und Deiner Schwester? Grüße sie alle recht herzlich
+							von mir, ich denke ihrer oft und erzähle Joachim <pb facs="#facs_24"
+								n="24"/> von Euch allen. Deine Mutter hat gewiß nicht gedacht, daß
+							Du ihr sobald wiederkehren würdest. — Ist Dein Bruder in Hamburg? — Kaum
+							wart Ihr fort (vor 14 Tagen), so plagte mich eine Unruhe, als saßen mir
+							1000 Stecknadeln im Rücken; ich konnte nicht bleiben, und hatte das
+							Bedürfnis nach Lethe, d. h. nach total anderen Menschen, — als ein
+							lauwarmes Duschbad. — Darum setzte ich mich mit Cusike<note>Cusike,
+								Spitzname für den Vetter Wagemann.</note> selbigen Tages um 4 Uhr
+							auf die Eisenbahn und fuhr nach Sulingen auf vier Tage. Ich erreichte
+							meinen Zweck, erfrischt kam ich wieder. — Komme auch Du sobald als
+							möglich, Du kannst in Joachims, oder in meinem Quartier wohnen, wie Du
+							willst; Joachim ist ja in Berlin und kommt vielleicht nicht vor dem 30.
+							Dezember wieder. — Er grüßt Dich sehr, und will Dir selbst schreiben. —
+							Auch unser treuer Cusike grüßt. — </p>
 						<closer> Leb wohl, <signed>Dein J. Grimm.</signed>
 						</closer>
 						<postscript>
@@ -1995,8 +1995,8 @@
 								noch. — </p>
 							<p> Härtels haben mir endlich die Korrekturen meiner Scherzi geschickt.
 								Wie geht's bei Grädeners? Grüße ihn und sie! Und grüße auch bei
-									Avés.<note type="footnote">Grädener und Avé-Lallement,
-									hervorragende Musiker in Hamburg.</note>
+									Avés.<note>Grädener und Avé-Lallement, hervorragende Musiker in
+									Hamburg.</note>
 							</p>
 							<p> Ob ich wirklich nach Weihnachten Hamburg zu meinem Wohnort wähle? —
 								erst will ich sehen, ob nicht in Dresden mehr Aussichten sind. — </p>
@@ -2046,10 +2046,10 @@
 						</opener>
 						<p> — Sie leben! — <lb/> Und du auch! — </p>
 						<p> Ich preise Dich glücklich, — auch Deine Bibliothek nebst Jean Paul, —
-							wie hab' ich mich für Dich ge- <pb facs="#facs_26" n="26"/> freut;<note
-								type="footnote">Brahms und Joachim hatten das Weihnachtsfest bei
-								Frau Schumann in Düsseldorf gefeiert, nach Hannover zurückgekehrt,
-								wird Joachim Grimm erzählt haben von Brahms großer Freude über seine
+							wie hab' ich mich für Dich ge- <pb facs="#facs_26" n="26"
+								/>freut;<note>Brahms und Joachim hatten das Weihnachtsfest bei Frau
+								Schumann in Düsseldorf gefeiert, nach Hannover zurückgekehrt, wird
+								Joachim Grimm erzählt haben von Brahms großer Freude über seine
 								Weihnachtsgeschenk von Frau Schumann. In seinem Bericht über den
 								Weihnachtsabend an Schumann schreibt Brahms darüber: — „wie sie mich
 								hoch erfreute durch die sämtlichen Werke Jean Pauls; ich hoffte
@@ -2058,44 +2058,43 @@
 							Schreibe mir bisweilen, oder Joachim so, daß es ebenso für mich gilt, —
 							besonders, wenn Du in Endenich gewesen sein wirst. - Joachims
 							Erzählungen klangen mir zuerst betrübend, je mehr man sie sich aber
-							ansieht, desto tröstender werden sie.<note type="footnote">Joachim hatte
-								am 24. Dezember Schumann besucht und im ganzen nichts sonderlich
-								Beängstigendes berichten können.</note> — Mein neues Jahr scheint
-							nicht beneidenswert zu werden — aber einerlei, — man los! — Erinnere die
-							Schumann an das mir zugedachte Medaillon,<note type="footnote">Das
-								Relief von Rob. und Kl. Schumann von Rietschel</note> im Falle sie
-							in diesen letzten Tagen nicht daran denken sollte. </p>
+							ansieht, desto tröstender werden sie.<note>Joachim hatte am 24. Dezember
+								Schumann besucht und im ganzen nichts sonderlich Beängstigendes
+								berichten können.</note> — Mein neues Jahr scheint nicht
+							beneidenswert zu werden — aber einerlei, — man los! — Erinnere die
+							Schumann an das mir zugedachte Medaillon,<note>Das Relief von Rob. und
+								Kl. Schumann von Rietschel</note> im Falle sie in diesen letzten
+							Tagen nicht daran denken sollte. </p>
 						<p>Ich habe eigentlich für den Augenblick nichts mehr zu sagen, also </p>
 						<closer> Prosit Neujahr! <signed>Dein J. Grimm.</signed>
 						</closer>
 						<postscript>
-							<p>Cusike grüßt. Hast Du Allgeier<note type="footnote">J. Allgeyer,
-									berühmter Radierer und Kupferstecher.</note> und B. gesehen? —
-								Grüße sie, wenn (Du) gelegentlich mit ihnen zusammentriffst. —
-								Apropos: Joachim billigt die Klarinetten und Fagotts zu Anfang
-								Deines Symphoniesatzes, und verwirft entschieden, Marxsens<note
-									type="footnote">Eduard Marxsen, Brahms musiktheoretischer
-									Lehrer, eine anerkannte Autorität in Hamburg. — Aus dem
-									erwähnten Symphoniesatze entstand später der erste Satz des
-									Klavierkonzertes op. 15.</note> Hörner. Überhaupt glaube ich,
-								daß Marxsen Dir mehr als Routinier, denn als Poet geraten hat, —
-								möchte den Satz aber gar zu gern wieder einmal sehen. — </p>
+							<p>Cusike grüßt. Hast Du Allgeier<note>J. Allgeyer, berühmter Radierer
+									und Kupferstecher.</note> und B. gesehen? — Grüße sie, wenn (Du)
+								gelegentlich mit ihnen zusammentriffst. — Apropos: Joachim billigt
+								die Klarinetten und Fagotts zu Anfang Deines Symphoniesatzes, und
+								verwirft entschieden, Marxsens<note>Eduard Marxsen, Brahms
+									musiktheoretischer Lehrer, eine anerkannte Autorität in Hamburg.
+									— Aus dem erwähnten Symphoniesatze entstand später der erste
+									Satz des Klavierkonzertes op. 15.</note> Hörner. Überhaupt
+								glaube ich, daß Marxsen Dir mehr als Routinier, denn als Poet
+								geraten hat, — möchte den Satz aber gar zu gern wieder einmal sehen.
+								— </p>
 							<pb facs="#facs_27" n="27"/>
-							<p> Denke Dir, das Wehnersche Ehepaard<note type="footnote">Wehner,
-									Musiklehrer am Königl. Hofe, vorher Musikdirektor in
-									Göttingen.</note> ist wieder da: — banu, banu vien nu quatsch.
-								Joachim wird von ihnen geelendet, seine Humanität geht weit. — Ich
-								halte mich in respektvoller Entfernung, — solch zudringliche
-								Mattigkeit ist rein widerlich; es scheint, als wolle er gar zu gern
-								die Treppe hinauffallen. </p>
+							<p> Denke Dir, das Wehnersche Ehepaard<note>Wehner, Musiklehrer am
+									Königl. Hofe, vorher Musikdirektor in Göttingen.</note> ist
+								wieder da: — banu, banu vien nu quatsch. Joachim wird von ihnen
+								geelendet, seine Humanität geht weit. — Ich halte mich in
+								respektvoller Entfernung, — solch zudringliche Mattigkeit ist rein
+								widerlich; es scheint, als wolle er gar zu gern die Treppe
+								hinauffallen. </p>
 							<p> An Johannes (Dies soll ein Lorbeerkranz bedeuten mit Eichenlaub.) </p>
 							<p> Lebe wohl, Du Glückseliger! </p>
 							<p> Gestern war die G moll-Symphonie — und wir beide voll. Mozart ist
-								ein echter Kaffer, wir müssen ihn aufnehmen.<note type="footnote"
-									>Dem Kaffern-Bunde, den die schwärmerischen Jünglinge in
-									begeisterter und froher Laune gestiftet, gehörten alle an, die
-									das Höchste in ihrer Kunst geleistet hatten, aber auch nur
-									solche!</note></p>
+								ein echter Kaffer, wir müssen ihn aufnehmen.<note>Dem Kaffern-Bunde,
+									den die schwärmerischen Jünglinge in begeisterter und froher
+									Laune gestiftet, gehörten alle an, die das Höchste in ihrer
+									Kunst geleistet hatten, aber auch nur solche!</note></p>
 						</postscript>
 					</div>
 				</body>
@@ -2113,47 +2112,47 @@
 						<p> Vorgestern abend sind bei Königs erstaunliche Dinge passiert, Joachim
 							betreffend, — da er aber keine Zeit hat, so trägt er mir auf, sie Dir
 							einstweilen mitzuteilen. Vor allen Dingen möchtest Du sofort die beiden
-							Ouvertüren „Heinrich“ und „Demetrius“<note type="footnote">Zwei
-								Ouvertüren von Joachim.</note> herschicken, denn sie sollen <pb
-								facs="#facs_28" n="28"/> übermorgen gemacht werden. — Vorgestern
-							abend also ward Joachim zur Majestät zitiert und von ihr ins Gebet
-							genommen (Platen hatte nämlich Joachims Absicht, Hannover zu verlassen,
-							oben referiert). Es ist eine lange, detaillierte Audienz gewesen,
-							Joachim kam von Hofe erst um halb 10 zu- unserem Silvesterpunsch und
-							erzählte uns die Unterredung haarklein, — ich bedauere, daß Raum und
-							Zeit zu kurz, auch fürchte ich die schönen Joachimschen Antworten nicht
-							ganz treu aus dem Gedächtnis niederschreiben zu können, — sonst lieferte
-							ich Dir gern einen stenographischen Bericht. Der König ist seinerseits
-							milde und gütig, aber künstlerisch — ....... gewesen, — Joachim hat ihm
-							Schlag auf Schlag unumwunden und wahr geantwortet und nichts geschont,
-							aber so schön — wie er eben ist; er weiß mit Königen zu reden. — Die
-							Majestät hat ihm übrigens seine Freimütigkeit nicht übelgenommen,
-							sondern ihn gnädig entlassen, jedoch so, daß alles unentschieden
-							geblieben ist, — als solle Joachim noch reiflich überlegen. Gestern
-							passierte von dorther nichts, — von Düsseldorf her um so mehr und
-							Schöneres durch die Briefe von Ihm und Ihr. — Abends biß Joachim in
-							einen saueren Apfel und spielte in der Oper mit (Robert der Deibel). —
-							Heute morgen kam ein sehr freundlicher, um den Finger zu wickelnder
-							Brief vom Grafen Platen mit dem in letzter Zeit eine Art von gespannten
-							Verhältnis statthatte), worin dieser ihn aufforderte, die
-							Heinrich-Ouvertüre zu probieren, und in einem der nächsten
-							Abonnementskonzerte aufzuführen, — außerdem viel schöne Dinge; er solle
-							im nächsten Konzert wieder spielen, und Schuberts C dur-Symphonie
-							dirigieren, — kurz, er solle schalten und walten usw. Heut abend ist er
-							abermals zum König zitiert wegen Hofkonzert. — Es scheint, als habe die
-							Majestät <pb facs="#facs_29" n="29"/> dem Herrn Grafen sehr bestimmte
-							Weisungen gegeben und als sollte auf Joachims Entschlüsse Sturm gelaufen
-							werden, er bleibt aber bei seinem Vorsatz, fortzugehen, und trägt mir
-							auf, Dir auch das zu sagen. Morgen, oder sobald er kann, schreibt er
-							selbst, — dann habt Ihr alles aus erster Quelle. — Wehner spielt bei
-							allen Dingen eine etwas fatale Rolle, ist um Platen und Königs wie eine
-							Katze um den heißen Brei. — Somit ist das Nötigste ausgerichtet, —
-							schicke nur gleich die Ouvertüren. — An Frau Schumann schreib' ich
-							morgen und danke ihr für das Medaillon, — wodurch sie mir eine große
-							Freude gemacht, — Joachim wollte meinem letzten Briefe noch von sich
-							Grüße und Worte anfügen, darum hat er sich verzögert, so daß eine Art
-							Konfusion entstanden ist. — Erkläre das also, — jedenfalls aber sage Ihr
-							meine herzlichsten Grüße und vorläufig meinen innigsten Dank! — </p>
+							Ouvertüren „Heinrich“ und „Demetrius“<note>Zwei Ouvertüren von
+								Joachim.</note> herschicken, denn sie sollen <pb facs="#facs_28"
+								n="28"/> übermorgen gemacht werden. — Vorgestern abend also ward
+							Joachim zur Majestät zitiert und von ihr ins Gebet genommen (Platen
+							hatte nämlich Joachims Absicht, Hannover zu verlassen, oben referiert).
+							Es ist eine lange, detaillierte Audienz gewesen, Joachim kam von Hofe
+							erst um halb 10 zu- unserem Silvesterpunsch und erzählte uns die
+							Unterredung haarklein, — ich bedauere, daß Raum und Zeit zu kurz, auch
+							fürchte ich die schönen Joachimschen Antworten nicht ganz treu aus dem
+							Gedächtnis niederschreiben zu können, — sonst lieferte ich Dir gern
+							einen stenographischen Bericht. Der König ist seinerseits milde und
+							gütig, aber künstlerisch — ....... gewesen, — Joachim hat ihm Schlag auf
+							Schlag unumwunden und wahr geantwortet und nichts geschont, aber so
+							schön — wie er eben ist; er weiß mit Königen zu reden. — Die Majestät
+							hat ihm übrigens seine Freimütigkeit nicht übelgenommen, sondern ihn
+							gnädig entlassen, jedoch so, daß alles unentschieden geblieben ist, —
+							als solle Joachim noch reiflich überlegen. Gestern passierte von dorther
+							nichts, — von Düsseldorf her um so mehr und Schöneres durch die Briefe
+							von Ihm und Ihr. — Abends biß Joachim in einen saueren Apfel und spielte
+							in der Oper mit (Robert der Deibel). — Heute morgen kam ein sehr
+							freundlicher, um den Finger zu wickelnder Brief vom Grafen Platen mit
+							dem in letzter Zeit eine Art von gespannten Verhältnis statthatte),
+							worin dieser ihn aufforderte, die Heinrich-Ouvertüre zu probieren, und
+							in einem der nächsten Abonnementskonzerte aufzuführen, — außerdem viel
+							schöne Dinge; er solle im nächsten Konzert wieder spielen, und Schuberts
+							C dur-Symphonie dirigieren, — kurz, er solle schalten und walten usw.
+							Heut abend ist er abermals zum König zitiert wegen Hofkonzert. — Es
+							scheint, als habe die Majestät <pb facs="#facs_29" n="29"/> dem Herrn
+							Grafen sehr bestimmte Weisungen gegeben und als sollte auf Joachims
+							Entschlüsse Sturm gelaufen werden, er bleibt aber bei seinem Vorsatz,
+							fortzugehen, und trägt mir auf, Dir auch das zu sagen. Morgen, oder
+							sobald er kann, schreibt er selbst, — dann habt Ihr alles aus erster
+							Quelle. — Wehner spielt bei allen Dingen eine etwas fatale Rolle, ist um
+							Platen und Königs wie eine Katze um den heißen Brei. — Somit ist das
+							Nötigste ausgerichtet, — schicke nur gleich die Ouvertüren. — An Frau
+							Schumann schreib' ich morgen und danke ihr für das Medaillon, — wodurch
+							sie mir eine große Freude gemacht, — Joachim wollte meinem letzten
+							Briefe noch von sich Grüße und Worte anfügen, darum hat er sich
+							verzögert, so daß eine Art Konfusion entstanden ist. — Erkläre das also,
+							— jedenfalls aber sage Ihr meine herzlichsten Grüße und vorläufig meinen
+							innigsten Dank! — </p>
 						<closer> Gehab Dich wohl! <lb/> Dein, <signed>J. Grimm.</signed>
 						</closer>
 						<postscript>
@@ -2177,64 +2176,62 @@
 						</opener>
 						<p> Schreib uns doch von Dir, und von Schumanns, wenn mehr als eine Woche
 							ohne Nachrichten von Euch ver- geht, so wird Eure Ferne und die Lücke
-							Eures Nichtvorhan- <pb facs="#facs_30" n="30"/> denseins zu fühlbar. —
+							Eures Nichtvorhan- <pb facs="#facs_30" n="30"/>denseins zu fühlbar. —
 							Wie ist ihre Adresse in Holland? — Ich brauche Dir nicht zu sagen, mit
 							welcher hochfreudigen, Teilnahme ich über Deinen Besuch bei Ihm in
 							Endenich las, und wie Er Dich liebt, und daß Du Ihm vorgespielt
-								hast<note type="footnote">Brahms war am 11. Januar bei Schumann
-								gewesen; vier Stunden, durfte er mit ihm zusammen sein und ihm auch
-								vorspielen. Seine Variationen, op. 9, und die Balladen, op.
-								10.</note> — Du Glückseliger, und auch Sein Brief an Dich (für
-							dessen, Mitteilung ich Dir herzlich danke) — und wie herrlich Deine
-							Variationen und Balladen in Ihm wiedergeklungen sind; war das auch nicht
-							anders zu denken, so wurde ich doch vor Freude heiß, als ich Seine
-							schönen Worte darüber las. Ich muß sie (die Balladen und Variationen)
-							oft innerlich singen und Deines Spiels und unserer Verzauberung denken.
-							Aber schreibe, was Du in Deiner Einsamkeit tust, — wie befindet sich
-							Dein Quintett? — Und bringst Du abends die Kinder auch hübsch zu
-								Bett.<note type="footnote">Schumanns Kinder in Düsseldorf.</note> —
-							Und schicke Joachims Ouverturen, ich und er selbst möchten sie gerne
-							haben, — und vergiß nicht, die Nagelschen<note type="footnote"> Nagels
-								Musikverlag in Hannover.</note> Exemplare der Julius
-								Cäsar-Ouverture<note type="footnote">Von Rob. Schumann.</note>
-							beizulegen, wenigstens das vierhändige Arrange- ment, welches noch immer
-							auf Cusikes Namen bei Nagel angekreidet ist. Oder sind darüber andere
-							Verfügungen getroffen? Ich denke, die Arrangements wird Frau Schumann
-							doch wohl nicht behalten. Und wenn Du mir einen aparten Festtag bereiten
-							willst, so schicke mir Deinen D moll-Symphoniesatz — hörst? Willst Du
-							das tun? — Hast Du die Heiling-Arie zu Frl. H. besorgt? — Joachim ist
-							mit seinen Königsgeschichten noch immer nicht in Ordnung und hat
-							stellenweise mehr Ärger, als ihm gut ist; — ich wünschte, er ließe sie
-							alle laufen. — Platen und Fischer sind leider <pb facs="#facs_31" n="31"
-							/> bösartig genug, um noch unter banu banu<note type="footnote">Die
-								häufiger wiederkehrenden Ausdrücke: banu banu oder Banu banist
-								wollen immer etwas bezeichnen, was nicht ganz auf der Höhe oder
-								nicht der Mühe wert ist.</note> zu stehen. Wehners weilen nach
-							viertägiger Abwesenheit wieder hier, — er ist übrigens ein passender
-							Vermittler zwischen Joachim und dem Könige, und hat letzteren manche
-							Schliche der obigen Firma aufgedeckt. — Doch wird Joachim Dir wohl
-							selbst einmal alles schreiben oder erzählen, wenn es ihn nicht ebenso
-							langweilen sollte, wie mich. — Seine Bratschen-Variationen sind über die
-							Maßen herrlich, — voller Sonnenschein, aber ein Gigant ergeht sich
-							darin. Ich freue mich im voraus auf Eure Freude, wenn Ihr sie wieder
-							kennen lernen — und Schumann. In der neunten und zehnten Variation gerät
-							der Kaffeer unter eine ungarische Zigenerbande, kehrt aber gegen Schluß
-							wieder ins allerkafferschste Afrika zurück, — doch Du wirst ja selbst
-							sehen. Ich bin sehr froh, daß ich sie spielen kann. — Was mich betrifft,
-							so habe ich noch immer keine Stunden und übe den ganzen Tag Klavier,
-							anstatt zu komponieren. Mein verkixter Arm störte mich nur drei Tage.
-							Der blödsinnige Nikodemusbrief<note type="footnote">Einen
-								Nikodemus-Brief nannten die jungen Freunde den Brief eines
-								Verlegers, in dem er meist unter schönen Worten bedauert,
-								„augenblicklich geschäftlich so überlastet zu sein, daß er die ihm
-								übersandte Komposition nicht edieren könne“. Wohl abgeleitet von dem
-								Pharisäer Nikodemus, der „bei Nacht“ zu Jesus ging, weil er weder
-								den nötigen Mut noch genügendes Verständnis besaß, um sich
-								öffentlich für den Meister zu erklären.</note> von Kistner an Sie
-							hat mir unbändig-netten Spaß gemacht, es war hübsch, daß Ihr an meine
-							Kollektion dachtet, — ich werde ihr selbst danken — grüße sie mit meiner
-							vollen Ehrerbietung, wenn (Du) ihr schreibst. Apropos — die Hauptsache:
-							Härtels haben mir die <!-- <note type="footnote">Die Fortsetzung fehlt leider.</note>  -->
+								hast<note>Brahms war am 11. Januar bei Schumann gewesen; vier
+								Stunden, durfte er mit ihm zusammen sein und ihm auch vorspielen.
+								Seine Variationen, op. 9, und die Balladen, op. 10.</note> — Du
+							Glückseliger, und auch Sein Brief an Dich (für dessen, Mitteilung ich
+							Dir herzlich danke) — und wie herrlich Deine Variationen und Balladen in
+							Ihm wiedergeklungen sind; war das auch nicht anders zu denken, so wurde
+							ich doch vor Freude heiß, als ich Seine schönen Worte darüber las. Ich
+							muß sie (die Balladen und Variationen) oft innerlich singen und Deines
+							Spiels und unserer Verzauberung denken. Aber schreibe, was Du in Deiner
+							Einsamkeit tust, — wie befindet sich Dein Quintett? — Und bringst Du
+							abends die Kinder auch hübsch zu Bett.<note>Schumanns Kinder in
+								Düsseldorf.</note> — Und schicke Joachims Ouverturen, ich und er
+							selbst möchten sie gerne haben, — und vergiß nicht, die Nagelschen<note>
+								Nagels Musikverlag in Hannover.</note> Exemplare der Julius
+								Cäsar-Ouverture<note>Von Rob. Schumann.</note> beizulegen,
+							wenigstens das vierhändige Arrange- ment, welches noch immer auf Cusikes
+							Namen bei Nagel angekreidet ist. Oder sind darüber andere Verfügungen
+							getroffen? Ich denke, die Arrangements wird Frau Schumann doch wohl
+							nicht behalten. Und wenn Du mir einen aparten Festtag bereiten willst,
+							so schicke mir Deinen D moll-Symphoniesatz — hörst? Willst Du das tun? —
+							Hast Du die Heiling-Arie zu Frl. H. besorgt? — Joachim ist mit seinen
+							Königsgeschichten noch immer nicht in Ordnung und hat stellenweise mehr
+							Ärger, als ihm gut ist; — ich wünschte, er ließe sie alle laufen. —
+							Platen und Fischer sind leider <pb facs="#facs_31" n="31"/> bösartig
+							genug, um noch unter banu banu<note>Die häufiger wiederkehrenden
+								Ausdrücke: banu banu oder Banu banist wollen immer etwas bezeichnen,
+								was nicht ganz auf der Höhe oder nicht der Mühe wert ist.</note> zu
+							stehen. Wehners weilen nach viertägiger Abwesenheit wieder hier, — er
+							ist übrigens ein passender Vermittler zwischen Joachim und dem Könige,
+							und hat letzteren manche Schliche der obigen Firma aufgedeckt. — Doch
+							wird Joachim Dir wohl selbst einmal alles schreiben oder erzählen, wenn
+							es ihn nicht ebenso langweilen sollte, wie mich. — Seine
+							Bratschen-Variationen sind über die Maßen herrlich, — voller
+							Sonnenschein, aber ein Gigant ergeht sich darin. Ich freue mich im
+							voraus auf Eure Freude, wenn Ihr sie wieder kennen lernen — und
+							Schumann. In der neunten und zehnten Variation gerät der Kaffeer unter
+							eine ungarische Zigenerbande, kehrt aber gegen Schluß wieder ins
+							allerkafferschste Afrika zurück, — doch Du wirst ja selbst sehen. Ich
+							bin sehr froh, daß ich sie spielen kann. — Was mich betrifft, so habe
+							ich noch immer keine Stunden und übe den ganzen Tag Klavier, anstatt zu
+							komponieren. Mein verkixter Arm störte mich nur drei Tage. Der
+							blödsinnige Nikodemusbrief<note>Einen Nikodemus-Brief nannten die jungen
+								Freunde den Brief eines Verlegers, in dem er meist unter schönen
+								Worten bedauert, „augenblicklich geschäftlich so überlastet zu sein,
+								daß er die ihm übersandte Komposition nicht edieren könne“. Wohl
+								abgeleitet von dem Pharisäer Nikodemus, der „bei Nacht“ zu Jesus
+								ging, weil er weder den nötigen Mut noch genügendes Verständnis
+								besaß, um sich öffentlich für den Meister zu erklären.</note> von
+							Kistner an Sie hat mir unbändig-netten Spaß gemacht, es war hübsch, daß
+							Ihr an meine Kollektion dachtet, — ich werde ihr selbst danken — grüße
+							sie mit meiner vollen Ehrerbietung, wenn (Du) ihr schreibst. Apropos —
+							die Hauptsache: Härtels haben mir die <!-- <note >Die Fortsetzung fehlt leider.</note>  -->
 							<supplied resp="mg" reason="text missing"
 								source="Johannes Brahms im Briefwechsel mit Joseph Joachim, 1912, S. 86"
 								>Scherzi endlich geschickt, und ich lege sie bei; je ein Exemplar an
@@ -2261,19 +2258,19 @@
 						</postscript>
 						<postscript>
 							<pb facs="#facs_32" n="32"/>
-							<p> Grüße bei Lesers. Und die Kinder nebst Berta.<note type="footnote"
-									>Treue Stütze in Schumanns Hause.</note> Meine
-									Quasi-Cousine<note type="footnote">Die Quasi-Cousine war eine
-									Verwandte des Vetters Wagemann, Namens Agnes Wagemann und ein
-									Mädchen von außerordentlicher Schönheit, dem die jungen Freunde
-									glühend huldigten.</note> singt manches Schumannscher Lied
-								ziemlich hübsch — ich möchte auch Deine von ihr hören, sie kann aber
-								Deine ersten und zweiten Mannskripte nicht lesen und die dritten
-								hab' ich gar nicht. Wenn Du weißt, wo mein kleines vierhändiges
-								Kinderscherzo liegt, so lege es bitte den Ouvertüren bei und schicke
-								es mir her — ich kann mein Brouillon nicht finden und möchte es
-								kopieren lassen, um es in ein Heft Kindereien einzuverleiben. Grüße
-								Allgeyer und wenn Du ihn siehst — B ....... —</p>
+							<p> Grüße bei Lesers. Und die Kinder nebst Berta.<note>Treue Stütze in
+									Schumanns Hause.</note> Meine Quasi-Cousine<note>Die
+									Quasi-Cousine war eine Verwandte des Vetters Wagemann, Namens
+									Agnes Wagemann und ein Mädchen von außerordentlicher Schönheit,
+									dem die jungen Freunde glühend huldigten.</note> singt manches
+								Schumannscher Lied ziemlich hübsch — ich möchte auch Deine von ihr
+								hören, sie kann aber Deine ersten und zweiten Mannskripte nicht
+								lesen und die dritten hab' ich gar nicht. Wenn Du weißt, wo mein
+								kleines vierhändiges Kinderscherzo liegt, so lege es bitte den
+								Ouvertüren bei und schicke es mir her — ich kann mein Brouillon
+								nicht finden und möchte es kopieren lassen, um es in ein Heft
+								Kindereien einzuverleiben. Grüße Allgeyer und wenn Du ihn siehst — B
+								....... —</p>
 						</postscript>
 					</div>
 				</body>
@@ -2784,12 +2781,12 @@
 							Göttinger durch das fruchtlose Subskribieren vom vorigen Mai obstinat
 							geworden sein möchten.<note>Frau Schumann hatte im Mai ein Konzert in
 								Göttingen geben wollen und es im letzten Augenblick absagen
-								müssen.</note> Ich denke aber (und Rit- <pb facs="#facs_47" n="47"/>
-							müller ist derselben Meinung), daß Frau Klara wohl 100 Taler wenigstens
-							einnehmen würde; Ritmüller meint, sie würde gewiß noch mehr machen, wenn
-							Joachim mitkäme. — Ich will Frau Schumann selbst schreiben; laßt mich
-							nur beizeiten wissen, ob Ausfüllummern von etwaigem Gesang nötig sind, —
-							dann will ich ein paar Schumannsche Lieder von Fräulein
+								müssen.</note> Ich denke aber (und Rit- <pb facs="#facs_47" n="47"
+							/>müller ist derselben Meinung), daß Frau Klara wohl 100 Taler
+							wenigstens einnehmen würde; Ritmüller meint, sie würde gewiß noch mehr
+							machen, wenn Joachim mitkäme. — Ich will Frau Schumann selbst schreiben;
+							laßt mich nur beizeiten wissen, ob Ausfüllummern von etwaigem Gesang
+							nötig sind, — dann will ich ein paar Schumannsche Lieder von Fräulein
 								Nöldechen<note>Eine sehr musikalische Dame und intime Freundin von
 								Felix und Nanny Mendelssohn.</note> besorgen lassen. Wenn Joachim
 							mitkommen sollte, so wäre das nicht nötig und jedenfalls unendlich viel
@@ -2848,9 +2845,9 @@
 						<p> Frau Klara trägt mir auf, Dir zu schreiben, daß ihr 20 Sgr. als
 							Eintrittspreis recht ist; Du möchtest doch nichts versäumen, im Anzeigen
 							usw. nichts sparen, damit es voll würde, Frau Schumann hat durch den
-							Flügeltransport doch <pb facs="#facs_49" n="49"/>. mehr Kosten und
-							möchte gern Geld mit nach Berlin nehmen können, und das könnte nur in
-							Göttingen geholt werden, hier geht alles vor der Reise fort. </p>
+							Flügeltransport doch <pb facs="#facs_49" n="49"/> mehr Kosten und möchte
+							gern Geld mit nach Berlin nehmen können, und das könnte nur in Göttingen
+							geholt werden, hier geht alles vor der Reise fort. </p>
 						<p> Willst Du auch wohl so gut sein, zu schreiben, ob Frau Schumann falls
 							sie ihren Flügel nicht mitbringen sollte, einen (leichten) bei
 							Ritmüllers vorfände? Sie muß nämlich ihren eignen nach Göttingen und
@@ -2876,7 +2873,7 @@
 							fahren und dann nach Hamburg. Könntest Du doch dort sein? Ist's nicht
 							möglich? </p>
 						<p> Von dann also schreibe mir nach Hamburg, Lilienstraße 7, junior! <pb
-								facs="#facs_50" n="50"/>.</p>
+								facs="#facs_50" n="50"/></p>
 						<closer> Leb recht wohl, grüße Ritmüllers und absonderlich Dein
 							Vielliebehen. <signed>Johannes Brahms.</signed>
 							<dateline> Okt. 55.</dateline>
@@ -2913,7 +2910,7 @@
 							sonst Angst in der Nacht kriegt. Joachim geht heute abend um 6 Uhr fort.
 							Wieder ein Sommer zu Ende, und wir gehen alle auseinander, Du weißt
 							selbst, mit welchen Empfindungen man das tut. Wieviel schmerzlicher sind
-							sie dies Jahr, von Schumann erfahren wir <pb facs="#facs_51" n="51"/>.
+							sie dies Jahr, von Schumann erfahren wir <pb facs="#facs_51" n="51"/>
 							noch immer nichts Besseres, einmal muß es der Frau auch zu viel werden.
 							Ich denke nicht zu lange und tief darüber nach, sonst möchte ich meine
 							gute Hoffnung und meine Heiterkeit doch verlieren. Es sehnt doch gewiß
@@ -2952,8 +2949,8 @@
 							Deinem Herkommen werden sollte. — Mit Frau Klara ging es hier sehr gut,
 							— ich war recht glückselig und mein Vielliebchen schwärmt. — Heute hatte
 							ich meine 14 tägige Matinée, eine meiner Schülerinnen sang Deine
-							Volkslieder <pb facs="#facs_52" n="52"/>. und „Anklänge“<note>op. 7 Nr.
-								3 und Volkskinderlieder.</note> mit recht inniger Empfindung und
+							Volkslieder <pb facs="#facs_52" n="52"/> und „Anklänge“<note>op. 7 Nr. 3
+								und Volkskinderlieder.</note> mit recht inniger Empfindung und
 							brachte sie zur „seltensten Geltung“ (für Göttingen). — Wenn Du kannst,
 							so komme jedenfalls. — Mir ist es übrigens fast lieber so, — unser
 							Lumpen-Orchester hätte Dich beim ersten Orchesterspiel mehr verwirrt als
@@ -3395,7 +3392,7 @@
 							Buche). — die Messe hätte ich singen lassen, wenn nicht bis jetzt Ferien
 							gewesen wären, die die meisten meiner Sänger zu Hause zubringen. Die
 							Ausführung ist aber fast unmöglich, weil meine Al- <pb facs="#facs_65"
-								n="65"/> tistinnen unmöglich bis g, f und as hinunterkommen können;
+								n="65"/>tistinnen unmöglich bis g, f und as hinunterkommen können;
 							es ist auch barbarisch tief, und wird schwerlich von einem Chore Europas
 							so ausgeführt werden, wie Du's Dir denkest und wünschest: wenn bei Bach
 							(H moll-Messe) und Händel allerdings bisweilen so tiefe Altstellen
@@ -3519,7 +3516,7 @@
 								Joachim<note>Joachim hatte sich für den Sommer 57 als Student an der
 								Georgia Augusta immatrikulieren lassen.</note> (der auf ein paar
 							Tage nach Hannover gereist war) den alten Lind- <pb facs="#facs_69"
-								n="69"/> blad<note>Schwedischer Komponist 1801—78.</note> nebst zwei
+								n="69"/>blad<note>Schwedischer Komponist 1801—78.</note> nebst zwei
 							Töchtern mit, der Euch in Düsseldorf vergeblich gesucht hatte. Da dies
 							nun ein vortrefflicher alter Schwede voll nordischer Treuherzigkeit und
 							immergrüner Musikantenjugend ist, so mochte ich während seines Hierseins
@@ -3833,7 +3830,7 @@
 							Gänge gemacht bei Sternen- und Kometenschein mit elegischer Färbung, und
 							freuen uns, daß es Dir so geht wie uns. Dein Brief wußte nicht recht,
 							auf welchem der drei Blätter des Klees er hängen bleiben sollte, — aus
-							angeborner Gut- <pb facs="#facs_79" n="79"/> mütigteit haben wir zwei
+							angeborner Gut- <pb facs="#facs_79" n="79"/>mütigteit haben wir zwei
 								Isens<note>Grimm wurde von den Freunden Ise(grimm) genannt</note>
 							ihn der Gathe<note>Agathe von Siebold, Tochter des namhaften Gynäkologen
 								Professor von Siebold in Göttingen</note> überlassen. — </p>
@@ -4221,8 +4218,8 @@
 							<salute/>
 						</opener>
 						<p> Besten Dank, Lieber und Liebe, für die schönen Briefe und für die
-							längeren Auslassungen über m. Sachen beson- <pb facs="#facs_91" n="91"/>
-							ders. Ich hätte nur gewünscht, die Rezension dudelte und flötete nicht
+							längeren Auslassungen über m. Sachen beson- <pb facs="#facs_91" n="91"
+							/>ders. Ich hätte nur gewünscht, die Rezension dudelte und flötete nicht
 							auch so angenehm, wie die Werke es tun sollen. Die wenigen Bemerkungen,
 							die anders lauten, sind sehr einfach, richtig, und habe ich mich zu
 							schämen, daß sie nötig waren. Ich schrieb und schickte aber zu eilig und
@@ -4286,7 +4283,7 @@
 							her. Vorgestern spielte ich Mendelssohns D moll-Konzert und H
 							moll-Capric- cio, gestern früh dirigierte ich das G dur-Konzert von
 							Mozart, das ich der Prß. eingeübt hatte und gestern abend die Bach- <pb
-								facs="#facs_93" n="93"/> sche Kantate zum 4. Mal mit Orchester und
+								facs="#facs_93" n="93"/>sche Kantate zum 4. Mal mit Orchester und
 							das Zigeunerleben<note>Zigeunerleben für Chor mit Klavierbegleitung von
 								Rob. Schumann</note> mit Grädeners Instrumenten. Es ist Mittag, mir
 							ist der Sonntagmorgen fürchterlich langweilig gewesen. Miß H. ist hier,
@@ -4388,13 +4385,13 @@
 							Schuberts erstes Impromptu; so ein gutes P'son<note> Scherzhaft für
 								Person</note> wird durch C moll und durch eine vorsingende Stimme
 							und durch eine B dur-Wendung an wer weiß was erinnert. — Wenn
-							unumwundene <pb facs="#facs_96" n="96"/>. Meinung sagen so viel heißt
-							als Schlechtmachen und Dranherumzupfen und Zerren, dann bin ich
-							allerdings nicht imstande unumwunden zu sagen. — Wärst Du da, so würde
-							ich Dir sagen, wo ich gern Oboen und Geigen hätte, oder daß ich auf
-							Seite 6 die zweite Klarinette und das erste Fagott umwechseln würde, —
-							aber all so was ist zu klein und zu banu-banu und schreibt sich nicht in
-							einen Schreibebrief. — Du kannst mir wirklich glauben, daß mich der
+							unumwundene <pb facs="#facs_96" n="96"/> Meinung sagen so viel heißt als
+							Schlechtmachen und Dranherumzupfen und Zerren, dann bin ich allerdings
+							nicht imstande unumwunden zu sagen. — Wärst Du da, so würde ich Dir
+							sagen, wo ich gern Oboen und Geigen hätte, oder daß ich auf Seite 6 die
+							zweite Klarinette und das erste Fagott umwechseln würde, — aber all so
+							was ist zu klein und zu banu-banu und schreibt sich nicht in einen
+							Schreibebrief. — Du kannst mir wirklich glauben, daß mich der
 							Grabgesange tief ergriffen und entzückt hat, von Anfang an, dann Seite 6
 							und 7, Seite 8 und folgende, dann „die Seel', die Seel'“ Seite 12 und 13
 							(daß sie mich an „den Tod, den Tod“ in Bachs Choralkantate ganz
@@ -4697,7 +4694,7 @@
 							bis zum 19. Jan. gegeben sein muß, so bitte ich Dich dringend, — wenn Du
 							mir nicht überhaupt mit Nein antwortest, — mir die Stimmen so bald wie
 							möglich zu schicken, denn ich muß schon in der nächsten Woche mit meinen
-							Mädchen zu studieren an <pb facs="#facs_105" n="105"/>. fangen; kann ich
+							Mädchen zu studieren an- <pb facs="#facs_105" n="105"/>fangen; kann ich
 							sie etwa Mittwoch oder Donnerstag haben? Ist es wahr, daß Joachim im
 							nächsten Konzert sein Violinkonzert spielen wird? </p>
 						<closer> Grüße Ihn recht sehr und sei auf 1860 gegrüßt von <lb/>Deinem
@@ -5183,7 +5180,7 @@
 						<p> Welche Freude mir Deine Serenade, inklusive Dein Meingedenken machte,
 							wirst Du wissen, ohne daß ich Dir's schrieb. Ich dankte Dir sehr dafür —
 							mein Dank fand nur bisher nicht den Weg zum Papier. Das Werk hat mich
-							aber- <pb facs="#facs_120" n="120"/> mals aufs neue sehr vollgemacht, —
+							aber- <pb facs="#facs_120" n="120"/>mals aufs neue sehr vollgemacht, —
 							ich denke, ich riskire's mit meinen Musikern und führe es hier auf. —
 							zuvor aber werde ich Deine zweite Serenade machen, sie wird besser gehn,
 							da meine Bläser gut sind, — die Geiger aber zu wünschen lassen. </p>
@@ -5210,8 +5207,8 @@
 							ist etwas langsamer Natur, und wir müssen Ende nächster Woche die zwei
 							Iphigenienakte aufführen. — </p>
 						<p> Du bist ja doch ein Mensch, der zu schnüffeln und zu finden versteht, —
-							kannst Du mir nicht die Gluckschen Par- <pb facs="#facs_121" n="121"/>
-							tituren (meinetwegen alle) aufsuchen, ich möchte sie mir gar zu gern
+							kannst Du mir nicht die Gluckschen Par- <pb facs="#facs_121" n="121"
+							/>tituren (meinetwegen alle) aufsuchen, ich möchte sie mir gar zu gern
 							kaufen, weiß aber nicht wo, — kannst Du darüber Rat schaffen? — Auch
 							tätest Du mir einen Gefallen, wenn Du mir von Dir Neues und Altes
 							schicktest, namentlich den Frauenpsalm und die Harfenlieder, von deren
@@ -5312,9 +5309,9 @@
 							schicke. </p>
 						<p> Einstweilen muß ich mich genügen lassen, Dir diesen Gruß in Eile zu
 							senden, verhoffe jedoch, Du seiest nicht gar zu schreibfaul, ich bin's
-							nicht, denn ich habe zu viel Sehn- <pb facs="#facs_124" n="124"/>. 111
-							sucht nach meinen Freunden. Dein Bild hat mir große Freude gemacht,
-							leider habe ich kein besseres von mir zum Dank </p>
+							nicht, denn ich habe zu viel Sehn- <pb facs="#facs_124" n="124"/>sucht
+							nach meinen Freunden. Dein Bild hat mir große Freude gemacht, leider
+							habe ich kein besseres von mir zum Dank </p>
 						<closer> Grüße mir Deine Frau, die Kleinen, Bargheer und was sonst gegrüßt
 							sein mag. <lb/> Jägerzeil, Novaragasse 39, II, 2. <lb/> Dahin bitte ich
 							recht bald zu adressieren <lb/> Deinem Freunde <signed>Johannes
@@ -5387,7 +5384,7 @@
 						<p> Aber es wird nicht etwa ein prächtiger Zufall wollen, daß ich Dich auch
 							dort sehen könnte. </p>
 						<p> Ich würde in diesem Fall natürlich auch den Donners- <pb
-								facs="#facs_126" n="126"/> tag daran wenden. Vielleicht — wenigstens
+								facs="#facs_126" n="126"/>tag daran wenden. Vielleicht — wenigstens
 							schreibst Du eine Zeile dahin. </p>
 						<closer> Nun, ich weiß nichts weiter, als daß ich Dich gern sähe und
 							jedenfalls öfter von Dir hören muß. <signed>J.</signed>
@@ -5626,7 +5623,7 @@
 							nachdenklich gemacht, schließlich blieb ein freundliches Gefühl für
 							Euch, und ich wünschte, Ihr möchtet meiner (eben) so gedenken. Rieter
 							läßt uns hoffentlich nicht zu lange warten? Und da Du Deine Vier- <pb
-								facs="#facs_133" n="133"/> händige zu eigen besitzest, so kommt wohl
+								facs="#facs_133" n="133"/>händige zu eigen besitzest, so kommt wohl
 							zugleich das Arrangement?<note>Grimms Suite II in Kanonform für
 								Orchester op. 16 war noch im Druck und sollte im Verlag von J.
 								Rieter-Biedermann erscheinen; Brahms rechnete mit der Partitur wohl
