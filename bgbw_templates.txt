@@ -1,0 +1,46 @@
+Edition Data Model:
+<text>
+     <front>
+        <titlePage/>
+        <div type="preface"/>
+     </front>
+     <group>
+        <text type="letter" n="1">
+           <body>
+              <div/>
+           </body>
+        </text>
+        <text type="letter" n="2">
+           <body>
+              <div/>
+           </body>
+        </text>
+        [...]
+     </group>
+</text>  
+
+------
+
+Letter Template:
+<text type="letter">
+    <body>
+        <div>
+            <opener>
+                <byline/>
+                <date/>
+                >settlement/>
+                <dateline/>
+                <salute/>
+            </opener>
+            <p>
+                [...]
+            </p>
+            <closer>
+                <signed/>
+            </closer>
+            <postscript>
+                <p/>
+            </postscript>
+        </div>
+    </body>
+</text>
