@@ -1,0 +1,11 @@
+Delete Facsimile-Elements
+<facsimile\b[^>]*>.*?<\/facsimile> [replace for null]
+
+Delete Pagebreak-Elements (seperating words)
+-<pb([^>]*)/> [replace for null]
+
+Delete Pagebreak-Elements
+<pb([^>]*)/> [replace for a space]
+
+Delete Whitespace Lines
+\n\s*\n [[replace for null]
