@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bgbw2023mg">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -45,7 +45,7 @@
 					Beispiel des Brahms-Grimm-Briefwechsels</p>
 			</projectDesc>
 			<editorialDecl>
-				<p>Übertragung folgt maßgeblich den ER der WeGA</p>
+				<p>Übertragung folgt maßgeblich den Editionsrichtlinien der WeGA</p>
 			</editorialDecl>
 		</encodingDesc>
 		<profileDesc>
@@ -1717,7 +1717,7 @@
 								ganz erblindete Freundin, von der sie in ihrem Tagebuche schrieb:
 								„Rosalie, meine treue und einzige Freundin .... ich gehe nur mit ihr
 								um .... sie versteht mich ganz“. (Siehe Litzmann: Clara Schumann
-								II.)</note> ist mit Frl. Junge<note> Fräulein Elise Junge, Frl.
+								II.).</note> ist mit Frl. Junge<note> Fräulein Elise Junge, Frl.
 								Lesers Freundin und wie diese Frau Schumann herzlich und unbedingt
 								ergeben.</note> in Ostende. — — An Dich ist in Deiner Wohnung nichts
 							angekommen, weder Brief, noch Paket mit Variationen. — B ..... grüßt
@@ -1731,7 +1731,7 @@
 									namhafter Geiger, von Schumann als Konzertmeister für das
 									Düsseldorfer Orchester gewonnen; später Musikdirektor in Bonn
 									und fleißiger Schriftsteller. (Biographie von Rob. Schumann und
-									„Die Violine und ihre Meister“ usw.)</note> noch Reimers<note>
+									„Die Violine und ihre Meister“ usw.).</note> noch Reimers<note>
 									Reiners, tüchtiger Cellist aus Altona, seit 1851 in
 									Düsseldorf.</note> habe ich finden können.</p>
 						</postscript>
@@ -1798,8 +1798,9 @@
 							Wirtsleute fragen häufig nach Dir und lassen Dich grüßen, — mich füttern
 							sie mit Weintrauben und Freundlichkeit. — </p>
 						<closer> Dein <signed>J. Grimm</signed>
-							<dateline><supplied resp="Maximilian Greshake" reason="written in the postscript"
-									>Hannover den Xten Oktober 54.</supplied></dateline>
+							<dateline><supplied resp="Maximilian Greshake"
+									reason="written in the postscript">Hannover den Xten Oktober
+									54.</supplied></dateline>
 						</closer>
 						<postscript>
 							<p> Schicke mir Noten und Briefe unfrankiert Papenstieg 4. — Und so
@@ -1920,13 +1921,13 @@
 							<byline>J. O. Grimm an Johannes Brahms</byline>
 							<date when="1854-12-08"/>
 							<settlement key="Hannover"/>
-							<dateline>Hannover, Freitag, den — wahrscheinlich 8. Dez.
-								54).</dateline>
+							<dateline>Hannover, Freitag, den — [wahrscheinlich 8. Dez.
+								54].</dateline>
 							<salute>Viellieber Johannes!</salute>
 						</opener>
-						<p> Es wird nachgerade Zeit, etwas über Dich zu erfahren, Du tätest also gut,
-							einmal zu schreiben — oder besser selbst herzukommen, denn was treibst
-							Du in Hamburg? — Ich für meine Person habe oft Stille und laute
+						<p> Es wird nachgerade Zeit, etwas über Dich zu erfahren, Du tätest also
+							gut, einmal zu schreiben — oder besser selbst herzukommen, denn was
+							treibst Du in Hamburg? — Ich für meine Person habe oft Stille und laute
 							Sehnsucht nach Deiner Musik und Dir und möchte, Du säßest am Klavier,
 							während ich auf dem Sofa läge. — Daß und was Dir Schumann<note>Schumann
 								hatte zum ersten Male seit seiner Erkrankung aus Endenich am 15.
@@ -2063,7 +2064,7 @@
 								berichten können.</note> — Mein neues Jahr scheint nicht
 							beneidenswert zu werden — aber einerlei, — man los! — Erinnere die
 							Schumann an das mir zugedachte Medaillon,<note>Das Relief von Rob. und
-								Kl. Schumann von Rietschel</note> im Falle sie in diesen letzten
+								Kl. Schumann von Rietschel.</note> im Falle sie in diesen letzten
 							Tagen nicht daran denken sollte. </p>
 						<p>Ich habe eigentlich für den Augenblick nichts mehr zu sagen, also </p>
 						<closer> Prosit Neujahr! <signed>Dein J. Grimm.</signed>
@@ -2094,7 +2095,7 @@
 								ein echter Kaffer, wir müssen ihn aufnehmen.<note>Dem Kaffern-Bunde,
 									den die schwärmerischen Jünglinge in begeisterter und froher
 									Laune gestiftet, gehörten alle an, die das Höchste in ihrer
-									Kunst geleistet hatten, aber auch nur solche!</note></p>
+									Kunst geleistet hatten, aber auch nur solche!.</note></p>
 						</postscript>
 					</div>
 				</body>
@@ -2314,12 +2315,12 @@
 						<p> Dein Kinderscherzo schicke ich mit, willst Du das Exemplar
 							zurückschicken, es ist nicht Dein. Was arbeitest Du? </p>
 						<p> Schickst Du mir einmal etwas, auch Joachim bitte darum, er möge mir die
-								D moll-Sonate<note>Scheint eine Sonate von Joachim gewesen zu sein,
-								nach dem hohen, Respekt zu urteilen, den Brahms vor Joachimschen
-								Werken hatte und mit dem er augenscheinlich („man wird genug an
-								jedem einzelnen [Satze] haben“ auch dieses erwartete.</note> Satz
-							für Satz, schicken, man wird genug an jedem einzelnen haben. Wenn ich
-							die Balladen drucken lasse, wofür noch nichts getan, dann möchte ich sie
+							D moll-Sonate<note>Scheint eine Sonate von Joachim gewesen zu sein, nach
+								dem hohen, Respekt zu urteilen, den Brahms vor Joachimschen Werken
+								hatte und mit dem er augenscheinlich („man wird genug an jedem
+								einzelnen [Satze] haben“ auch dieses erwartete.</note> Satz für
+							Satz, schicken, man wird genug an jedem einzelnen haben. Wenn ich die
+							Balladen drucken lasse, wofür noch nichts getan, dann möchte ich sie
 							einem „1854ger“<note>Damit meint Brahms Grimm; die beiden Freunde
 								nannten sich 1854ger nach dem in Düsseldorf zusammen verlebten
 								Jahre, wo sie festen Aufenthalt genommen hatten, um Frau Schumann
@@ -2331,8 +2332,9 @@
 						<p> Verzeih die schändliche Schrift, aber Frau Schumann, sitzt unten und
 							entweder sie oder ich — einer von beiden sehnt sich nach dem andern. </p>
 						<closer> Leb wohl <signed>Dein Johannes.</signed>
-							<dateline><supplied resp="Maximilian Greshake" reason="written in the postscript">Ddf.
-									Januar 55.</supplied></dateline>
+							<dateline><supplied resp="Maximilian Greshake"
+									reason="written in the postscript">Ddf. Januar
+								55.</supplied></dateline>
 						</closer>
 						<postscript>
 							<p>Sollte Joachim verreist sein, so breche Frau Schumanns Briefe und
@@ -2375,11 +2377,13 @@
 						</closer>
 					</div>
 					<div type="attached-letter">
-						<opener/>
-						<p> Liebe Freundin! Ich hatte den Brief schon gesiegelt, nun kommt mir dieser
-							und ich muß ihn doch mitschicken. Ich hatte eigentlich sehr auf sechs
-							Louisdor gehofft und vor allem, dem teuren Schumann Ehre zu machen, 's
-							ist nichts mit alten „Weibern und Verlegern“. Soll ich eine
+						<opener>
+							<byline>Johannes Brahms an Clara Schumann</byline>
+						</opener>
+						<p> Liebe Freundin! Ich hatte den Brief schon gesiegelt, nun kommt mir
+							dieser und ich muß ihn doch mitschicken. Ich hatte eigentlich sehr auf
+							sechs Louisdor gehofft und vor allem, dem teuren Schumann Ehre zu
+							machen, 's ist nichts mit alten „Weibern und Verlegern“. Soll ich eine
 							Kinderausgabe machen, — ich habe nicht Lust dazu. Das Quartett mag ich
 							jetzt aber auch nicht fortschicken. </p>
 						<closer>Mich hochachtungsvoll und bestens empfehlend
@@ -2503,7 +2507,7 @@
 								Hannover.</note> — und grüßen sehr stramm. Bald darauf fragt der
 							König Wehner, ob Joachim mit „Demokraten“ Umgang habe. — Wir haben recht
 							lachen müssen, nimm Dich also auch mit Deinem Ungar<note>Der Ungar
-								scheint eine ähnlicher „Demokraten“-Hut gewesen zu sein</note>?) in
+								scheint eine ähnlicher „Demokraten“-Hut gewesen zu sein.</note>?) in
 							acht, wenn Du kommst. — Wie ich mich über die letzten Nachrichten von
 							Herrn Schumann freue, — brauche ich nicht zu versichern, — ich meine den
 							Brief, den wir noch nicht gesehen. — Auf Montag freue ich mich wie ein
@@ -2518,7 +2522,7 @@
 							hast mich sehr, sehr glücklich durch dies freundliche Zeichen gemacht.
 							Grüße die herrliche Frau sehr verehrend, ja und sag Ihr, jene
 								Kistnerei<note>Es scheint sich um einen Nikodemus-Brief, den Frau
-								Schumann erhalten hat, zu handeln</note> sei mir als spaßiges
+								Schumann erhalten hat, zu handeln.</note> sei mir als spaßiges
 							Andenken von ihr und als unschätzbare Rarität in meinen Nikodemibus so
 							viel wertvoller, als sie ihr wertlos ist. </p>
 						<closer> Leb wohl! <signed>Dein Julius.</signed>
@@ -2980,7 +2984,7 @@
 									Briefes, vor allem aber die darin gestellte Frage nach Frau
 									Schumanns Wiener Adresse, läßt darauf schließen, daß es sich um
 									den Januar 1856 handelt, als sich Frau Schumann auf einer
-									Konzertreise nach Wien und Pesth befand</note></dateline>
+									Konzertreise nach Wien und Pesth befand.</note></dateline>
 							<date when="1856-01-08"/>
 							<settlement key="Göttingen"/>
 							<salute>Mein viellieber Johannes,</salute>
@@ -3128,7 +3132,7 @@
 							<salute>Mein lieber Julius,</salute>
 						</opener>
 						<p> Was denkst Du wohl von mir, daß ich gar nicht antworte? Sei nicht bös!
-							Du hättest so gescheut und so ( )<note>Etwa so (liebens- würdig); mann
+							Du hättest so gescheut und so ( )<note>Etwa so (liebenswürdig); mann
 								hatte offenbar vergeblich einen Brief von Grimm erwartet.</note>
 							sein sollen, auch an Frau Klara zu schreiben, dann hättest Du nicht zu
 							warten brauchen. Statt mich zu entschuldigen usw., will ich Dir lieber
@@ -3151,7 +3155,7 @@
 							Sonnabend abend vorschlagen mußte, wieder hinüberzugehn und ihn zu sehn. </p>
 						<p> Jetzt und immer danken wir Gott, daß es geschehen, denn es ist für ihre
 							Ruhe unumgänglich nötig. Sie sah, ihn noch Sonntag, Montag und Dienstag
-							früh. Den Nachmittag um vier starb er.<note>m 29. Juli 56.</note></p>
+							früh. Den Nachmittag um vier starb er.<note>Am 29. Juli 56.</note></p>
 						<p> Ich erlebe wohl nie wieder so Ergreifendes, wie das Wiedersehen Roberts
 							und Klaras. </p>
 						<p> Er lag erst länger mit geschlossenen Augen, und sie kniete, vor ihm, mit
@@ -3205,7 +3209,7 @@
 								erschütternden Ereignisse bedurfte Frau Schumann wie auch Brahms
 								dringend einer gründlichen Erholung; sie reisten deshalb in
 								Begleitung von Schumanns beiden ältesten Söhnen und Brahms Schwester
-								Elise nach der Schweiz. (Siehe Kalbeck I, 294.)</note>
+								Elise nach der Schweiz. (Siehe Kalbeck I, 294.).</note>
 						</p>
 						<p> Schreibst Du Frau Sch. und mir, so tue es nach Ddf., wir gehen bald
 							zurück. </p>
@@ -3216,7 +3220,7 @@
 						</closer>
 						<postscript>
 							<p>Ungeachtet — — — grüße ich Sie und sie herzlichst. Kl. Sch.<note>Von
-									Frau Schumanns Hand Grüße an Grimm und seine Frau</note> Frau
+									Frau Schumanns Hand Grüße an Grimm und seine Frau.</note> Frau
 								Kl. ist so wohl, als man es erwarten, nicht als man es wünschen
 								kann. Ich vergaß, daß Du danach fragen würdest.</p>
 						</postscript>
@@ -3336,7 +3340,7 @@
 							erfahren. Es versteht sich, daß Dir das Imprompt keine Störung,
 							Verwirrung oder Uberladung im Programm verursachen darf.<note>Frau
 								Schumann fügte an dieser Stelle hinzu: „sonst lassen Sie es
-								ja!“</note> Meine Mitwirkung ist leider unnütz, Dir anzubieten,
+								ja!“.</note> Meine Mitwirkung ist leider unnütz, Dir anzubieten,
 							sonst ständen Dir Var(iationen) für 2 Flügel frei. </p>
 						<p> Eine Sonate für Beethoven für Geige und Klavier wäre aber nicht übel,
 							von Joachim und Fr. Sch. Ich komme wohl auch zum Konzert. Morgen sehen
@@ -3714,7 +3718,7 @@
 							Du hast also bei uns das Reich ganz allein, ohne uns zu genieren, noch
 							von uns geniert zu werden. Und wandelt Dich die Lust an, Trio zu
 							spielen, so sind Herner und Bach<note>Ein junger talentvoller Geiger und
-								Schüler Joachims</note> ganz gute Geigen und Cellos. Kommt, dann
+								Schüler Joachims.</note> ganz gute Geigen und Cellos. Kommt, dann
 							Frau Schumann, so ziehst Du in Dein Logis, was nicht zu weit von uns
 							ist, und bist erst recht Dein eigener Herr. — Ich glaube, Du wirst hier
 							gern sein, und müßte mich sehr irren, wenn Du Dich hier nicht frei und
@@ -3764,7 +3768,7 @@
 						<p> Mich hält auch die Rücksicht gegen meine Eltern noch zurück.</p>
 						<p> Aber wie lange das alles? </p>
 						<p> Bargiel<note>Stiefbruder von Frau Schumann und namhafter
-								Komponist</note> wollte über hier nach Göttingen, ich werde <pb
+								Komponist.</note> wollte über hier nach Göttingen, ich werde <pb
 								facs="#facs_77" n="77"/> ihm schreiben, dann laß den Sommer angehen,
 							wann er will (bis jetzt bin ich noch nicht hineingekommen).</p>
 						<p> Denke Dir, Sahr<note>Heinrich von Sahr, Musiker und Studiengenosse
@@ -3831,9 +3835,9 @@
 							freuen uns, daß es Dir so geht wie uns. Dein Brief wußte nicht recht,
 							auf welchem der drei Blätter des Klees er hängen bleiben sollte, — aus
 							angeborner Gut- <pb facs="#facs_79" n="79"/>mütigteit haben wir zwei
-								Isens<note>Grimm wurde von den Freunden Ise(grimm) genannt</note>
+								Isens<note>Grimm wurde von den Freunden Ise(grimm) genannt.</note>
 							ihn der Gathe<note>Agathe von Siebold, Tochter des namhaften Gynäkologen
-								Professor von Siebold in Göttingen</note> überlassen. — </p>
+								Professor von Siebold in Göttingen.</note> überlassen. — </p>
 						<p> Unsere Donnerstage gewinnen jetzt etwas Serapeontisches, wir haben einen
 							Orden gestiftet, den Johanniter-Orden, und jeder muß spielen, so schön
 							wie er kann, mit besonderer Liebe. So hat neulich die Gathe eine
@@ -3846,7 +3850,7 @@
 							so schicke mir das Überflüssige zurück, denn ich möchte gern die „Maria
 							Heimsuchungs"-Kantate singen lassen von meinem halben Chor. — Bei
 							Siebolds ist große Freude: Pemma<note>Agathe von Siebolds Schwester
-								Josephine</note>) hat ein Töchterchen geboren. Wir grüßen Dich alle
+								Josephine.</note>) hat ein Töchterchen geboren. Wir grüßen Dich alle
 							herzlich und schreibe wieder und schicke uns neue Lieder zu unseren
 							Donnerstagen oder vielleicht noch mehr (Serenadensätze oder noch mehr) —
 							wenigstens Briefe — </p>
@@ -3856,11 +3860,11 @@
 							<p>Grüß Bargheer.<note>Konzertmeister, dann Hof-Kapellmeister in
 									Detmold; wurde später Konzertmeister der Philharmonischen
 									Gesellschaft in Hamburg, und starb dort als Professor am 19. Mai
-									1903</note>
+									1903.</note>
 							</p>
 						</postscript>
 					</div>
-					<div type="attached-letter">
+					<div type="writingSession" n="2">
 						<opener>
 							<salute>Lieber Johannes!</salute>
 						</opener>
@@ -3888,13 +3892,13 @@
 						</opener>
 						<p> Nun ist es endlich Abend oder eigentlich Nacht geworden, ich bin allein
 							und ungestört und kann Dir, liebstes Kleeblatt<note>Agathe von Siebold,
-								Grimm und Frau</note> schreiben. — </p>
+								Grimm und Frau.</note> schreiben. — </p>
 						<p> Viel Neues wird's nicht werden. — </p>
 						<p> Es läuft bei mir alles in Gedankenstriche aus — </p>
 						<p> Hier ist wieder was zu rezensieren. — </p>
 						<p> Ich muß den Brautgesang<note>Eine ungedruckt gebliebene Komposition für
 								Solo, Frauenchor und Orchester. (Näheres darüber siehe Kalbeck I,
-								386.)</note> gleich wieder haben. Ise muß sich Sonntag daran machen
+								386.).</note> gleich wieder haben. Ise muß sich Sonntag daran machen
 							und den nächsten Tag zurückschicken. Umgehend, bitte ich. </p>
 						<p> Und dann mit der Serenade und mit Rezensionen. Weitläufigen und klaren.
 							Philisterei vergesse ich. Gefallen ihm all die Neuigkeiten gar nicht,
@@ -3938,7 +3942,7 @@
 							Könnte ich gelaufen kommen, da hörtet Ihr öfter von mir. </p>
 						<pb facs="#facs_82" n="82"/>
 						<p> Das Hoffräulein ist abgerutscht und seitdem wird viel musiziert. Meine
-							hohe Schülerin<note>Prinzessin Friederike</note> macht mir die größte
+							hohe Schülerin<note>Prinzessin Friederike.</note> macht mir die größte
 							Freude, sie ist merkwürdig weiter gekommen. Es ist wirkliches
 							Musizieren, ihr Unterricht zu geben. Manchmal kann sie mit einem so
 							rührenden Ausdruck spielen, daß man eben nichts zu sagen hat.</p>
@@ -3974,7 +3978,7 @@
 							<salute>Lieber Johannes! —</salute>
 						</opener>
 						<p> Deine schreibende Liebende <note>Die Liebende schreibt, op. 47 Nr.
-								5</note> hat so viel schöne Empfindungen, daß sie die wärmste
+								5.</note> hat so viel schöne Empfindungen, daß sie die wärmste
 							Gegenliebe finden muß, besonders wo ihre Tränen trocknen und sie dann im
 							Lispeln des Liebewehens immer inniger um ein Zeichen bittet. — </p>
 						<p> Ich möchte Dir noch einiges bemerken, wenn Du das wärst, schriftlich
@@ -3998,7 +4002,7 @@
 						<p> Wenn Du nämlich kommst, so müssen zwei Konzerte von <pb facs="#facs_84"
 								n="84"/> Stapel, — das eine womöglich in der Kirche, und zwar die
 							Choral-Kantate und die erwähnte C moll.<note>Es handelt sich um Kantaten
-								von Joh. Seb. Bach</note> Dann spielst Du Orgel. — Das zweite würde
+								von Joh. Seb. Bach.</note> Dann spielst Du Orgel. — Das zweite würde
 							folgendes Programm haben (für gute Bläser sorge ich, und Bargheer's,
 							Herner, Bach müssen auch kommen) (auch bekommen wir einen schönen
 							Tenor). </p>
@@ -4008,9 +4012,9 @@
 									Komponisten) (Du hast dann Zeit, sie ordentlich zu studieren,
 									und die Harzer<note>Grimm nahm für seine Konzerte zu den in
 										Göttingen vorhandenen Streichern die Bläser der Clausthaler
-										Stadtkapelle</note> blasen wirklich nicht übel.) — </item>
+										Stadtkapelle.</note> blasen wirklich nicht übel.) — </item>
 								<item n="2"> Irgend ein schönes Gesangstück für Bertha.<note>Berta
-										Wagner, später die Frau Bargheer's</note>
+										Wagner, später die Frau Bargheer's.</note>
 								</item>
 								<item n="3"> Konzert C moll von Mozart, gesp. v. Joh. Brahms </item>
 								<item n="4"> Akt III aus Armide v. Gluck oder Szenen aus Iphigenie
@@ -4021,7 +4025,7 @@
 							überlegen. </p>
 						<p> Die liebe Bertha beklagt sich, daß sie nichts von Dir hat, und
 							behauptet, Du habest ihr den Falkenstein<note>Das Lied vom Herrn von
-								Falkenstein, op 43 Nr. 4</note> versprochen, wovon ich nichts weiß,
+								Falkenstein, op 43 Nr. 4.</note> versprochen, wovon ich nichts weiß,
 							— die Gathe gibt ihn natürlich nicht heraus. Die Gathe ist enorm fleißig
 							und wird wirklich musikalischer, ich habe immer häufiger das Gefühl, als
 							wüßte sie allmählich, wozu sie den Mund aufmacht. Und spielen tun wir
@@ -4056,7 +4060,7 @@
 						</opener>
 						<p>Vielen Dank für Deinen lieben Brief. Hier denn einstweilen etwas, damit
 							ich bald wieder einen bekomme. Die übrigen Sätze dieser
-								Serenade<note>Serenade (D dur) für Orchester, op. 11</note> sind
+								Serenade<note>Serenade (D dur) für Orchester, op. 11.</note> sind
 							noch zu sehr in Unordnung, auch habe ich anderes, was mich beschäftigt.
 							Wie mage der Klang sein? Soll ich weiter schreiben? Erscheine Dir nicht
 							wieder ledern und pedantisch, denn davon habe ich nichts. Auch
@@ -4089,10 +4093,10 @@
 						<p> Aber einen Bogen kann ich noch anfangen, um zu melden, daß ich für Sie
 							leider nichts weiß. Jetzt wollen wir das Höllenspiel<note>Ein
 								Gesellschaftsspiel, das Brahms gern mit seinem „Kleeblatt"
-								spielte</note> anfangen, damit die Schreibelust bleibt. Warum kann
+								spielte.</note> anfangen, damit die Schreibelust bleibt. Warum kann
 							ich Euch keine Serenade schicken. Ihr schreibt viel <pb facs="#facs_87"
 								n="87"/> angenehmer wie Euer Mann und v. Fr.<note>Noch öfter
-								wiederkehrende Abkürzung für „Mann und väterlicher Freund”</note>
+								wiederkehrende Abkürzung für „Mann und väterlicher Freund”.</note>
 							und leider viel seltener. v. Meysenhug fühlt große Zuneigung zu Tante
 							Gur und hat überhaupt ganz entzückt über all die schwarzen Augen und
 							Haare geschrieben, die er in Göttingen gesehen: habe (an seine Mutter
@@ -4106,7 +4110,7 @@
 						<p> Gurs Eltern grüße ich herzlichst. Ich hoffe, Ihr habt das immer von
 							selbst bestellt?! Auf einem Flügel vom Papa lass' ich mir vorspielen von
 							der Frau von Donop.<note>Frau Hofjägermeister von Donop in
-								Detmold</note> Er klingt sehr gut und wird von mir geliebkost, als
+								Detmold.</note> Er klingt sehr gut und wird von mir geliebkost, als
 							ob er fühlen könnte. </p>
 						<closer> Herzlich der <signed>Eure J. Br</signed>
 						</closer>
@@ -4162,7 +4166,7 @@
 							durchgesehen und den „Damens” Gathe und Gur vorgespielt werden. Das ist
 							nun geschehen, und sie finden ihn herrlich, wonnig und frisch usw., ich
 							auch, — aber die Uhlandschen beiden Lieder<note>Scheiden und Meiden. In
-								der Ferne. op. 19 Nr. 2 und 3</note> haben so stark gewirkt und mein
+								der Ferne. op. 19 Nr. 2 und 3.</note> haben so stark gewirkt und mein
 							Herz erfüllt, daß in diesem Augenblick fürs Brautlied nicht mehr viel
 							Platz ist; sowohl Wort wie Weise ist in den Liedern zu ergreifend, um
 							einen in gleichmütiger Stimnung ins gebenedeite Haus<note>Im
@@ -4171,7 +4175,7 @@
 								muß es erblühn.”</note> eintreten zu lassen. — Ich freue mich sehr
 							drauf, wenn die Gathe sie wird ordentlich singen können nebst dem E dur
 							und dem Ständchen.<note>Das E dur-Lied ist wahrscheinlich: Trennung, op.
-								4 Nr. 5; das Ständchen, op. 14 Nr. 7</note> — Den Brautgesang hätte
+								4 Nr. 5; das Ständchen, op. 14 Nr. 7.</note> — Den Brautgesang hätte
 							ich lieber noch hierbehalten, um ihn abzuschreiben und einzustudieren;
 							wir können ihn hier ganz gut exekutieren, — aber Deine ungemütliche Hast
 							läßt mir dazu keine Zeit. — Was die Instrumentierung betrifft, so sehe
@@ -4232,7 +4236,7 @@
 						<p> Ich habe neulich die Kantate von Bach mit Instrumenten gemacht. Jetzt
 							wird eine andere (ich hatte viel Bekümmernis) einstudiert. </p>
 						<p> Die Hälfte meiner Zeit ist Gott sei Dank vorüber, die
-								Prß.<note>Prinzessin Friederike</note> hat's mir schon manchmal mit
+								Prß.<note>Prinzessin Friederike.</note> hat's mir schon manchmal mit
 							Seufzen erzählt. </p>
 						<p> Das ist die Einzige, nach der ich frage und die auch nach mir frägt,
 							wenn ich Bargheer ausnehme. Mit Eurem Generalbaßlernen scheint's mir
@@ -4273,7 +4277,7 @@
 						</opener>
 						<p>Ich will doch die Kinderlieder<note>Volks-Kinderlieder mit hinzugefügter
 								Klavierbegleitung. Den Kindern Robert und Klara Schumanns
-								gewidmet</note> schicken und ein Manuskript beilegen, damit die
+								gewidmet.</note> schicken und ein Manuskript beilegen, damit die
 							Sendung nach etwas aussieht. Jedes für sich wäre nicht das Porto wert
 							wohl. Mein Grabgesang geht sehr langsam. Daß ich keine Choral- oder
 							Volksmelodie benutzt habe, brauche ich Dir nicht erst zu sagen. </p>
@@ -4285,7 +4289,7 @@
 							Mozart, das ich der Prß. eingeübt hatte und gestern abend die Bach- <pb
 								facs="#facs_93" n="93"/>sche Kantate zum 4. Mal mit Orchester und
 							das Zigeunerleben<note>Zigeunerleben für Chor mit Klavierbegleitung von
-								Rob. Schumann</note> mit Grädeners Instrumenten. Es ist Mittag, mir
+								Rob. Schumann.</note> mit Grädeners Instrumenten. Es ist Mittag, mir
 							ist der Sonntagmorgen fürchterlich langweilig gewesen. Miß H. ist hier,
 							ich bin noch nicht dazu gekommen, sie kennen zu lernen. Morgen abend
 							wird's wohl werden. Sie brennt sehr darauf, sagt sie. Sie scheint
@@ -4293,7 +4297,7 @@
 								Dirichlet<note>Schwester Felix Mendelssohns und Fanny Hensels,
 								Gattin des ausgezeichneten Mathematikers und Göttinger Professors
 								Dirichlet. Weder Brahms noch Frau Dirichlet wollte es glücken, sich
-								freundlich zueinander zu stellen</note> könnte ich mich doch wohl
+								freundlich zueinander zu stellen.</note> könnte ich mich doch wohl
 							beliebt machen, wenn sie wüßte, daß ich beide Konzerte, das Rondo in Es
 							und Capriccio in h hier gespielt und die Hofdamen damit entzückt habe.
 							Ich bin sehr melancholisch. </p>
@@ -4331,14 +4335,14 @@
 							sich wohl, mir Grobheiten zu schreiben. Ich hatte gestern Brief von
 								David,<note>Ferdinand David, Konzertmeister am Gewandhaus-Orchester
 								in Leipzig, eine sehr angesehene und einflußreiche
-								Persönlichkeit</note> der sich auf mein Kommen freut, nächstens wird
+								Persönlichkeit.</note> der sich auf mein Kommen freut, nächstens wird
 							eine Einladung vom Komitee kommen oder nicht. David hat von meiner
 							Serenade gehört und will auch die. Ich schreibe Euch, wenn was vom
 							Leipzig kommt, denn mich interessiert nicht bloß das nach Leipzig gehen,
 							sondern auch das von Göttingen gehen. </p>
 						<p> Sie überschütten mich nicht grade mit Briefen, liebe Phil, ich hörte
 							gern mehr. Der kleine Hofmarschall<note>Damit ist der junge Herr von
-								Meysenbug gemeint</note> ist wohl sehr Ihr Liebling? Da muß
+								Meysenbug gemeint.</note> ist wohl sehr Ihr Liebling? Da muß
 							unsereiner sich wohl zusammennehmen und das nächste Mal alle bei sich
 							habende Liebenswürdigkeit ausbreiten und zu dero Füßen legen? </p>
 						<p> Ich habe keine Zeit mehr. </p>
@@ -4358,7 +4362,7 @@
 							<salute/>
 						</opener>
 						<p> Längst hätte ich Dir geschrieben und den Grabgesang<note>Begräbnisgesang
-								für Chor und Blasinstrumente, op. 13</note> zurückgeschickt, aber es
+								für Chor und Blasinstrumente, op. 13.</note> zurückgeschickt, aber es
 							war eine zu heiße Woche und Agathe <pb facs="#facs_95" n="95"/> bat, ihn
 							zu hören. Hier ist es gar trist. Kaum erholte sich Gur von der Grippe,
 							so legte sich Gathe hin, heut ist sie wieder auf; ich komme eben von ihr
@@ -4370,20 +4374,20 @@
 							Nervenschlag befallen, Mendelssohn und Fanny Hensel sind beide daran
 							gestorben — nun liegt sie bald zwei Tage im Starrkrampf besinnungslos
 							und atemlos, nur bisweilen krampfhaft atmend. Hasse und
-								Baum<note>Berühmte Göttinger Mediziner</note> erklären, sie müßte
+								Baum<note>Berühmte Göttinger Mediziner.</note> erklären, sie müßte
 							sterben, und erwarten jeden Augenblick den Tod. Stelle Dir Dirichlets
 							alte 90 jährige Mutter vor, den Tod beider Kinder vor Augen? — Wir alle
 							sinde wie gelähmt, es ist zu grauenvoll. — Wäre nur die Gathe erst
 							wieder wohl, sie hustet sehr und kann nicht daran denken, diese Woche
 							auszugehn oder zu musizieren oder was zu hören. In der vorigen Woche
-							haben wir den 3. Akt aus Armida<note>von Gluck </note> im Verein
+							haben wir den 3. Akt aus Armida<note>von Gluck .</note> im Verein
 							gemacht, mit verstärktem Streichquartett, Gathe Armide, Sophie B. der
 							Haß. — Dein Grabgesang ist herrlich — Du hältst mir aber den Mund zu,
 							Dir's zu sagen, zu rezensieren verstehe ich nicht, besonders schriftlich
 							nicht, — er ist herrlich und drückt immer tiefer auf mich ein. Pine Gur
 							rezensiert besser, sie sagt, ein paar Stellen erinnern sie stets an
 							Schuberts erstes Impromptu; so ein gutes P'son<note> Scherzhaft für
-								Person</note> wird durch C moll und durch eine vorsingende Stimme
+								Person.</note> wird durch C moll und durch eine vorsingende Stimme
 							und durch eine B dur-Wendung an wer weiß was erinnert. — Wenn
 							unumwundene <pb facs="#facs_96" n="96"/> Meinung sagen so viel heißt als
 							Schlechtmachen und Dranherumzupfen und Zerren, dann bin ich allerdings
@@ -4450,7 +4454,7 @@
 							wenn Ihr einmal mit ihm zusammen seid. Samson ist nicht hier, Wenn du
 							Dich aber an Theodor Avé Lallement in Hamburg <pb facs="#facs_98" n="98"
 							/> (St. Georg, Hühnerposten) wendest, so verschafft dieser sie Dir gern.
-							Entweder Grädener oder Grund<note>Musikdirektor in Hamburg</note> hat
+							Entweder Grädener oder Grund<note>Musikdirektor in Hamburg.</note> hat
 							ihn nämlich, Tu es dreist. Meysenbug sage doch meinen Dank für seinen
 							Brief. Wenn er nicht zu früh kommt, so antworte ich auch. </p>
 						<p> Ich kann wirklich nicht mehr schreiben, Freitag will ich H moll-Konzert
@@ -4465,7 +4469,7 @@
 						</closer>
 						<postscript>
 							<p> Über Joachims Konzert-Adagion<note>Die Romanze (Andante) aus dem
-									Ungarischen Konzert</note> habe ich mich sehr gefreut. Ja, wer
+									Ungarischen Konzert.</note> habe ich mich sehr gefreut. Ja, wer
 								so tüchtig wäre! Von Bach und Frau Dirichlet hörte ich. Es ist
 								traurig. Ist der Professor auch tot? </p>
 							<p> Nachträglich ein Brief. Vielen Dank für die letzte freundliche
@@ -4502,7 +4506,7 @@
 							ich kriege auch sonst Angst um ihr junges Leben. </p>
 						<p> Es tut mir leid, Frau Pine, daß aus Ihren freundlichen Absichten mit
 							meinem Kopf<note>Soviel zu erfahren war, handelt es sich um ein Bild von
-								Brahms und eine Kopie davon</note> nichts werden kann. Es ist nur
+								Brahms und eine Kopie davon.</note> nichts werden kann. Es ist nur
 							ein sehr schofler Künstler dieses Faches hier, dem ich mich nicht
 							überlassen will, und so brauche ich nicht weiter zu überlegen, ob ich
 							oder Sie. Aber — </p>
@@ -4609,7 +4613,7 @@
 							<dateline>[Hamburg,] Dez. 59.<note> In dem brieflichen Verkehr der
 									beiden Freunde war eine Pause dem Anschein nach vom Januar bis
 									Dezember 59 — eingetreten; die Erklärung dafür siehe
-									Einleitung</note></dateline>
+									Einleitung.</note></dateline>
 							<salute>Lieber Grimm,</salute>
 						</opener>
 						<p>Täglich wurde ich erinnert, Dir das Versprochene zu schicken, habe ich
@@ -4641,7 +4645,7 @@
 						<p> Du willst Deine Sachen baldmöglichst zurück, es tut mir leid, aber ich
 							kann mich noch nicht davon trennen, — täglich fesseln sie mich mehr, die
 							erste Freude an ihnen ist zu heißer Liebe geworden. Der erste
-								Sextettsatz<note>Sextett op. 18, B dur</note> steigt einem sofort in
+								Sextettsatz<note>Sextett op. 18, B dur.</note> steigt einem sofort in
 							die Kehle, bis er einem den Atem versetzt und flutet mit seinen ruhigen
 							Wogen unwiderstehlich höher und höher. Wie kannst Du nur so schöne
 							Durchführungen machen und in so herrlicher Steigerung auf den Anfang
@@ -4650,7 +4654,7 @@
 							einfacher Schönheit, frei und sicher, und merkwürdig ergreifende Musik.
 							— Über die Marienlieder, den Psalm<note>9 Marienlieder für gemischten
 								Chor (a capella) op. 22. Der XIII. Psalm für 3 stimmigen Frauenchor
-								mit Begleitung der Orgel op. 27</note> und die düsteren Gesänge
+								mit Begleitung der Orgel op. 27.</note> und die düsteren Gesänge
 							keine unnützen Worte, — ich möchte alles gern noch etwas behalten und
 							mir täglich spielen, Du brauchst sie ja nicht, — in Hannover gebe ich
 							sie Dir wieder. Du bleibst doch wohl die erste Zeit in Hannover? — Nun
@@ -4663,7 +4667,7 @@
 							möglichst bald ja oder nein, wenn ja, so lege <pb facs="#facs_104"
 								n="104"/> gleich alles bei, denn dann darf ich keine Zeit verlieren.
 							Bist Du zum 7. Jan. in Hannover? Ich käme gern. Leider will
-								Rakemann<note>Ein Pianist</note> auch hin, der sich hier aufhält, um
+								Rakemann<note>Ein Pianist.</note> auch hin, der sich hier aufhält, um
 							— eine Soiree für klassische Klaviermusik zu veranstalten. — Ich staune,
 							wie man in Hamburg couragiös schimpfen lernen kann, das geht bei ihm
 							fortwährend in „Schweinekerlen und Saumusik“. —</p>
@@ -4689,7 +4693,7 @@
 							Maria und Psalm einzustudieren und, wenn sich mein Orchester versammelt,
 							ganz durchzumachen, und — wenn Du nichts dagegen hast — wenigstens zwei
 							der Stücke in das Programm meines Konzertes zu setzen. Ich möchte die C
-								moll-Symphonie<note>von Beethoven</note> riskieren, mit dem übrigen
+								moll-Symphonie<note>von Beethoven.</note> riskieren, mit dem übrigen
 							Programm bin ich noch nicht ganz im klaren. Da das Konzert spätestens
 							bis zum 19. Jan. gegeben sein muß, so bitte ich Dich dringend, — wenn Du
 							mir nicht überhaupt mit Nein antwortest, — mir die Stimmen so bald wie
@@ -4755,7 +4759,7 @@
 						</opener>
 						<p> Beneiden tu' ich Dich, daß Dir Joachims Konzert<note>Am Tage vorher
 								hatte Joachim sein Ungarisches Konzert für Violine und Orchester zum
-								ersten Male öffentlich gespielt</note> noch bevorsteht, — es ist
+								ersten Male öffentlich gespielt.</note> noch bevorsteht, — es ist
 							wundervoll anzuhören, es läßt sich nicht sagen, wie es mich wonnig
 							durchschauert hat. — Wärst Du nur hier! Ich vermisse Dich schmerzlich,
 							und bin sehr betrübt, daß Dein Klavierkonzert so weit hinausgeschoben
@@ -4830,7 +4834,7 @@
 								der „Neudeutschen", besonders von Liszt vertretenen Musikrichtung
 								hin, daß diese eigentlich keine Gegner mehr habe und alle namhaften
 								Musiker von ihr eingenommen und überzeugt seien. (Näheres siehe
-								Kalbeck I 419.)</note> kontra Liszt wird wohl stranden an <pb
+								Kalbeck I 419.).</note> kontra Liszt wird wohl stranden an <pb
 								facs="#facs_109" n="109"/> den Bedenken usw. der sehr ehrenwerten
 							Komponisten. Nicht 20 Namen sind zusammenzubringen. Kannst Du nicht im
 							Sommer einmal herkommen? Schreibe mir doch, wann Du die Noten schickst,
@@ -4897,14 +4901,14 @@
 							Schwierigkeiten hat — sobald die hohen Soprane in Pausen zu Atem kommen,
 							lachen sie über die bassistischen Bestrebungen der zweiten Altistinnen,
 							und diese ärgern sich darüber und verwünschen alle <note>[Notenbeispiel
-								e-f-g-a-h]</note> und sehnen sich nach Noten, die innerhalb der fünf
+								e-f-g-a-h].</note> und sehnen sich nach Noten, die innerhalb der fünf
 							Linien stehen. — Das sind zwar Dummheiten, aber darum wird die
 							Behandlung des 2. Altes doch vorsichtigst zu handhaben sein, wenn die
 							schönen Lieder gern und gut gesungen werden sollen. — Ich kann mir nicht
 							helfen, auch ich selbst mag die tiefe Altlage ebenso ungern durch ein
 							ganzes mehrstrophiges Lied hören, wie ich etwa den Klang eines Chores
 							schön finde, in welchem die Bässe sich ausschließlich unter dem
-								<note>[Notenbeispiel c]</note> bemühen — sie müssen auch frisch
+								<note>[Notenbeispiel c].</note> bemühen — sie müssen auch frisch
 							hinauf und vorzugsweise in ihre Mittellage, was jeder Stimme
 							eigentliches Fahrwasser ist. — Außerdem klingen mir die tiefen Alte auch
 							nicht charakteristisch, wie Du sie Dir vielleicht gedacht — (oder
@@ -4922,7 +4926,7 @@
 							Orgelpartitur noch hier behalte und sie Dir gelegentlich schicke, — die
 							Orgelstimme folgt bei. — Zu den beiden Kanons „Adoramus“, und „O bone
 								Jesu“<note>Aus op. 37. Drei geistliche Chöre für Frauenstimmen ohne
-								Begleitung</note> bin ich mit meinen Mädchen nicht gekommen, hätte
+								Begleitung.</note> bin ich mit meinen Mädchen nicht gekommen, hätte
 							sie aber gern gehört — wenn Du sie nicht brauchst, so schicke sie mir
 							wieder, wenn Du mir nächstens Neues mitteilst, warum ich sehr bitte. Ich
 							bin schon zufrieden mit dem, was „Deine Mädchen abends recht nett und
@@ -4946,7 +4950,7 @@
 							hier und hättest einen von meinen herrlichen Pokalen<note>Grimms Freude
 								und Stolz war seine Sammlung alter, schöner und kunstvoll
 								geschliffener Pokale, aus welchen nur bei feierlichen Gelegenheiten
-								getrunken wurde</note> vor Dir — ich habe jetzt eine Kollektion
+								getrunken wurde.</note> vor Dir — ich habe jetzt eine Kollektion
 							prachtvoller, — nun ist's aber Zeit, Adien zu sagen. — Fast schäme ich
 							mich, ein paar Lieder beizulegen, die ich neuliche unvorbereitet, wie
 							ich war, in mir erwischte. Du bist ein guter Freund und sagst mir, ob
@@ -4985,7 +4989,7 @@
 							Soprane. Hier folgt einiges Neue mit. Möge es einigermaßen gute Aufnahme
 							finden. Hast Du Hörner und vor allen Dingen Luft, so kannst Du die Harfe
 							wohl durch Pf. ersetzen.<note>Es werden die Gesänge für Frauenchor mit
-								Begleitung von zwei Hörnern und Harfe gewesen sein (op. 17)</note>
+								Begleitung von zwei Hörnern und Harfe gewesen sein (op. 17).</note>
 						</p>
 						<p> Vom Ossian und den 2 capella (Frauen-) Chorsachen habe ich keine
 							Stimmen. </p>
@@ -5000,7 +5004,7 @@
 							vormachte! </p>
 						<p> Vor allem ist das deutsche Volkslied in F<note>Dieses Lied und auch das
 								Böhmische und Pilgerlied in op. 11. Agathe von Siebold gewidmet.
-								(Rieter-Biedermann, Leipzig)</note> wirklich sehr reizend, Dein
+								(Rieter-Biedermann, Leipzig).</note> wirklich sehr reizend, Dein
 							bestes Lied. Das böhmische auch und das Pilgerlied gefallen mir wohl,
 							sie kommen wohl nur nicht so recht ganz zum Ausdruck, beim ersten
 							Spielen kommen sie <pb facs="#facs_115" n="115"/> einem etwas weniges
@@ -5067,15 +5071,15 @@
 							Kopf packe ich die Sachen und schicke sie ab, — da ich nicht Zeit habe,
 							mehr zu schreiben. — </p>
 						<p> Vor allem gefällt mir das Fingalstück<note>Gesang auf Fingal aus op.
-								17</note> und das kleine Minnelied<note>Minnelied und die Nonne aus
-								op. 44 Nr. 1 und 6</note> (dem ich nur einen viertaktigen Schluß
+								17.</note> und das kleine Minnelied<note>Minnelied und die Nonne aus
+								op. 44 Nr. 1 und 6.</note> (dem ich nur einen viertaktigen Schluß
 							wünsche). Mit den drei Harfen und Hornliedern kann ich nicht zur
 							Vernunft kommen, sie wollen mir durchaus nicht eingehn, sowie ein paar
 							Jungbrunnenlieder. Dagegen liebe ich sehr die drei „Ich schwingt mein
 							Horn", — „Vergangen <pb facs="#facs_117" n="117"/> ist mir Glück und
 								Heil“<note>Ich schwingt mein Horn, op. 41 Nr. 3, Vergangen ist mir
-								Glück und Heil, op. 48 Nr. 6</note> und das Breutanosche,<note>Das
-								Brentanosche vielleicht „O kühler, Wald“ op. 72 Nr. 3</note> — sowie
+								Glück und Heil, op. 48 Nr. 6.</note> und das Breutanosche,<note>Das
+								Brentanosche vielleicht „O kühler, Wald“ op. 72 Nr. 3.</note> — sowie
 							die Uhlandsche Nonne. Aber das Fingalstück ist herrlich. — </p>
 						<p> Daß Du meine Lieder von damals so freundlich beschriebst, danke ich Dir
 							herzlich. Du bist ein guter Mensch. Die Abfertigung meines hohen „Muts“
@@ -5102,7 +5106,7 @@
 							<pb facs="#facs_118" n="118"/>
 							<p> Apropos. — Ist es wahr, daß Dietrich seine Stelle in Bonn nicht
 								behagt und daß er fortgehen wolle wie mir Frau Platzhof,<note>Eine
-									Sängerin und Schülerin des Schweden Lindblad</note> die hier
+									Sängerin und Schülerin des Schweden Lindblad.</note> die hier
 								war, erzählte)? — Meinst Du wohl, daß das eine Stelle für mich wäre,
 								und wie würde, man dazu gelangen; vielleicht kannst Du gelegentlich
 								mit Dietrich drüber sprechen. — </p>
@@ -5153,7 +5157,7 @@
 							hoffentlich noch nicht gar zu satt gekriegt, und empfängst es mit
 							freundlichem Blick. </p>
 						<p> Ich möchte, es wäre was besseres!<note>Es war die gedruckte Partitur der
-								Serenade op. 11</note>
+								Serenade op. 11.</note>
 						</p>
 						<p> Wie geht's Dir denn bei den Westfalen, jetzt, zu Weihnacht bist Du am
 							Ende gar bei den biertrinkend(en) Westfalen in Göttingen? </p>
@@ -5198,7 +5202,7 @@
 								Lieder und am 16. März 61 auch eine Szene aus dem zweiten Akt der
 								Oper „Iphigenia in Tauris“ von Chr. Gluck in Münster gesungen hat,
 								so scheint die Datierung dieses und des nächsten Briefes wie
-								angegeben wohl berechtigt</note> kommt in einigen Tagen, dann möchte
+								angegeben wohl berechtigt.</note> kommt in einigen Tagen, dann möchte
 							ich gern, daß sie Alceste und Iphigenie sänge, womöglich die ganze Oper;
 							— später kommt Berta Wagner auch (Orpheus). — Ich werde Deine Partituren
 							selbstverständlich wie höchst fremdes Eigentum behandeln, bitte Dich
@@ -5300,11 +5304,11 @@
 							nicht haben kannst, da ich sie nächste Woche an Simrock schicken muß. </p>
 						<p> Dagegen lasse ich Dir nächstens die gedruckten
 								Marienlieder<note>Marienlieder für gemischten Chor (a capella) op.
-								22</note> zukommen und wünsche, daß Du sie Dir vorsingen lässest.
+								22.</note> zukommen und wünsche, daß Du sie Dir vorsingen lässest.
 							Ich weiß nicht, ob Du die neu gedruckten Variationen (3 Hefte)
 								Duette,<note>op. 20. Drei Duette. op 21. Nr. 1. Variationett über
 								ein eigenes Thema, Nr. 2. Variationen über ein ungarisches
-								Thema</note> Lieder hast, aber ich habe sie nicht hier. Doch
+								Thema.</note> Lieder hast, aber ich habe sie nicht hier. Doch
 							verspreche ich Dir 4 händige Variationen, die ich nächstens an Rieter
 							schicke. </p>
 						<p> Einstweilen muß ich mich genügen lassen, Dir diesen Gruß in Eile zu
@@ -5334,10 +5338,10 @@
 						</opener>
 						<p>Ich habe das entschiedenste Bedürfnis, von Dir zu hören und am liebsten
 							hörte ich's von Dir selber. Bist Du nun, wie ich denke, bei der
-								Georgia-Augusta<note>Zu Besuch in Göttinge</note> zu Gast, so tauche
+								Georgia-Augusta<note>Zu Besuch in Göttinge.</note> zu Gast, so tauche
 							allsogleich eine Feder ein und laß mich wissen, wie es aussieht in all
 							den Häusern in die man so gern ging. Auch von jenem Haus und Garten am
-								Tor<note>In welchem Agathe von Siebold wohnte</note> schreib mir. — </p>
+								Tor<note>In welchem Agathe von Siebold wohnte.</note> schreib mir. — </p>
 						<p> Doch tu es bald, ich gehe nächster Tage fort von hier, und es ist leider
 							nicht das Traurigste, daß ich nicht weiß, nach welcher Himmelsgegend. </p>
 						<p> Kommt Joachim auch am Ende nach Göttingen? Icht weiß nur, daß er von
@@ -5346,7 +5350,7 @@
 							abonniert, sonst schicke ich Dir eine Beilage. von mir und lege Mo- und
 								Quartette<note>Wahrscheinlich sind mit „Motette“ op, 29: Zwei
 								Motetten für fünfstimmigen gemischten Chor a capella, mit
-								„Quartette“ die Klavierquartette op. 25 und 26 gemeint</note> bei.
+								„Quartette“ die Klavierquartette op. 25 und 26 gemeint.</note> bei.
 							Grüße Deine Frau herzlichst, und wieviel Kinder hast Du denn jetzt? </p>
 						<pb facs="#facs_125" n="125"/>
 						<p> Wie gern sähe ich Dich, so laß mich wenigstens nicht auf einen
@@ -5379,7 +5383,7 @@
 								erworben hatte im Frühjahre 64 als Beilage zu Nummer 29 der
 								allgemeinen Musik-Zeitung, deren Herausgeber er war, die As
 								moll-Fuge für Orgel veröffentlicht. Näheres siehe Kalbeck I,
-								273</note> Zeitung schicke ich Dir, wenn Du willst. — </p>
+								273.</note> Zeitung schicke ich Dir, wenn Du willst. — </p>
 						<p> Ich gehe morgen nach Hannover und bleibe den Mittwoch da! </p>
 						<p> Aber es wird nicht etwa ein prächtiger Zufall wollen, daß ich Dich auch
 							dort sehen könnte. </p>
@@ -5418,7 +5422,7 @@
 							meine Gur, die liebe Mutter der Kinder, ist auch noch gerade ebenso
 							munter wie sonst, — sie spielt auch Deine vierhändigen
 								Schumann-Variationen<note>op 23. Variationen über ein Thema von Rob.
-								Schumann für Pianoforte zu vier Händen</note> mit mir. — In jenem
+								Schumann für Pianoforte zu vier Händen.</note> mit mir. — In jenem
 							Hause und Garten am Tore hat sich's trüber <pb facs="#facs_127" n="127"
 							/> verändert; der alte Professor ist seit etwa drei Jahren tot. — — — —
 							— Frau von S. lebt in Göttingen einsam; die ältere Tochter Josephine hat
@@ -5458,7 +5462,7 @@
 								Ursi<note>Frau Joachim hieß außer Amalie noch Ursula und da sie den
 								Namen Amalie nicht mochte, antwortete ste einmal auf die Frage, wie
 								sie hieße: „Urschel“; der Name „Ursi“ ist dann von lieben Freunden
-								beibehalten worden, da er ihr lieber als ihr eigener war</note>
+								beibehalten worden, da er ihr lieber als ihr eigener war.</note>
 							sprach vor etwa drei Wochen vom Harz. — Wie gern wüßte ich etwas über
 							Dein Wiener Leben und mehr von Dir, — Du bist auch ganz abscheulich
 							kurz; — Das ist nun nicht anders, — man muß Dich verbrauchen, wie Du
@@ -5492,7 +5496,7 @@
 							Trost“ an Atem zu kurz, aber das mußt Du ihr nicht übel nehmen, zumal
 							sie sonst mit Innigkeit das unsäglich schöne Stück gesungen hat. Die
 							Baritonsoli gelangen unserm Leesemann<note>Assessor Leesemann, ein sehr
-								musikalischer stimmbegabter Dilettant</note> sehr gut. Er hatte
+								musikalischer stimmbegabter Dilettant.</note> sehr gut. Er hatte
 							seine Aufgabe begriffen. — Es ist aber in Deinem Requiem alle, und jedes
 							so grauenhaftschön und à la Michel-Angelo schauderhaft großartig — und
 							wiederum so „liebliche Wohnungen“ — ich glaube, ich kann es nicht, ohne
@@ -5535,7 +5539,7 @@
 							immer vor, als kassiere ich für einen andern so schönen Enthusiasmus
 							ein. Zur Abkühlung hat mir dann Hanslick zwei Blätter Eures
 								Merkur<note>Die in Münster erscheinende Zeitung „Westfälischer
-								Merkur“</note> gegeben, die ihm der Schreiber gesandt hatte. Die
+								Merkur“.</note> gegeben, die ihm der Schreiber gesandt hatte. Die
 							Veranlassung zur „Replik“ war nicht dabei — das englische Pflaster für
 							die argen Risse. </p>
 						<p> Habt Ihr's denn wirklich wiederholt? Mein spätes, schlechtes Schreiben
@@ -5570,11 +5574,11 @@
 							habe ich die Rhapsodie hier vorgeführt, — das altsingende Mädchen,
 							Fräulein Hauptner,<note>Eine äußerst warm empfindende, mit einer
 								wundervollen Altstimme begabte Dilettantin, jetzige Frau Sanitätsrat
-								Dr. Brümmer</note> begriff, was sie zu singen hatte, und sang rein
+								Dr. Brümmer.</note> begriff, was sie zu singen hatte, und sang rein
 							und warm trotz der infamen Intervalle; — der Publikus wußte nicht recht,
 							wie ihm geschah bei dem Entsetzen des Menschenhasses, er war
 							augenscheinlich verblüfft. Desto erquicklicheren Eindruck machten Deine
-								Liebeslieder,<note>op. 52</note> Gur hat die Primastimme überzeugend
+								Liebeslieder,<note>op. 52.</note> Gur hat die Primastimme überzeugend
 							eingeleuchtet und die vier Sänger beiderlei Geschlechts sangen ihren
 							Part mit großem Vergnügen. Ich erlaubte mir, acht Walzer auszuwählen, —
 							alle wären für hier zu viel des Guten gewesen. Acht Tage nach der
@@ -5627,7 +5631,7 @@
 							zugleich das Arrangement?<note>Grimms Suite II in Kanonform für
 								Orchester op. 16 war noch im Druck und sollte im Verlag von J.
 								Rieter-Biedermann erscheinen; Brahms rechnete mit der Partitur wohl
-								gleichzeitig auf den vierhändigen Klavierauszug</note>
+								gleichzeitig auf den vierhändigen Klavierauszug.</note>
 						</p>
 						<p> Ich fand heute bei meiner Rückkehr gar so viel vor und muß für heute
 							aufhören. Gern hörte und schrieb ich öfter, aber es ist wohl eine
@@ -5679,7 +5683,7 @@
 								Kabinettschreiben heißt — „ohne Rücksicht auf die letzten
 								persönlichen Vorgänge.“ — Die Folge war Rudorffs Wiederanstellung
 								und somit eine empfindliche Niederlage Mühlers. — (Näheres siehe
-								„Joseph Joachim“ von Andreas Moser.)</note>
+								„Joseph Joachim“ von Andreas Moser.).</note>
 						</p>
 						<p> Wenn Du kommst, so fahre über Münster, wir haben Dich gar zu lange nicht
 							gesehen — auch nicht gehört — und wir lieben Dich doch immer noch sehr,
@@ -5712,7 +5716,7 @@
 							so herzliche Freude mit Deiner Widmung gemacht — und ich armer
 								Abseiter<note>So nannten die Freunde Brahms — und er selbst sich
 								auch wohl — nach seiner Rhapsodie op. 53: „Aber abseits wer
-								ist's?“</note> lasse es mich vollständig genügen, in stillen Stunden
+								ist's?“.</note> lasse es mich vollständig genügen, in stillen Stunden
 							des alten lieben Freundes zu gedenken. Er sieht es doch nicht, und der
 							Zettel ist nötig, der es ihm sagt. </p>
 						<p> Ich hatte schon gehofft, die Suite bei den Philharmonikern zu hören,
@@ -5784,7 +5788,7 @@
 							einmal bei uns stranden wollte, wäre das für Deinen Abseiter günstig. —
 							Vielleicht werden Dir auch einige Deiner Lieder von Frau
 								Kiesekamp<note>Frau Hedwig Kiesekamp, eine ganz vortreffliche
-								Sängerin in Münster und Schülerin Grimms</note> gesungen, gefallen —
+								Sängerin in Münster und Schülerin Grimms.</note> gesungen, gefallen —
 							ich meine, Du kennst sie? — Doch über alles Nähere läßt sich noch reden.
 							Vor der Hand bitte ich Dich um Worthalten. </p>
 						<closer> Wir grüßen alle herzlich. Dein, <signed>J. O. Grimm.</signed>
@@ -5930,7 +5934,7 @@
 						</closer>
 						<postscript>
 							<p>Verhulst<note>Einer der bedeutendsten holländischen Musiker und
-									Komponisten</note> schwärmt eben entzückt von Dir!</p>
+									Komponisten.</note> schwärmt eben entzückt von Dir!</p>
 						</postscript>
 					</div>
 				</body>
@@ -5975,7 +5979,7 @@
 							gesorgt. Palmbaum-Hotel habe ich Dir wohl empfohlen? Mittwoch 9 Uhr ist
 							die letzte Probe. Erwarte nur nichts Besondres! Nichts als ein klein
 							unschuldiges Stück!<note>Es war die zweite Symphonie (D dur) für großes
-								Orchester op. 73</note>
+								Orchester op. 73.</note>
 						</p>
 						<closer> Herzlich Dein <signed>J. B.</signed>
 						</closer>
@@ -6039,7 +6043,7 @@
 							gemütlich bei Dir sein können.<note>Grimms Antworten auf Brahms
 								wiederholte Einladungen sind verloren gegangen, was sich wohl damit
 								erklären läßt, daß Brahms immer auf Reisen und allzusehr in Anspruch
-								genommen war</note> — </p>
+								genommen war.</note> — </p>
 						<closer> Herzliche Grüße Deines <signed>J. Br.</signed>
 						</closer>
 					</div>
@@ -6061,7 +6065,7 @@
 						<p> Ihr werdet wohl schöne musikalische Tage haben. Es ist ärgerlich, daß
 							man nicht dabei sein kann und daß ihr gar so schreibfaul seid und man
 							nicht ein Wort hört. Ist denn die kleine Darmstädterin<note>Die
-								treffliche Sängerin Auguste Hohenschild</note> auch da? Jedenfalls
+								treffliche Sängerin Auguste Hohenschild.</note> auch da? Jedenfalls
 							grüße ich alles, was in dem behaglichen Kreis sitzt, aufs herzlichste —
 							Frau Kiesekamp für den zierlichen Neujahrsgruß noch besonders. </p>
 						<closer> Ganz Dein <signed>J. Brahms.</signed>
@@ -6114,7 +6118,7 @@
 							meine vierhändige Gattin von gestern, und die beiden ganz dummen Jungen
 							Richard und Zur- Mühlen,<note>Der Sänger Raimund von Zur-Mühlen, der zu
 								jener Zeit in Münster lebte und auch viel im Grimmschen Hause
-								verkehrte</note> — die Kinder auch — Otto eben von Diphteritis
+								verkehrte.</note> — die Kinder auch — Otto eben von Diphteritis
 							genesen. Dein Pate Johannes ist augenblicklich Student der Pharmazie und
 							Chemie in Göttingen. </p>
 						<closer> Lebe wohl! <lb/> Dein <signed>J. O. Grimm.</signed>
@@ -6159,7 +6163,7 @@
 							<salute>Lieber Johannes!</salute>
 						</opener>
 						<p>Bronsart und Frank<note>Hans von Bronsart, Intendant der Königl.
-								Schauspiele in Hannover und E. Frank, Hofkapellmeister ebenda</note>
+								Schauspiele in Hannover und E. Frank, Hofkapellmeister ebenda.</note>
 							haben beide abschläglich geantwortet, das hannoversche Konzert sei schon
 							vom 17. auf 24. Januar verlegt und müsse nun so bleiben, Sonntags probe
 							sei unmöglich. — </p>
@@ -6178,7 +6182,7 @@
 						<postscript>
 							<p> Sollten in Deinen Konzertfahrten Änderungen zu unsern Gunsten
 								eintreten, so melde es und komme zu uns zurück. Mimi<note>Marie
-									Grimm, die jüngste Tochter</note> grüßt. —</p>
+									Grimm, die jüngste Tochter.</note> grüßt. —</p>
 						</postscript>
 					</div>
 				</body>
@@ -6279,7 +6283,7 @@
 							Joachim gewaltig schön gespielt, nebst Ungarischen und seiner
 							ungarischen Romanze, Dein Konzert ist zu herrlich, — auch die Sonate und
 							die neuen Ungarischen,<note>Ungarische Tänze III. und IV. Heft in der
-								Bearbeitung für Violine und Klavier von J. Joachim</note> die wir
+								Bearbeitung für Violine und Klavier von J. Joachim.</note> die wir
 							hier in voller Luft und Bestrickung immer wieder spielen. — Wann kommen
 							endlich <pb facs="#facs_149" n="149"/> Deine Ouvertüren und Trios? — Und
 							wann kommst Du selbst? Würdest Du auch mit unserm Orchester wieder
@@ -6381,11 +6385,11 @@
 							wenigstens eine Programmnummer von einem andern Komponisten. — </p>
 						<p> Soll ich ein Programm vorschlagen: (für 22. oder 29. Januar, also ohne
 							Requiem): </p>
-						<p> 1. Trauerspiel-Ouvertüre<note>Tragische Ouvertüre op. 81</note> — Br.
+						<p> 1. Trauerspiel-Ouvertüre<note>Tragische Ouvertüre op. 81.</note> — Br.
 							<lb/> 2. Klavierkonzert von R. Schumann, vorgetr. von Br. <lb/> 3.
 							Liebeslieder-Walzer — Br. <lb/> 4.
 								Studentenlieder-Ouvertüre<note>Akademische Fest-Ouvertüre op.
-								80</note> — Br. <lb/> Pause. <lb/> 5. C moll-Symphonie von
+								80.</note> — Br. <lb/> Pause. <lb/> 5. C moll-Symphonie von
 							Brahms.</p>
 						<pb facs="#facs_152" n="152"/>
 						<p> Ein anderes: <lb/> 1. Trauerspiel-Ouvertüre — Br. <lb/> 2. Eleg. Gesang
@@ -6515,7 +6519,7 @@
 							tragische Ouvertüre habe ich meinem gefälligen Greve<note>Paul Greve,
 								damals Mitglied des Vorstandes des Musikvereins außerordentlich
 								intelligenter Baritonist und warmer Freund des Grimmschen
-								Hauses</note> zum Verpacken und Versenden übergeben und bin gewiß,
+								Hauses.</note> zum Verpacken und Versenden übergeben und bin gewiß,
 							daß er's ordentlich besorgen wird oder schon besorgt hat. Abgesehen von
 							den häuslichen Festtagen — freue ich mich über die Kundgebungen, gestern
 							und heute von den musikalischen Menschen hier. Du hast einen mächtigen
@@ -6551,16 +6555,16 @@
 							Frau Hedwig einstweilen hieran partizipieren zu lassen! </p>
 						<p> Dann erzähle ich nur in Eile dem Westfälinger, daß ich zweimal Herrn
 								Dohrn<note>Prof. Dr. Anton Dohrn, Gründer und Direktor der
-								Zoologischen Station zu Neapel</note> in Neapel besucht habe auf der
+								Zoologischen Station zu Neapel.</note> in Neapel besucht habe auf der
 							Reise von und nach Sizilien. Daß ich in Rom mit Herrn und Frl.
-								Schücking<note>Levin Schücking, der westfälische Dichter</note>
+								Schücking<note>Levin Schücking, der westfälische Dichter.</note>
 							gespeist habe und wir viel und Gutes von Euch gesprochen haben, daß ich
 							dann aber der philiströse Esel war und nach Hause gereist bin. Das
 							sollte man nämlich nicht, wenn man nicht muß. Es war herrlich. In
 							Sizilien, namentlich Girgenti, Taormina und Palermo. Sonst war ich in
 							Venedig, Pisa, Florenz, Siena und Rom (und Neapel). Nimm auch die besten
 							Wünsche für das beginnende goldene Zeitalter Eurer Ehe<note>Grimms
-								feierten am 8. Mai 81 ihre silberne Hochzeit</note> und laßt mich
+								feierten am 8. Mai 81 ihre silberne Hochzeit.</note> und laßt mich
 							auch erfahren, wie es mit dem Examen ging und wie es mit Barth geht. </p>
 						<closer> Recht von Herzen <signed>Euer J. Brahms.</signed>
 						</closer>
@@ -6719,9 +6723,9 @@
 							herzlich konzertmüde sein und viel lieber ein paar Abende in Deiner
 							behaglichen Ecke sitzen und Marsala trinken und mir von den Tropen
 							vorlesen lassen — als im Rathaussaal<note>In dem alten, herrlichen
-								Rathaussaale fanden die Konzerte und die Proben statt</note> üben! </p>
+								Rathaussaale fanden die Konzerte und die Proben statt.</note> üben! </p>
 						<closer> Laß doch hören, wie sich die Parzen<note>Am 18. November 83 sollte
-								der Gesang der Parzen op. 89 aufgeführt werden</note> bei Euch
+								der Gesang der Parzen op. 89 aufgeführt werden.</note> bei Euch
 							betragen haben, und grüße die Deinen von Herzen, auch Frau Kiesekamp
 							bitte ich zu grüßen von <lb/> Deinem <signed> J. B.</signed>
 						</closer>
@@ -6766,7 +6770,7 @@
 							Sommerreisen, könnt Ihr Euch nicht ein wenig danach richten. Es ist ganz
 							herrlich und behaglich und gemütlich dort, was Ihr als Durchreisende
 							wohl nicht gemerkt habt. Und dann solltet Ihr Briefe aus Manila<note>Wo
-								sich der älteste Sohn Hans im Jahre 82 niedergelassen hatte</note>
+								sich der älteste Sohn Hans im Jahre 82 niedergelassen hatte.</note>
 							im Koffer haben und verlebten wir gar schöne Tage und dächten
 							vergangener schöner Tage! </p>
 						<closer> Herzlichst Euer <signed>J. Brahms.</signed>
@@ -6796,7 +6800,7 @@
 								Brahms. — Die Worte zum Klagegesang waren nicht von Grimm, sondern
 								von Frau Prof. Agnes Lindner, was Brahms freilich nicht wissen
 								konnte, da es auf dem ihm zugesandten Programm nicht besonders
-								bemerkt war</note> sagst, wie Dir ums Herz <pb facs="#facs_162"
+								bemerkt war.</note> sagst, wie Dir ums Herz <pb facs="#facs_162"
 								n="162"/> ist. Den Platz mit Dir zu tauschen, hätte ich nicht so
 							sehr Verlangen gehabt, als zuzuhören und hernach mit nach Hause gehn und
 							bei Euch behaglich lange in der Ecke sitzen. </p>
@@ -6821,10 +6825,10 @@
 							ist: (nämlich Oual.) </p>
 						<p> Den Psalm<note>Grimm hatte Brahms XIII. Psalm instrumentiert, da ihm
 								eine Orgel für die betreffende Aufführung nicht zu Gebot
-								stand</note> habe ich auch vor langer Zeit instrumentiert und
+								stand.</note> habe ich auch vor langer Zeit instrumentiert und
 							aufgeführt. Ich danke für die Ehre und erweise sie mir so oft Du willst! </p>
 						<p> Ein alter Bekannter von Dir, Direktor Wendt,<note>Gymnasialdirektor
-								Prof. Dr. Wendt in Karlsruhe</note> spaziert hier auch herum, er
+								Prof. Dr. Wendt in Karlsruhe.</note> spaziert hier auch herum, er
 							wird Dich jedenfalls sehr grüßen lassen — ich warte nicht ab, bis ich
 							ihn sehe, wir sprechen sehr oft von Dir. </p>
 						<closer> Mit herzlichen Grüßen an Dich und die Deinigen <lb/> Dein alter
@@ -6848,7 +6852,7 @@
 							ganz ausnahmsweise schön und lieblich, wenn Du und gar Pine Gur dabei
 							wären. Du hörst allerlei würdige Chormusik, einen Haufen Motetten von
 							mir und ein Stück, das Dich notwendig interessieren muß. </p>
-						<p> Kennst Du etwa noch ein H dur-Trio<note>op. 8. Neue Ausgabe</note> aus
+						<p> Kennst Du etwa noch ein H dur-Trio<note>op. 8. Neue Ausgabe.</note> aus
 							unserer Jugendzeit, und wärest Du nicht begierig, es jetzt zu hören, da
 							ich ihm — (keine Perrücke aufgesetzt —!) aber die Haare ein wenig
 							gekämmt und geordnet. </p>
@@ -6874,7 +6878,7 @@
 						</opener>
 						<p> Du hast uns mit Deinen freundlichen Worten große Freude und eine
 							ungeahnte Überraschung bereitet — das schönste Geschenk zu meinem
-								Geburtstag<note>6. März</note> (morgen). Wir, <pb facs="#facs_164"
+								Geburtstag<note>6. März.</note> (morgen). Wir, <pb facs="#facs_164"
 								n="164"/> meine Frau, wie ich, danken Dir herzlich und werden
 							natürlich kommen und freuen uns darauf, als wären wir über 30 Jahr
 							jünger. Käme doch Frau Schumann auch nach Köln. — </p>
@@ -6944,7 +6948,7 @@
 							<salute/>
 						</opener>
 						<p> Es ist wohl das erste fröhliche Fest der Art<note>Grimms zweiter Sohn
-								Otto hatte sich im Juni 91 verlobt</note> in Deinem Hause, zu dem
+								Otto hatte sich im Juni 91 verlobt.</note> in Deinem Hause, zu dem
 							ich heute meine herzlichsten Wünsche sende. <pb facs="#facs_166" n="166"
 							/> Möge noch manches folgen, und möchtet Ihr Euch derselben und auch
 							ihrer fröhlichen Folgen noch lange erfreuen. Wegen des v...... Trios muß
@@ -6972,7 +6976,7 @@
 						<p>Ich muß Deiner erhabenen (verflossenen) Freundin eine Dankvisite machen.
 							Das soll vor allem ein Anlaß sein, vorher eine Karte bei Dir
 								abzugeben:<note>Hier ist eine ausgezeichnete kleine Photographie von
-								Brahms etwa in der Größe einer Briefmarke eingeklebt</note> Eben
+								Brahms etwa in der Größe einer Briefmarke eingeklebt.</note> Eben
 							kommt Dein neues Programm! Säße ich doch einmal wieder bei Dir in Deiner
 							behaglichen Ecke! Für wie manches hätte ich zu danken und von wie
 							manchem zu plaudern, von Philippine bis zu den Philippinen. </p>
@@ -7014,7 +7018,7 @@
 						<p> Willst Du uns auf unsere späten Tage noch übermütig machen? — Wir beiden
 							Alten haben uns einen Kuß gegeben, vor Freude über Deine lieben Worte
 							und Dein Bild.<note>Eine sehr schöne Photographie in
-								Kabinettformat</note> Das letztere hat sich Philippine für ihren
+								Kabinettformat.</note> Das letztere hat sich Philippine für ihren
 							Schreibtisch annektiert. — Daß ich Dir mehr von ihr und den Philippinen
 							melden soll, danke ich Dir herzlich. Der Junge ist nun schon über zwölf
 							Jahre unter den leidigen Spaniolen, — hat jetzt seine eigene Apotheke in
@@ -7029,7 +7033,7 @@
 							auch ein guter Junge und soll sich als Arzt ruhig und tüchtig benehmen.
 							Und das (27 jährige) „Kind“ Marie musiziert eifrig und schwärmt für
 							Deine Klavierstücke. — Ich selbst kriege Deine beiden
-								Klarinetten-Sonaten<note>op. 120</note> wahrhaftig noch unter und
+								Klarinetten-Sonaten<note>op. 120.</note> wahrhaftig noch unter und
 							werde nächster Tage meinen Klarinettisten dazu einladen, — Herr Gott,
 							sind sie schön! — </p>
 						<p> Bewahre uns Deine Neigung, Du Gottbegnadeter mit Deiner Sphärenseligkeit
@@ -7076,7 +7080,7 @@
 						<p> Außerdem die besten Wünsche für die neue Würde,<note>Die Zeilen sind auf
 								ein Depeschen-Formular geschrieben, in einem Kouvert abgeschickt,
 								und gratulieren zur Würde eines Großvaters: dem Sohne Otto war am 5.
-								November 95 ein Töchterchen geboren worden</note> die wie Du denken
+								November 95 ein Töchterchen geboren worden.</note> die wie Du denken
 							magst, als für ihn unerreichbar, ganz ungemein imponiert. </p>
 						<closer>Deinem herzlich grüßenden <signed>J. B.</signed>
 						</closer>
@@ -7097,7 +7101,7 @@
 							alles ist, was mich an Dich und Deine liebe Frau erinnert, mit wieviel
 							Wehmut ist es jetzt verschleiert!<note>Am 8. März 96 war Frau Philippine
 								an einer Lungenentzündung und während Grimm selbst an der gleichen
-								Krankheit schwer und besinnungslos danieder lag, gestorben</note> Es
+								Krankheit schwer und besinnungslos danieder lag, gestorben.</note> Es
 							ist doch gar traurig, daß scheiden muß, was so lange und innig verbunden
 							war. Deiner Liebe zu ihr mag es ein ernster Trost sein, daß sie jetzt
 							nicht Deinen Schmerz zu tragen hat, und in Euren Kindern hast Du den
@@ -7124,7 +7128,7 @@
 							<salute>Teurer Freund,</salute>
 						</opener>
 						<p> Deiner war der erste Gruß zum 7.<note>Zum 7. Mai, Brahms
-								Geburtstag</note> und einer der allerwillkommensten; habe tausend
+								Geburtstag.</note> und einer der allerwillkommensten; habe tausend
 							Dank! Wie sehr ich Deine letzte schwere Zeit mitempfunden habe, kann ich
 							Dir nicht herzlich genug sagen — aber auch nicht, wie gern ich dann
 							Deiner Kinder dachte und was sie Dir sind und sein werden. </p>
@@ -7149,7 +7153,7 @@
 							<dateline>Münster i. W., 13. Juli 96.</dateline>
 							<salute>Lieber Brahms!</salute>
 						</opener>
-						<p> Für die Sendung Deines Op. 121<note>Die Ernsten Gesänge</note> danke ich
+						<p> Für die Sendung Deines Op. 121<note>Die Ernsten Gesänge.</note> danke ich
 							Dir herzlich; Du hast mich damit sehr erfreut. Die Gesänge sind <pb
 								facs="#facs_171" n="171"/> herrlich und erschüttern gewaltig, —
 							unbarmherzig in Wort wie Ton; — ich bewundere gleichmäßig, wie und daß
@@ -7179,7 +7183,7 @@
 							<signed>Johannes Brahms.<note>Diese Depesche zum Geburtstage am 6. März
 									97 ist das letzte Zeichen seines treuen Gedenkens; vier Wochen
 									später — am 6. April — senkte man ihn, den so heiß geliebten
-									Freund, zu Wien ins Grab! —</note></signed>
+									Freund, zu Wien ins Grab! —.</note></signed>
 						</closer>
 						<postscript>
 							<p/>
